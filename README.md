@@ -1,59 +1,75 @@
-# 🇧🇩 BanglaVLM
+#   BanglaVLM
 
 ## Vision-Language Fine-Tuning & Multi-Dataset Evaluation for Bengali
 
 <p align="center">
-
-**Parameter-Efficient Bengali Vision-Language Learning with Cross-Dataset Evaluation**
-
+  <strong>Parameter-Efficient Bengali Vision-Language Learning with Cross-Dataset Evaluation</strong>
 </p>
 
 <p align="center">
+  <a href="https://huggingface.co/HuggingFaceTB/SmolVLM2-2.2B-Instruct">
+    <img src="https://img.shields.io/badge/Base%20Model-SmolVLM2--2.2B-purple.svg" alt="Base Model">
+  </a>
+  <a href="https://github.com/huggingface/transformers">
+    <img src="https://img.shields.io/badge/Transformers-HuggingFace-yellow.svg" alt="Transformers">
+  </a>
+  <a href="https://github.com/huggingface/peft">
+    <img src="https://img.shields.io/badge/PEFT-LoRA-green.svg" alt="PEFT LoRA">
+  </a>
+  <a href="https://pytorch.org/">
+    <img src="https://img.shields.io/badge/PyTorch-FP16-orange.svg" alt="PyTorch">
+  </a>
+  <a href="https://github.com/bhaskarpal1707/BanglaVLM">
+    <img src="https://img.shields.io/github/stars/bhaskarpal1707/BanglaVLM?style=flat&logo=github" alt="GitHub Stars">
+  </a>
+</p>
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)]()
-[![PyTorch](https://img.shields.io/badge/PyTorch-FP16-orange.svg)]()
-[![Transformers](https://img.shields.io/badge/🤗%20Transformers-HuggingFace-yellow.svg)]()
-[![PEFT](https://img.shields.io/badge/PEFT-LoRA-green.svg)]()
-[![Model](https://img.shields.io/badge/Base%20Model-Sm olVLM2--2.2B-purple.svg)]()
-
+<p align="center">
+  <a href="https://huggingface.co/bhaskar1707/smolvlm2-bangla-bayanno-lora">🤗 BanglaVLM-v1</a>
+  &nbsp; • &nbsp;
+  <a href="https://huggingface.co/bhaskar1707/smolvlm2-bangla-bayanno-chitrojera-lora">🤗 BanglaVLM-v2</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/bhaskarpal1707/BanglaVLM">💻 Repository</a>
 </p>
 
 ---
 
-# 📌 Table of Contents
+## 📌 Table of Contents
 
-1. [Overview](#-overview)
-2. [Research Motivation](#-research-motivation)
-3. [Research Questions](#-research-questions)
-4. [Research Objectives](#-research-objectives)
-5. [Research Contributions](#-research-contributions)
-6. [System Overview](#-system-overview)
-7. [Base Vision-Language Model](#-base-vision-language-model)
-8. [Datasets](#-datasets)
-9. [Dataset Roles](#-dataset-roles)
-10. [Experimental Design](#-experimental-design)
-11. [Experiment 1](#-experiment-1-baseline-vs-single-dataset-fine-tuning)
-12. [Experiment 2](#-experiment-2-multi-dataset-joint-fine-tuning)
-13. [Experiment 3](#-experiment-3-cross-dataset-generalization)
-14. [Training Methodology](#-training-methodology)
-15. [LoRA Configuration](#-lora-configuration)
-16. [Evaluation](#-evaluation)
-17. [Results](#-results)
-18. [Qualitative Analysis](#-qualitative-analysis)
-19. [Repository Structure](#-repository-structure)
-20. [Predictions](#-predictions)
-21. [Results Directory](#-results-directory)
-22. [Project Summary](#-project-summary)
-23. [Visualizations](#-visualizations)
-24. [Quickstart](#-quickstart)
-25. [Inference](#-inference)
-26. [Hugging Face Models](#-hugging-face-models)
-27. [Reproducibility](#-reproducibility)
-28. [Research Findings](#-research-findings)
-29. [Limitations](#-limitations)
-30. [Future Work](#-future-work)
-31. [Citation](#-citation)
-32. [Author](#-author)
+- [Overview](#-overview)
+- [Research Motivation](#-research-motivation)
+- [Research Questions](#-research-questions)
+- [Research Objectives](#-research-objectives)
+- [Research Contributions](#-research-contributions)
+- [System Architecture](#-system-architecture)
+- [Experimental Pipeline](#-experimental-pipeline)
+- [Base Model](#-base-model)
+- [Datasets](#-datasets)
+- [Dataset Roles](#-dataset-roles)
+- [Experimental Design](#-experimental-design)
+- [Experiment 1](#-experiment-1--baseline-vs-single-dataset-fine-tuning)
+- [Experiment 2](#-experiment-2--multi-dataset-joint-fine-tuning)
+- [Experiment 3](#-experiment-3--cross-dataset-generalization)
+- [Training Configuration](#-training-configuration)
+- [Evaluation Protocol](#-evaluation-protocol)
+- [Quantitative Results](#-quantitative-results)
+- [Cross-Dataset Results](#-cross-dataset-results)
+- [Qualitative Results](#-qualitative-results)
+- [Visualization Gallery](#-visualization-gallery)
+- [Runtime & GPU Analysis](#-runtime--gpu-analysis)
+- [Repository Structure](#-repository-structure)
+- [Prediction Artifacts](#-prediction-artifacts)
+- [Result Artifacts](#-result-artifacts)
+- [Project Summary](#-project-summary)
+- [Quickstart](#-quickstart)
+- [Inference](#-inference)
+- [Hugging Face Models](#-hugging-face-models)
+- [Reproducibility](#-reproducibility)
+- [Key Findings](#-key-findings)
+- [Limitations](#-limitations)
+- [Future Work](#-future-work)
+- [Citation](#-citation)
+- [Author](#-author)
 
 ---
 
@@ -61,67 +77,86 @@
 
 **BanglaVLM** is an end-to-end research project investigating Bengali multimodal Vision-Language Models (VLMs) through **Parameter-Efficient Fine-Tuning (PEFT)** and **multi-dataset evaluation**.
 
-The project uses:
+The project starts from the lightweight yet capable:
 
-> **HuggingFaceTB/SmolVLM2-2.2B-Instruct**
+```text
+HuggingFaceTB/SmolVLM2-2.2B-Instruct
+```
 
-as the base vision-language model and adapts it to Bengali Visual Question Answering (VQA) using **Low-Rank Adaptation (LoRA)**.
+and adapts it to Bengali Visual Question Answering (VQA) using **Low-Rank Adaptation (LoRA)**.
 
-The central goal is not simply to obtain a high score on one Bengali VQA dataset.
+The research is intentionally broader than optimizing a model on a single benchmark. It asks whether a relatively lightweight VLM can:
 
-Instead, BanglaVLM investigates a broader research question:
+- learn Bengali visual-language alignment,
+- improve Bengali answer generation,
+- handle different Bengali VQA formats,
+- transfer knowledge across datasets, and
+- generalize to an unseen Bengali visual benchmark.
 
-> **Can a relatively lightweight Vision-Language Model acquire Bengali multimodal reasoning capabilities through parameter-efficient fine-tuning, while retaining the ability to generalize across different Bengali visual datasets?**
+The complete research progression is:
 
-The project therefore evaluates three increasingly challenging settings:
-
-* **Single-dataset adaptation**
-* **Multi-dataset joint adaptation**
-* **Cross-dataset / zero-shot generalization**
-
-This creates a complete experimental progression from **in-domain learning → multi-task learning → unseen-domain evaluation**.
+```text
+Base SmolVLM2
+      │
+      ▼
+Single-Dataset Bengali Adaptation
+      │
+      ▼
+BanglaVLM-v1
+      │
+      ▼
+Multi-Dataset Bengali Adaptation
+      │
+      ▼
+BanglaVLM-v2
+      │
+      ▼
+Cross-Dataset / Zero-Shot Evaluation
+      │
+      ▼
+BanglaVerse
+```
 
 ---
 
 # 🎯 Research Motivation
 
-Bengali is one of the world's major languages, yet multimodal AI systems remain substantially less developed for Bengali compared with English and other high-resource languages.
+Bengali is a major language, but Bengali multimodal resources and evaluation settings are still comparatively limited.
 
-Modern Vision-Language Models have demonstrated strong capabilities in:
+A general VLM may have strong visual understanding while still producing:
 
-* Image understanding
-* Visual question answering
-* Image description
-* Instruction following
-* Visual grounding
-* Multimodal reasoning
+- English-biased answers,
+- weak Bengali linguistic alignment,
+- generic descriptions,
+- incorrect visual details,
+- dataset-specific behavior, or
+- poor transfer to a different Bengali VQA distribution.
 
-However, these capabilities do not automatically translate into strong Bengali-language performance.
+BanglaVLM therefore studies **language adaptation + visual grounding + cross-dataset generalization** together.
 
-A model may correctly understand the visual content while still producing:
+The project deliberately separates:
 
-* English-biased responses
-* Incorrect Bengali vocabulary
-* Weak Bengali sentence structures
-* Generic descriptions
-* Hallucinated visual information
-* Dataset-specific response patterns
+```text
+In-Domain Performance
+        vs.
+Cross-Dataset Generalization
+```
 
-BanglaVLM investigates whether these limitations can be reduced through **parameter-efficient Bengali adaptation** rather than full model fine-tuning.
+because strong performance on a training distribution does not automatically demonstrate robust Bengali multimodal capability.
 
 ---
 
 # ❓ Research Questions
 
-BanglaVLM is organized around three primary research questions.
-
 ### RQ1 — In-Domain Bengali Adaptation
 
-> Does LoRA fine-tuning on a Bengali VQA dataset significantly improve the Bengali visual-language performance of SmolVLM2-2.2B?
+> Does LoRA fine-tuning on a Bengali VQA dataset improve the Bengali visual-language performance of SmolVLM2-2.2B?
 
-This is evaluated through the transition:
+Evaluated through:
 
-**Base SmolVLM2 → BanglaVLM-v1**
+```text
+Base SmolVLM2 → BanglaVLM-v1
+```
 
 ---
 
@@ -129,533 +164,661 @@ This is evaluated through the transition:
 
 > Does jointly training on structurally different Bengali VQA datasets improve multimodal adaptability compared with single-dataset training?
 
-This is evaluated through:
+Evaluated through:
 
-**Bangla-Bayanno + ChitroJera → BanglaVLM-v2**
+```text
+Bangla-Bayanno + ChitroJera → BanglaVLM-v2
+```
 
 ---
 
 ### RQ3 — Cross-Dataset Generalization
 
-> Can a Bengali VLM trained on existing Bengali visual datasets generalize to an unseen Bengali visual benchmark?
+> Can a Bengali VLM trained on Bengali visual datasets transfer to an unseen Bengali visual benchmark?
 
-This is evaluated using:
+Evaluated using:
 
-**BanglaVerse**
+```text
+BanglaVerse
+```
 
-as an unseen test domain.
+as the unseen test domain.
 
 ---
 
 # 🎯 Research Objectives
 
-The project has four major objectives:
+1. **Bengali Multimodal Adaptation**  
+   Adapt a lightweight VLM for Bengali visual-language interaction.
 
-### 1. Bengali Multimodal Adaptation
+2. **Parameter-Efficient Training**  
+   Use LoRA rather than updating the entire 2.2B backbone.
 
-Adapt a lightweight VLM for Bengali visual-language interaction using parameter-efficient training.
+3. **Multi-Dataset Learning**  
+   Investigate whether different Bengali VQA distributions complement one another.
 
-### 2. Multi-Dataset Learning
+4. **Cross-Dataset Generalization**  
+   Evaluate transfer to an unseen Bengali VQA dataset.
 
-Investigate whether training on multiple datasets with different QA structures improves general-purpose Bengali VQA capability.
-
-### 3. Cross-Dataset Generalization
-
-Measure whether learned Bengali visual-language representations transfer to an unseen dataset.
-
-### 4. Systematic Evaluation
-
-Maintain a complete experimental record containing:
-
-* Predictions
-* Quantitative metrics
-* Runtime information
-* Visualizations
-* Analysis reports
-* Cross-dataset comparisons
+5. **Reproducible Evaluation**  
+   Preserve predictions, metrics, timing, reports, and visualizations.
 
 ---
 
 # 💡 Research Contributions
 
-The project provides the following research-oriented contributions:
-
-### Contribution 1 — Bengali VLM Adaptation
+### 1. Bengali VLM Adaptation
 
 A lightweight VLM is adapted specifically for Bengali multimodal interaction.
 
-### Contribution 2 — Parameter-Efficient Training
+### 2. Parameter-Efficient Fine-Tuning
 
-LoRA is used instead of updating the entire 2.2B-parameter backbone.
+LoRA provides a lightweight adaptation mechanism without requiring full backbone fine-tuning.
 
-### Contribution 3 — Multi-Dataset Training
+### 3. Joint Bengali VQA Training
 
-Bangla-Bayanno and ChitroJera are jointly used to investigate multi-task Bengali visual-language learning.
+Bangla-Bayanno and ChitroJera are jointly used to construct BanglaVLM-v2.
 
-### Contribution 4 — Cross-Dataset Audit
+### 4. Cross-Dataset Audit
 
-BanglaVerse is deliberately used as an unseen evaluation dataset to measure generalization.
+BanglaVerse is used as an unseen benchmark to test transfer.
 
-### Contribution 5 — Reproducible Experiment Organization
+### 5. Reproducible Experiment Organization
 
-Predictions, results, summary reports and visualizations are maintained separately for each experimental stage.
-
----
-
-# 🧠 System Overview
-
-The overall research pipeline can be represented as:
+The repository separates:
 
 ```text
-                         ┌──────────────────────────────┐
-                         │ SmolVLM2-2.2B-Instruct       │
-                         │ Pretrained Vision-Language    │
-                         │ Model                         │
-                         └──────────────┬───────────────┘
-                                        │
-                                        ▼
-                         ┌──────────────────────────────┐
-                         │ Bengali VQA Datasets         │
-                         │                              │
-                         │ • Bangla-Bayanno             │
-                         │ • ChitroJera                 │
-                         │ • BanglaVerse                │
-                         └──────────────┬───────────────┘
-                                        │
-                                        ▼
-                         ┌──────────────────────────────┐
-                         │ Parameter-Efficient Fine-     │
-                         │ Tuning with LoRA              │
-                         └──────────────┬───────────────┘
-                                        │
-                    ┌───────────────────┴──────────────────┐
-                    ▼                                      ▼
-        ┌──────────────────────┐                ┌──────────────────────┐
-        │ BanglaVLM-v1         │                │ BanglaVLM-v2         │
-        │ Bayanno LoRA         │                │ Bayanno + ChitroJera │
-        └──────────┬───────────┘                └──────────┬───────────┘
-                   │                                       │
-                   └────────────────┬──────────────────────┘
-                                    ▼
-                         ┌──────────────────────────────┐
-                         │ Cross-Dataset Evaluation     │
-                         │                              │
-                         │ Bangla-Bayanno               │
-                         │ ChitroJera                   │
-                         │ BanglaVerse                  │
-                         └──────────────┬───────────────┘
-                                        │
-                                        ▼
-                         ┌──────────────────────────────┐
-                         │ Quantitative + Qualitative   │
-                         │ Evaluation                   │
-                         └──────────────────────────────┘
+models
+predictions
+results
+project_summary
+timing
+visualizations
+notebooks
 ```
 
 ---
 
-# 🤖 Base Vision-Language Model
+# 🧠 System Architecture
 
-The project uses:
+```mermaid
+flowchart TD
+    A["SmolVLM2-2.2B-Instruct<br/>Pretrained Vision-Language Model"]
+
+    B["Bengali VQA Data"]
+    B1["Bangla-Bayanno"]
+    B2["ChitroJera"]
+    B3["BanglaVerse<br/>Unseen Evaluation"]
+
+    C["Parameter-Efficient Fine-Tuning<br/>LoRA / PEFT"]
+
+    D["BanglaVLM-v1<br/>Bayanno LoRA"]
+    E["BanglaVLM-v2<br/>Bayanno + ChitroJera LoRA"]
+
+    F["Quantitative Evaluation"]
+    G["Qualitative Evaluation"]
+    H["Cross-Dataset Generalization"]
+
+    A --> C
+    B1 --> C
+    B2 --> C
+    C --> D
+    C --> E
+
+    D --> F
+    E --> F
+
+    D --> G
+    E --> G
+
+    D --> H
+    E --> H
+    B3 --> H
+```
+
+---
+
+# 🧪 Experimental Pipeline
+
+```mermaid
+flowchart LR
+    A["Base VLM"] --> B["Experiment 1"]
+    B --> C["BanglaVLM-v1"]
+
+    C --> D["Experiment 2"]
+    D --> E["BanglaVLM-v2"]
+
+    C --> F["Experiment 3"]
+    E --> F
+
+    F --> G["BanglaVerse<br/>Unseen Benchmark"]
+
+    G --> H["Cross-Dataset Audit"]
+    H --> I["Metrics + Qualitative Analysis"]
+```
+
+### Experimental Story
+
+| Stage | Question | Training | Evaluation |
+|---|---|---|---|
+| **Experiment 1** | Does Bengali fine-tuning help? | Bangla-Bayanno | Bangla-Bayanno |
+| **Experiment 2** | Does joint training help? | Bangla-Bayanno + ChitroJera | Bayanno + ChitroJera |
+| **Experiment 3** | Does it generalize? | Existing trained models | Bayanno + ChitroJera + unseen BanglaVerse |
+
+---
+
+# 🤖 Base Model
 
 ```text
 HuggingFaceTB/SmolVLM2-2.2B-Instruct
 ```
 
-as the base model.
+The base model provides the pretrained multimodal foundation.
 
-SmolVLM2-2.2B provides the multimodal foundation for:
-
-* Image encoding
-* Visual understanding
-* Text generation
-* Instruction following
-* Image-question interaction
-
-Rather than modifying all model parameters, BanglaVLM introduces trainable LoRA adapters.
+BanglaVLM does not attempt to relearn visual understanding from scratch. Instead, it adapts the pretrained model to Bengali visual-language tasks through PEFT.
 
 ---
 
 # 📚 Datasets
 
-Three Bengali multimodal datasets are used.
-
-| Dataset            | QA Pairs | Images | Primary Role                           |
-| ------------------ | -------: | -----: | -------------------------------------- |
-| **Bangla-Bayanno** |   53,817 |  4,673 | Primary training + in-domain benchmark |
-| **ChitroJera**     |   12,231 | 12,231 | Multi-task fine-tuning + benchmark     |
-| **BanglaVerse**    |    1,143 |  1,143 | Unseen zero-shot evaluation            |
-
-The datasets serve deliberately different experimental purposes.
+| Dataset | QA Pairs | Images | Role |
+|---|---:|---:|---|
+| **Bangla-Bayanno** | 53,817 | 4,673 | Primary training + in-domain benchmark |
+| **ChitroJera** | 12,231 | 12,231 | Joint training + benchmark |
+| **BanglaVerse** | 1,143 | 1,143 | Unseen / zero-shot generalization |
 
 ---
 
 ## 🇧🇩 Bangla-Bayanno
 
-**Role:** Primary training dataset.
+Bangla-Bayanno provides rich descriptive Bengali visual QA.
 
-Bangla-Bayanno contains rich descriptive Bengali visual question-answer pairs.
+It is the primary dataset for **BanglaVLM-v1**.
 
-It is used to investigate:
+Its role includes:
 
-* Bengali visual grounding
-* Descriptive generation
-* Object and scene understanding
-* Bengali response quality
-
-It forms the training foundation for **BanglaVLM-v1**.
+- Bengali visual grounding
+- descriptive answer generation
+- natural-scene understanding
+- Bengali VQA adaptation
 
 ---
 
 ## 🖼️ ChitroJera
 
-**Role:** Multi-task training and evaluation.
+ChitroJera provides a structurally different Bengali visual-question distribution.
 
-ChitroJera contains concise visual queries and instruction-following examples.
-
-Its structural difference from Bangla-Bayanno makes it useful for investigating whether joint training improves the model's ability to handle different VQA styles.
+It is introduced in Experiment 2 to test whether joint training improves adaptability.
 
 ---
 
 ## 🌏 BanglaVerse
 
-**Role:** Unseen cross-dataset evaluation.
+BanglaVerse is used as the unseen evaluation benchmark.
 
-BanglaVerse is not used as the primary training source.
-
-Instead, it acts as a stress test for generalization.
-
-The model must therefore transfer:
+The important distinction is:
 
 ```text
-Bengali language knowledge
-          +
-visual understanding
-          +
-instruction following
-          ↓
-new visual-question distribution
+Training datasets
+    ↓
+Bangla-Bayanno + ChitroJera
+
+Unseen evaluation
+    ↓
+BanglaVerse
 ```
 
-without direct training on the evaluation dataset.
+This allows the project to distinguish **memorization / in-domain adaptation** from **cross-dataset transfer**.
 
 ---
 
-# 🧪 Experimental Design
+# 🧪 Experiment 1 — Baseline vs Single-Dataset Fine-Tuning
 
-BanglaVLM consists of three major experiments.
+### Objective
 
-```text
-Experiment 1
-    │
-    ├── Base SmolVLM2
-    └── BanglaVLM-v1
-          │
-          ▼
-    Single-Dataset Adaptation
-
-
-Experiment 2
-    │
-    ├── Bangla-Bayanno
-    └── ChitroJera
-          │
-          ▼
-    BanglaVLM-v2
-          │
-          ▼
-    Multi-Dataset Adaptation
-
-
-Experiment 3
-    │
-    ├── Base SmolVLM2
-    ├── BanglaVLM-v1
-    └── BanglaVLM-v2
-          │
-          ▼
-    BanglaVerse
-          │
-          ▼
-    Zero-Shot Generalization Audit
-```
-
----
-
-# 🧪 Experiment 1: Baseline vs Single-Dataset Fine-Tuning
-
-## Objective
-
-Determine whether Bengali-specific LoRA adaptation improves the base SmolVLM2 model on Bangla-Bayanno.
+Measure the effect of Bengali LoRA adaptation on Bangla-Bayanno.
 
 ### Models
 
 ```text
-Model A → Base SmolVLM2-2.2B-Instruct
+Base SmolVLM2-2.2B-Instruct
+             VS
+BanglaVLM-v1
+```
 
-Model B → BanglaVLM-v1
-           └── LoRA trained on Bangla-Bayanno
+### Training
+
+```text
+Bangla-Bayanno
+      ↓
+LoRA Fine-Tuning
+      ↓
+BanglaVLM-v1
+```
+
+### Result
+
+From the repository's audit CSV:
+
+| Model | Dataset | Exact Match | Normalized EM | ROUGE-L | N |
+|---|---|---:|---:|---:|---:|
+| Base SmolVLM2 | Bangla-Bayanno | 30.67% | 30.67% | 31.22% | 300 |
+| **BanglaVLM-v1** | Bangla-Bayanno | **33.47%** | **33.51%** | **34.17%** | 5,004 |
+
+### Absolute improvement
+
+```text
+Exact Match:
+33.47% - 30.67%
+≈ +2.80 percentage points
+
+Normalized EM:
+33.51% - 30.67%
+≈ +2.85 percentage points
+
+ROUGE-L:
+34.17% - 31.22%
+≈ +2.94 percentage points
+```
+
+---
+
+## Experiment 1 Visual Audit
+
+![Experiment 1 Results](visualizations/experiment1_results.png)
+
+![Experiment 1 Dataset Analysis](visualizations/experiment1_dataset_analysis.png)
+
+![Experiment 1 Qualitative Analysis](visualizations/experiment1_qualitative.png)
+
+<details>
+<summary><strong>🖥️ Experiment 1 GPU Usage</strong></summary>
+
+![Experiment 1 GPU Usage](visualizations/experiment1_gpu_usage.png)
+
+</details>
+
+<details>
+<summary><strong>🔎 Experiment 1 Qualitative Examples</strong></summary>
+
+See the dedicated qualitative examples directory:
+
+[Experiment 1 Qualitative Examples](visualizations/experiment1_qualitative_examples/)
+
+</details>
+
+---
+
+# 🧪 Experiment 2 — Multi-Dataset Joint Fine-Tuning
+
+## Objective
+
+Determine whether jointly training on Bangla-Bayanno and ChitroJera improves multi-task Bengali VQA performance.
+
+### Training
+
+```text
+Bangla-Bayanno
+      +
+ChitroJera
+      ↓
+Joint LoRA Fine-Tuning
+      ↓
+BanglaVLM-v2
+```
+
+---
+
+## Experiment 2 Results
+
+### Bangla-Bayanno
+
+| Model | Exact Match | Normalized EM | ROUGE-L |
+|---|---:|---:|---:|
+| Base SmolVLM2 | 0.00% | 0.00% | 0.23% |
+| BanglaVLM-v1 | **33.47%** | **33.51%** | **34.17%** |
+| BanglaVLM-v2 | 32.33% | 32.37% | 33.11% |
+
+### ChitroJera
+
+| Model | Exact Match | Normalized EM | ROUGE-L |
+|---|---:|---:|---:|
+| Base SmolVLM2 | 0.00% | 0.00% | 0.18% |
+| BanglaVLM-v1 | 3.10% | 3.10% | 5.34% |
+| **BanglaVLM-v2** | **6.29%** | **6.29%** | **9.95%** |
+
+### Interpretation
+
+The joint model does not simply maximize every individual in-domain score.
+
+Instead, the important result is the improved performance on the structurally different **ChitroJera** benchmark:
+
+```text
+BanglaVLM-v1 → 3.10% EM
+BanglaVLM-v2 → 6.29% EM
+```
+
+This represents approximately a **3.19 percentage-point improvement** in Exact Match.
+
+---
+
+## Experiment 2 Visual Audit
+
+![Experiment 2 Model Comparison](visualizations/experiment2_model_comparison.png)
+
+![Experiment 2 Training Curves](visualizations/experiment2_training_curves.png)
+
+![Experiment 2 Data Quality](visualizations/experiment2_data_quality.png)
+
+![Experiment 2 Qualitative Results](visualizations/experiment2_qualitative.png)
+
+<details>
+<summary><strong>🖥️ Experiment 2 GPU Usage</strong></summary>
+
+![Experiment 2 GPU Usage](visualizations/experiment2_gpu_usage.png)
+
+</details>
+
+---
+
+# 🧪 Experiment 3 — Cross-Dataset Generalization
+
+## Objective
+
+Evaluate the Base model, BanglaVLM-v1 and BanglaVLM-v2 across multiple datasets, including the unseen BanglaVerse benchmark.
+
+### Models
+
+```text
+Base SmolVLM2
+BanglaVLM-v1
+BanglaVLM-v2
 ```
 
 ### Evaluation
 
-The models are evaluated on the Bangla-Bayanno test split.
-
-The experiment measures the change in Bengali multimodal performance after adaptation.
-
-### Key Finding
-
-Fine-tuning improves Bengali response quality, including stronger lexical and structural alignment and reduced English bias.
-
----
-
-# 🧪 Experiment 2: Multi-Dataset Joint Fine-Tuning
-
-## Objective
-
-Investigate whether training on structurally different Bengali VQA datasets improves general-purpose multimodal adaptability.
-
-### Training Data
-
 ```text
-Bangla-Bayanno
-       +
-ChitroJera
-       ↓
-Joint Training
-       ↓
-BanglaVLM-v2
+                 ┌── Bangla-Bayanno
+Models ──────────┼── ChitroJera
+                 └── BanglaVerse (UNSEEN)
 ```
 
-### Hypothesis
+---
 
-Joint training may expose the model to:
+# 🌐 Experiment 3 Results
 
-* Different question structures
-* Different answer lengths
-* Different visual concepts
-* Different instruction patterns
-* Different Bengali linguistic formulations
+| Model | Bangla-Bayanno EM | ChitroJera EM | BanglaVerse EM |
+|---|---:|---:|---:|
+| Base SmolVLM2 | 0.00% | 0.00% | 0.00% |
+| BanglaVLM-v1 | **34.20%** | 3.20% | 0.00% |
+| BanglaVLM-v2 | 31.20% | **6.00%** | **0.40%** |
 
-This potentially creates a more flexible Bengali VLM.
+### Normalized Exact Match
 
-### Key Finding
+| Model | Bangla-Bayanno | ChitroJera | BanglaVerse |
+|---|---:|---:|---:|
+| Base SmolVLM2 | 0.00% | 0.00% | 0.00% |
+| BanglaVLM-v1 | **34.20%** | 3.20% | 0.00% |
+| BanglaVLM-v2 | 31.20% | **6.00%** | **0.40%** |
 
-BanglaVLM-v2 maintains strong descriptive capability while improving performance on concise instruction-following style questions.
+### ROUGE-L
+
+| Model | Bangla-Bayanno | ChitroJera | BanglaVerse |
+|---|---:|---:|---:|
+| Base SmolVLM2 | 0.06% | 0.13% | 0.55% |
+| BanglaVLM-v1 | **34.73%** | 5.17% | 0.37% |
+| BanglaVLM-v2 | 31.93% | **9.36%** | **1.56%** |
 
 ---
 
-# 🧪 Experiment 3: Cross-Dataset Generalization
+## 🔎 Cross-Dataset Interpretation
 
-## Objective
+The experiment reveals an important trade-off.
 
-Evaluate whether Bengali multimodal knowledge learned from the training datasets transfers to an unseen dataset.
+### BanglaVLM-v1
 
-### Evaluation Setup
+BanglaVLM-v1 is strongest on the Bangla-Bayanno distribution:
 
 ```text
-                  ┌───────────────────┐
-                  │ Base SmolVLM2     │
-                  └─────────┬─────────┘
-                            │
-                            ▼
-                       BanglaVerse
-
-
-                  ┌───────────────────┐
-                  │ BanglaVLM-v1     │
-                  └─────────┬─────────┘
-                            │
-                            ▼
-                       BanglaVerse
-
-
-                  ┌───────────────────┐
-                  │ BanglaVLM-v2     │
-                  └─────────┬─────────┘
-                            │
-                            ▼
-                       BanglaVerse
+Bangla-Bayanno EM = 34.20%
 ```
 
-BanglaVerse therefore functions as a cross-domain audit.
+but obtains:
 
-### Key Finding
+```text
+BanglaVerse EM = 0.00%
+```
 
-BanglaVLM-v2 demonstrates the strongest cross-dataset transfer among the evaluated fine-tuned variants.
+on the unseen benchmark.
+
+### BanglaVLM-v2
+
+BanglaVLM-v2 achieves:
+
+```text
+ChitroJera EM = 6.00%
+BanglaVerse EM = 0.40%
+```
+
+and the highest BanglaVerse ROUGE-L among the evaluated models:
+
+```text
+BanglaVerse ROUGE-L = 1.56%
+```
+
+Thus, the joint-training model shows a measurable but still limited transfer signal on the unseen benchmark.
 
 ---
 
-# ⚙️ Training Methodology
+## Experiment 3 Visualizations
 
-BanglaVLM uses **Parameter-Efficient Fine-Tuning (PEFT)**.
+![Experiment 3 Cross Dataset](visualizations/experiment3_cross_dataset.png)
 
-Instead of updating the complete VLM, LoRA introduces a small number of trainable parameters into selected linear layers.
+![Experiment 3 BanglaVerse Qualitative](visualizations/experiment3_qualitative_banglaverse.png)
 
-The conceptual transformation is:
+---
+
+# 📊 Final Benchmark Snapshot
+
+The repository's `final_results.csv` reports the following final Exact Match matrix:
+
+| Model | Bangla-Bayanno | ChitroJera | BanglaVerse |
+|---|---:|---:|---:|
+| Base SmolVLM2 | **0.00%** | **0.00%** | **0.00%** |
+| BanglaVLM-v1 | **34.20%** | **3.20%** | **0.00%** |
+| BanglaVLM-v2 | **31.20%** | **6.00%** | **0.40%** |
+
+> **Important:** These values are taken from the repository's `project_summary/final_results.csv`. The more detailed `audit_all_metrics.csv` additionally contains normalized Exact Match, ROUGE-L and sample counts.
+
+---
+
+# 📈 Quantitative Audit
+
+The repository contains a consolidated audit file:
 
 ```text
-Original Layer:
+project_summary/audit_all_metrics.csv
+```
+
+It records:
+
+```text
+experiment
+model
+dataset
+exact_match
+normalized_exact_match
+rouge_l
+n
+```
+
+This makes it possible to reconstruct the benchmark tables directly from the stored evaluation data.
+
+### Main audit table
+
+| Experiment | Model | Dataset | EM | Norm. EM | ROUGE-L | N |
+|---|---|---|---:|---:|---:|---:|
+| Exp1 | Base SmolVLM2 | Bangla-Bayanno | 30.67% | 30.67% | 31.22% | 300 |
+| Exp1 | BanglaVLM-v1 | Bangla-Bayanno | 33.47% | 33.51% | 34.17% | 5,004 |
+| Exp2 | Base SmolVLM2 | Bayanno | 0.00% | 0.00% | 0.23% | 5,004 |
+| Exp2 | Base SmolVLM2 | ChitroJera | 0.00% | 0.00% | 0.18% | 1,224 |
+| Exp2 | BanglaVLM-v1 | Bayanno | 33.47% | 33.51% | 34.17% | 5,004 |
+| Exp2 | BanglaVLM-v1 | ChitroJera | 3.10% | 3.10% | 5.34% | 1,224 |
+| Exp2 | BanglaVLM-v2 | Bayanno | 32.33% | 32.37% | 33.11% | 5,004 |
+| Exp2 | BanglaVLM-v2 | ChitroJera | 6.29% | 6.29% | 9.95% | 1,224 |
+| Exp3 | Base SmolVLM2 | Bangla-Bayanno | 0.00% | 0.00% | 0.06% | 500 |
+| Exp3 | Base SmolVLM2 | ChitroJera | 0.00% | 0.00% | 0.13% | 500 |
+| Exp3 | Base SmolVLM2 | BanglaVerse | 0.00% | 0.00% | 0.55% | 500 |
+| Exp3 | BanglaVLM-v1 | Bangla-Bayanno | 34.20% | 34.20% | 34.73% | 500 |
+| Exp3 | BanglaVLM-v1 | ChitroJera | 3.20% | 3.20% | 5.17% | 500 |
+| Exp3 | BanglaVLM-v1 | BanglaVerse | 0.00% | 0.00% | 0.37% | 500 |
+| Exp3 | BanglaVLM-v2 | Bangla-Bayanno | 31.20% | 31.20% | 31.93% | 500 |
+| Exp3 | BanglaVLM-v2 | ChitroJera | 6.00% | 6.00% | 9.36% | 500 |
+| Exp3 | BanglaVLM-v2 | BanglaVerse | 0.40% | 0.40% | 1.56% | 500 |
+
+---
+
+# 🖼️ Visualization Gallery
+
+The repository currently contains a dedicated visualization suite covering dataset analysis, training, GPU usage, timing, model comparisons and qualitative audits.
+
+## 📊 Project-Level Audit
+
+![All Metrics Audit](visualizations/audit_all_metrics.png)
+
+![Dataset Overview](visualizations/audit_dataset_overview.png)
+
+![Training Data Usage](visualizations/audit_training_data_usage.png)
+
+![Training Curves](visualizations/audit_training_curves.png)
+
+---
+
+## ⚖️ Experiment Comparison
+
+![Experiment 1 vs Experiment 2](visualizations/exp1_vs_exp2_comparison.png)
+
+---
+
+## 🧪 Experiment 1
+
+![Experiment 1 Results](visualizations/experiment1_results.png)
+
+![Experiment 1 Dataset Analysis](visualizations/experiment1_dataset_analysis.png)
+
+![Experiment 1 Qualitative](visualizations/experiment1_qualitative.png)
+
+---
+
+## 🧪 Experiment 2
+
+![Experiment 2 Model Comparison](visualizations/experiment2_model_comparison.png)
+
+![Experiment 2 Data Quality](visualizations/experiment2_data_quality.png)
+
+![Experiment 2 Training Curves](visualizations/experiment2_training_curves.png)
+
+![Experiment 2 Qualitative](visualizations/experiment2_qualitative.png)
+
+---
+
+## 🌐 Experiment 3
+
+![Experiment 3 Cross Dataset](visualizations/experiment3_cross_dataset.png)
+
+![Experiment 3 BanglaVerse Qualitative](visualizations/experiment3_qualitative_banglaverse.png)
+
+---
+
+## 🧠 BanglaVLM-v2 Visual Audit
+
+### Bangla-Bayanno
+
+![BanglaVLM-v2 on Bangla-Bayanno](visualizations/audit_gallery_banglavlm-v2_on_bangla-bayanno.png)
+
+### ChitroJera
+
+![BanglaVLM-v2 on ChitroJera](visualizations/audit_gallery_banglavlm-v2_on_chitrojera.png)
+
+### Unseen BanglaVerse
+
+![BanglaVLM-v2 on unseen BanglaVerse](visualizations/audit_gallery_banglavlm-v2_on_banglaverse_unseen.png)
+
+---
+
+# 🖥️ Runtime & GPU Analysis
+
+The project also preserves execution and hardware-oriented visualizations.
+
+<details>
+<summary><strong>GPU Usage</strong></summary>
+
+![Project GPU Usage](visualizations/audit_gpu_usage.png)
+
+</details>
+
+<details>
+<summary><strong>Timing Breakdown</strong></summary>
+
+![Timing Breakdown](visualizations/audit_timing_breakdown.png)
+
+</details>
+
+These artifacts are useful when assessing the computational cost and practical reproducibility of the experiments.
+
+---
+
+# ⚙️ Training Configuration
+
+| Parameter | Configuration |
+|---|---|
+| Base Model | `HuggingFaceTB/SmolVLM2-2.2B-Instruct` |
+| Fine-Tuning | LoRA / PEFT |
+| LoRA Rank | `16` |
+| LoRA Alpha | `32` |
+| LoRA Dropout | `0.05` |
+| Target Modules | `all-linear` |
+| Learning Rate | `2e-4` |
+| Scheduler | Cosine |
+| Warmup Steps | `30` |
+| Precision | FP16 (`torch.float16`) |
+| Per-Device Batch Size | `1` |
+| Gradient Accumulation | `8` |
+| Effective Batch Size | `8` |
+| Training Hardware | NVIDIA Tesla T4 |
+
+---
+
+# 🔧 LoRA Methodology
+
+LoRA introduces a trainable low-rank update instead of directly updating the complete pretrained weight matrix.
+
+Conceptually:
+
+```text
+Original Layer
 
         W
 
 
-LoRA Adapted Layer:
+LoRA Adapted Layer
 
         W + ΔW
 
-where:
+where
 
         ΔW = B × A
 ```
 
-The original pretrained weights remain largely frozen while the LoRA matrices are optimized.
+The pretrained backbone remains largely frozen while the LoRA parameters learn the Bengali multimodal adaptation.
 
-This substantially reduces:
+This provides:
 
-* Trainable parameter count
-* GPU memory requirements
-* Storage requirements
-* Fine-tuning cost
-
-while preserving the pretrained multimodal knowledge of the backbone.
-
----
-
-# 🔧 LoRA Configuration
-
-The experiments use the following configuration:
-
-| Parameter             | Value                                  |
-| --------------------- | -------------------------------------- |
-| Base Model            | `HuggingFaceTB/SmolVLM2-2.2B-Instruct` |
-| Fine-Tuning           | LoRA / PEFT                            |
-| LoRA Rank             | `r = 16`                               |
-| LoRA Alpha            | `α = 32`                               |
-| LoRA Dropout          | `0.05`                                 |
-| Target Modules        | `all-linear`                           |
-| Learning Rate         | `2e-4`                                 |
-| Scheduler             | Cosine                                 |
-| Warmup                | 30 steps                               |
-| Precision             | FP16                                   |
-| Per-device Batch Size | 1                                      |
-| Gradient Accumulation | 8                                      |
-| Effective Batch Size  | 8                                      |
-| Hardware              | NVIDIA Tesla T4                        |
-
----
-
-# 📊 Evaluation Methodology
-
-Evaluation is performed from both **quantitative** and **qualitative** perspectives.
-
-## Quantitative Evaluation
-
-The project records model predictions and evaluation metrics for:
-
-* Bangla-Bayanno
-* ChitroJera
-* BanglaVerse
-
-The experimental repository separates raw predictions from processed evaluation results.
-
----
-
-## Qualitative Evaluation
-
-Quantitative scores alone cannot fully capture Bengali VQA quality.
-
-Therefore, qualitative inspection is used to examine:
-
-### Visual Grounding
-
-Does the generated answer correspond to the actual image?
-
-### Bengali Language Quality
-
-Is the response naturally expressed in Bengali?
-
-### Answer Relevance
-
-Does the model directly answer the question?
-
-### Hallucination
-
-Does the model introduce objects or facts that are not present?
-
-### Descriptive Granularity
-
-Does the model provide sufficient visual detail when required?
-
-### Instruction Following
-
-Does the model respect the expected answer style?
-
----
-
-# 📈 Results
-
-The final benchmark compares:
-
-```text
-Base SmolVLM2
-       │
-       ├── Bangla-Bayanno
-       ├── ChitroJera
-       └── BanglaVerse
-       
-BanglaVLM-v1
-       │
-       ├── Bangla-Bayanno
-       ├── ChitroJera
-       └── BanglaVerse
-       
-BanglaVLM-v2
-       │
-       ├── Bangla-Bayanno
-       ├── ChitroJera
-       └── BanglaVerse
-```
-
-### Cross-Dataset Summary
-
-| Model         | Bangla-Bayanno        | ChitroJera            | BanglaVerse                       |
-| ------------- | --------------------- | --------------------- | --------------------------------- |
-| Base SmolVLM2 | Baseline              | Baseline              | Baseline                          |
-| BanglaVLM-v1  | **Highest in-domain** | Moderate              | Evaluated                         |
-| BanglaVLM-v2  | High in-domain        | **Highest in-domain** | **Best zero-shot generalization** |
-
-The central result is that joint multi-dataset training produces a model with stronger transfer capability than single-dataset adaptation.
-
----
-
-# 🔍 Qualitative Analysis
-
-The project also performs visual inspection of generated answers.
-
-The qualitative evaluation focuses on:
-
-```text
-Image
-  │
-  ▼
-Question
-  │
-  ▼
-Model Prediction
-  │
-  ├── Bengali correctness
-  ├── Visual grounding
-  ├── Relevance
-  ├── Completeness
-  └── Hallucination
-```
-
-Visual comparisons are generated for:
-
-* BanglaVLM-v2 on Bangla-Bayanno
-* BanglaVLM-v2 on ChitroJera
-* BanglaVLM-v2 on unseen BanglaVerse
+- lower trainable parameter count,
+- lower memory requirements,
+- smaller adapter artifacts,
+- efficient experimentation, and
+- easier distribution of task-specific adapters.
 
 ---
 
@@ -667,177 +830,118 @@ BanglaVLM/
 ├── 📁 notebooks/
 │   └── Experimental Google Colab notebooks
 │
-├── 📁 models/
-│   └── Local model/adapters and related artifacts
-│
 ├── 📁 predictions/
-│   ├── experiment1_baseline_predictions.json
-│   ├── experiment1_test_predictions.json
-│   ├── experiment2_all_predictions.json
-│   ├── experiment3_BanglaVLM-v1_BanglaVerse.json
-│   ├── experiment3_BanglaVLM-v2_BanglaVerse.json
-│   └── experiment3_cross_predictions.json
+│   ├── Experiment 1 prediction files
+│   ├── Experiment 2 prediction files
+│   └── Experiment 3 cross-dataset prediction files
+│
+├── 📁 project_summary/
+│   ├── audit_all_metrics.csv
+│   ├── comprehensive_analysis_report.md
+│   ├── environment.json
+│   ├── final_report.md
+│   ├── final_results.csv
+│   ├── final_results.json
+│   ├── hyperparameters.json
+│   ├── total_runtime_summary.csv
+│   └── total_runtime_summary.json
 │
 ├── 📁 results/
 │   ├── experiment1/
 │   ├── experiment2/
 │   └── experiment3/
 │
-├── 📁 project_summary/
-│   ├── audit_all_metrics.csv
-│   ├── comprehensive_analysis_report.md
-│   ├── final_results.csv
-│   └── total_runtime_summary.csv
-│
 ├── 📁 timing/
-│   └── Detailed execution and runtime analytics
+│   └── Execution and runtime artifacts
 │
-└── 📁 visualizations/
-    └── High-resolution plots, charts and qualitative galleries
+├── 📁 visualizations/
+│   ├── Project-level audit figures
+│   ├── Experiment 1 figures
+│   ├── Experiment 2 figures
+│   ├── Experiment 3 figures
+│   └── Qualitative example galleries
+│
+├── .gitignore
+└── README.md
 ```
 
 ---
 
-# 📦 Predictions
+# 📦 Prediction Artifacts
 
-The `predictions/` directory stores model-generated outputs before or alongside metric computation.
+The `predictions/` directory contains model-generated JSON outputs.
 
-This makes it possible to independently inspect:
+It includes prediction files for:
 
-* Model responses
-* Dataset samples
-* Experiment-specific outputs
-* Cross-dataset predictions
-
-Current prediction artifacts include:
+### Experiment 1
 
 ```text
 experiment1_baseline_predictions.json
 experiment1_test_predictions.json
-experiment2_all_predictions.json
-
-experiment3_BanglaVLM-v1_BanglaVerse.json
-experiment3_BanglaVLM-v2_BanglaVerse.json
-experiment3_cross_predictions.json
-```
-
-Keeping predictions separately is important for reproducibility because metrics can be recomputed from the stored model outputs.
-
----
-
-# 📊 Results Directory
-
-The `results/` directory is organized by experiment:
-
-```text
-results/
-│
-├── experiment1/
-│
-├── experiment2/
-│
-└── experiment3/
-```
-
-This organization separates the evaluation artifacts of the three experimental stages.
-
-### Experiment 1
-
-Contains results associated with:
-
-```text
-Base Model
-      vs
-BanglaVLM-v1
 ```
 
 ### Experiment 2
 
-Contains results associated with:
-
 ```text
-Joint Training
-      ↓
-BanglaVLM-v2
+experiment2_BanglaVLM-v1_bayanno.json
+experiment2_BanglaVLM-v1_chitrojera.json
+experiment2_BanglaVLM-v2_bayanno.json
+experiment2_BanglaVLM-v2_chitrojera.json
+experiment2_Base_SmolVLM2_bayanno.json
+experiment2_Base_SmolVLM2_chitrojera.json
+experiment2_all_predictions.json
 ```
 
 ### Experiment 3
 
-Contains cross-dataset evaluation and unseen-domain analysis.
+```text
+experiment3_BanglaVLM-v1_Bangla-Bayanno.json
+experiment3_BanglaVLM-v1_BanglaVerse.json
+experiment3_BanglaVLM-v1_ChitroJera.json
+
+experiment3_BanglaVLM-v2_Bangla-Bayanno.json
+experiment3_BanglaVLM-v2_BanglaVerse.json
+experiment3_BanglaVLM-v2_ChitroJera.json
+
+experiment3_Base_SmolVLM2_Bangla-Bayanno.json
+experiment3_Base_SmolVLM2_BanglaVerse.json
+experiment3_Base_SmolVLM2_ChitroJera.json
+
+experiment3_cross_predictions.json
+```
 
 ---
 
-# 📝 Project Summary
+# 📊 Result Artifacts
 
-The `project_summary/` directory contains consolidated project-level artifacts.
+The `results/` directory is separated by experimental stage:
 
 ```text
-project_summary/
-│
-├── audit_all_metrics.csv
-├── comprehensive_analysis_report.md
-├── final_results.csv
-└── total_runtime_summary.csv
+results/
+├── experiment1/
+├── experiment2/
+└── experiment3/
 ```
 
-### `audit_all_metrics.csv`
-
-Contains consolidated metric-level evaluation information.
-
-### `comprehensive_analysis_report.md`
-
-Contains the broader analysis and interpretation of the experiments.
-
-### `final_results.csv`
-
-Contains the consolidated final benchmark results.
-
-### `total_runtime_summary.csv`
-
-Contains runtime-related information from the experimental pipeline.
+This makes the experimental outputs easier to audit independently.
 
 ---
 
-# 🎨 Visualizations
+# 📝 Project Summary Artifacts
 
-The `visualizations/` directory contains generated research figures.
+The `project_summary/` directory contains the consolidated research artifacts:
 
-Typical visualization categories include:
-
-### Training Curves
-
-```text
-Training Step
-      ↓
-Loss / Evaluation Metric
-      ↓
-Convergence Analysis
-```
-
-### Performance Comparisons
-
-Comparison of:
-
-* Base model
-* BanglaVLM-v1
-* BanglaVLM-v2
-
-across datasets.
-
-### Qualitative Galleries
-
-Visual grids showing:
-
-```text
-Image
-Question
-Reference Answer
-Model Prediction
-```
-
-for representative examples.
-
-These visualizations are useful for identifying failure modes that numerical metrics alone may not reveal.
+| File | Purpose |
+|---|---|
+| `audit_all_metrics.csv` | Consolidated benchmark metrics |
+| `final_results.csv` | Final EM comparison matrix |
+| `final_results.json` | Machine-readable final results |
+| `comprehensive_analysis_report.md` | Detailed analysis |
+| `final_report.md` | Final research report |
+| `hyperparameters.json` | Training configuration |
+| `environment.json` | Environment information |
+| `total_runtime_summary.csv` | Runtime summary |
+| `total_runtime_summary.json` | Machine-readable runtime summary |
 
 ---
 
@@ -880,9 +984,7 @@ model = AutoModelForVision2Seq.from_pretrained(
 
 ---
 
-# 🤗 Loading BanglaVLM-v2
-
-The joint Bengali LoRA adapter can be loaded on top of the base model.
+# 🤗 Load BanglaVLM-v2
 
 ```python
 from peft import PeftModel
@@ -906,7 +1008,6 @@ model = PeftModel.from_pretrained(
 from PIL import Image
 
 image_path = "sample_image.jpg"
-
 image = Image.open(image_path)
 
 prompt = """
@@ -936,258 +1037,204 @@ print(generated_text[0])
 
 ---
 
-# 🧠 Model Variants
-
-BanglaVLM currently contains two major LoRA variants.
+# 🤗 Hugging Face Models
 
 ## BanglaVLM-v1
 
-```text
-Base Model
-     +
-Bangla-Bayanno
-     ↓
-BanglaVLM-v1
-```
+**Training:** Bangla-Bayanno
 
-Purpose:
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-BanglaVLM--v1-yellow.svg)](https://huggingface.co/bhaskar1707/smolvlm2-bangla-bayanno-lora)
 
-> Bengali single-dataset adaptation.
+**Model:**  
+`bhaskar1707/smolvlm2-bangla-bayanno-lora`
 
 ---
 
 ## BanglaVLM-v2
 
-```text
-Base Model
-     +
-Bangla-Bayanno
-     +
-ChitroJera
-     ↓
-BanglaVLM-v2
-```
+**Training:** Bangla-Bayanno + ChitroJera
 
-Purpose:
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-BanglaVLM--v2-yellow.svg)](https://huggingface.co/bhaskar1707/smolvlm2-bangla-bayanno-chitrojera-lora)
 
-> Multi-dataset Bengali multimodal adaptation and stronger cross-dataset transfer.
-
----
-
-# 🤗 Hugging Face Models
-
-The trained LoRA adapters are available through Hugging Face.
-
-### BanglaVLM-v1
-
-```text
-bhaskar1707/smolvlm2-bangla-bayanno-lora
-```
-
-Training:
-
-```text
-Bangla-Bayanno
-```
-
-Primary purpose:
-
-> Single-dataset Bengali VQA adaptation.
-
----
-
-### BanglaVLM-v2
-
-```text
-bhaskar1707/smolvlm2-bangla-bayanno-chitrojera-lora
-```
-
-Training:
-
-```text
-Bangla-Bayanno
-+
-ChitroJera
-```
-
-Primary purpose:
-
-> Joint Bengali multimodal learning and cross-dataset generalization.
+**Model:**  
+`bhaskar1707/smolvlm2-bangla-bayanno-chitrojera-lora`
 
 ---
 
 # 📦 Adapter Artifacts
 
-A LoRA repository typically contains lightweight adapter artifacts such as:
+The LoRA repositories contain lightweight adapter artifacts such as:
 
 ```text
 adapter_model.safetensors
 adapter_config.json
-
 tokenizer_config.json
 preprocessor_config.json
 ```
 
-The adapter weights contain the learned LoRA parameters rather than a complete copy of the original 2.2B backbone.
-
-This makes adapter distribution substantially lighter than distributing a complete fine-tuned model.
+The adapter contains the learned PEFT parameters rather than a full independent copy of the original 2.2B backbone.
 
 ---
 
 # 🔁 Reproducibility
 
-The project is organized to make experiments easier to reproduce.
-
-A reproducible experiment should preserve:
+A reproducible BanglaVLM experiment follows:
 
 ```text
 Dataset
-   ↓
+   │
+   ▼
 Preprocessing
-   ↓
+   │
+   ▼
 Training Configuration
-   ↓
-LoRA Configuration
-   ↓
-Model Checkpoint
-   ↓
+   │
+   ▼
+LoRA Fine-Tuning
+   │
+   ▼
+Model Adapter
+   │
+   ▼
 Inference
-   ↓
+   │
+   ▼
 Predictions
-   ↓
+   │
+   ▼
 Metrics
-   ↓
+   │
+   ▼
 Visual Analysis
+   │
+   ▼
+Final Report
 ```
 
-The repository therefore separates:
-
-* Models
-* Predictions
-* Results
-* Summary reports
-* Timing information
-* Visualizations
-* Notebooks
-
-This separation reduces ambiguity between raw inference outputs and derived evaluation results.
+The repository keeps these stages separated so that predictions and metrics can be independently inspected.
 
 ---
 
-# 📌 Research Findings
+# 🔎 Key Findings
 
-The experiments support several important observations.
+### Finding 1 — Bengali Adaptation Improves In-Domain Performance
 
-## Finding 1 — Bengali Fine-Tuning Matters
+Experiment 1 shows an improvement from:
 
-The base VLM possesses general multimodal capabilities but is not specifically optimized for Bengali VQA.
+```text
+Base SmolVLM2
+EM = 30.67%
 
-Bengali-specific LoRA adaptation improves its behavior on Bengali visual-language tasks.
+        ↓
 
----
+BanglaVLM-v1
+EM = 33.47%
+```
 
-## Finding 2 — Single-Dataset Fine-Tuning Works Well In-Domain
-
-BanglaVLM-v1 achieves strong performance on the dataset it was trained on.
-
-This demonstrates effective domain adaptation.
-
-However, strong in-domain performance alone does not guarantee broad generalization.
+on the recorded Experiment 1 Bangla-Bayanno evaluation.
 
 ---
 
-## Finding 3 — Multi-Dataset Training Improves Adaptability
+### Finding 2 — Joint Training Helps ChitroJera
 
-Combining Bangla-Bayanno and ChitroJera exposes the model to different visual-question structures.
+In Experiment 2:
 
-BanglaVLM-v2 therefore provides a broader adaptation than a model trained on a single dataset.
+```text
+BanglaVLM-v1
+ChitroJera EM = 3.10%
+
+        ↓
+
+BanglaVLM-v2
+ChitroJera EM = 6.29%
+```
+
+The joint model therefore substantially improves performance on the second dataset.
 
 ---
 
-## Finding 4 — Cross-Dataset Testing Is Essential
+### Finding 3 — Generalization Remains Difficult
 
-A model can perform well on its training distribution while struggling on a different dataset.
+On unseen BanglaVerse in Experiment 3:
 
-The inclusion of BanglaVerse therefore provides a stronger test of whether the model has learned transferable Bengali multimodal capabilities.
+```text
+Base SmolVLM2  → 0.00% EM
+BanglaVLM-v1   → 0.00% EM
+BanglaVLM-v2   → 0.40% EM
+```
+
+The signal is positive but small.
+
+This is important: the project does **not** treat the unseen benchmark as solved. Instead, it exposes the remaining challenge of Bengali cross-dataset multimodal generalization.
 
 ---
 
-## Finding 5 — BanglaVLM-v2 Shows Stronger Zero-Shot Transfer
+### Finding 4 — Multi-Dataset Training Changes the Transfer Profile
 
-Among the evaluated variants, BanglaVLM-v2 provides the strongest generalization to the unseen BanglaVerse benchmark.
+BanglaVLM-v2 gives up some Bangla-Bayanno Exact Match relative to BanglaVLM-v1 in Experiment 3:
 
-This suggests that exposure to multiple Bengali VQA distributions can improve cross-domain transfer.
+```text
+BanglaVLM-v1 → 34.20%
+BanglaVLM-v2 → 31.20%
+```
+
+while improving:
+
+```text
+ChitroJera
+3.20% → 6.00%
+
+BanglaVerse
+0.00% → 0.40%
+```
+
+This suggests a meaningful trade-off between specialization and broader transfer.
 
 ---
 
 # ⚠️ Limitations
 
-Several limitations should be considered.
+1. **Limited benchmark coverage**  
+   Only a small number of Bengali multimodal datasets are currently evaluated.
 
-### 1. Dataset Distribution
+2. **Metric limitations**  
+   Exact Match and ROUGE-L do not fully capture semantic correctness, visual grounding or Bengali fluency.
 
-Performance is dependent on the visual and linguistic distributions represented by the available datasets.
+3. **Unseen-domain difficulty**  
+   BanglaVerse remains challenging, with only a small positive EM signal for BanglaVLM-v2.
 
-### 2. Limited Bengali VLM Ecosystem
+4. **Model scale**  
+   Results are specific to the SmolVLM2-2.2B backbone and may differ for larger VLMs.
 
-The number of publicly available Bengali multimodal benchmarks remains considerably smaller than comparable English resources.
-
-### 3. Metric Limitations
-
-Automatic lexical metrics cannot completely capture:
-
-* Semantic correctness
-* Visual grounding
-* Bengali fluency
-* Hallucination
-* Reasoning quality
-
-### 4. Model Scale
-
-The research focuses on the 2.2B-parameter SmolVLM2 backbone.
-
-Results may differ for substantially larger multimodal architectures.
-
-### 5. Zero-Shot Evaluation Scope
-
-BanglaVerse provides an important unseen-domain test, but it represents only one unseen benchmark.
-
-Broader conclusions would require additional unseen datasets.
+5. **Need for human evaluation**  
+   Human judgments would provide a stronger assessment of Bengali fluency, grounding, relevance and hallucination.
 
 ---
 
 # 🔮 Future Work
 
-Potential extensions include:
+## 1. Larger Bengali VLMs
 
-## 1. Larger Bengali Multimodal Models
+Evaluate larger multimodal architectures under the same protocol.
 
-Evaluate larger VLM architectures under the same experimental protocol.
+## 2. More Bengali VQA Benchmarks
 
----
-
-## 2. More Bengali Datasets
-
-Expand training and evaluation to additional Bengali visual-language datasets.
-
----
+Expand both training and evaluation to additional Bengali datasets.
 
 ## 3. Human Evaluation
 
-Introduce human assessment for:
+Introduce human scoring for:
 
-* Bengali fluency
-* Visual grounding
-* Relevance
-* Hallucination
-* Completeness
-* Instruction following
-
----
+- Bengali fluency
+- Visual grounding
+- Relevance
+- Completeness
+- Hallucination
+- Instruction following
 
 ## 4. Bengali Multimodal Instruction Tuning
 
-Create a larger unified Bengali multimodal instruction dataset covering:
+Expand training beyond VQA:
 
 ```text
 VQA
@@ -1198,121 +1245,78 @@ OCR
 +
 Visual Reasoning
 +
-Object Understanding
-+
 Spatial Reasoning
++
+Object Understanding
 ```
 
----
+## 5. More Unseen-Domain Tests
 
-## 5. Better Cross-Domain Evaluation
+Use multiple unseen datasets rather than relying on a single cross-dataset benchmark.
 
-Introduce multiple unseen datasets rather than relying on a single zero-shot benchmark.
+## 6. LoRA Ablation
 
----
+Systematically evaluate:
 
-## 6. Ablation Studies
-
-Future experiments can systematically investigate:
-
-* LoRA rank
-* LoRA alpha
-* Target modules
-* Dataset combinations
-* Training size
-* Learning rate
-* Prompt formulation
-* Adapter merging
+- LoRA rank
+- LoRA alpha
+- dropout
+- target modules
+- learning rate
+- training size
+- prompt design
 
 ---
 
-# 🧪 Recommended Ablation Matrix
+# 📚 Research Philosophy
 
-A future extension can follow:
-
-```text
-                         Training Data
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-          Bayanno       ChitroJera      Bayanno + ChitroJera
-             │                │                │
-             └────────────────┼────────────────┘
-                              │
-                              ▼
-                         Model Variants
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-             ▼                ▼                ▼
-          In-Domain      Cross-Dataset      Zero-Shot
-```
-
-This would provide a stronger empirical basis for understanding where the observed gains originate.
-
----
-
-# 📚 Project Philosophy
-
-BanglaVLM is designed around a simple principle:
+BanglaVLM follows a central principle:
 
 > **High in-domain performance is not sufficient to claim robust Bengali multimodal intelligence.**
 
 A stronger Bengali VLM should demonstrate:
 
 ```text
-Language Adaptation
-        +
+Bengali Language Adaptation
+          +
 Visual Understanding
-        +
+          +
 Instruction Following
-        +
+          +
 Multi-Dataset Robustness
-        +
+          +
 Cross-Dataset Generalization
 ```
 
-Therefore, the project emphasizes **evaluation across distributions**, not only optimization on a single benchmark.
+The project therefore treats **generalization** as a first-class evaluation target rather than an afterthought.
 
 ---
 
 # 🏁 Conclusion
 
-BanglaVLM presents a systematic investigation of Bengali Vision-Language Model adaptation using parameter-efficient fine-tuning.
+BanglaVLM provides a systematic framework for studying Bengali Vision-Language Model adaptation with parameter-efficient fine-tuning.
 
-Starting from:
-
-```text
-SmolVLM2-2.2B-Instruct
-```
-
-the project progresses through:
+The research moves from:
 
 ```text
-Single-Dataset Bengali Adaptation
-              ↓
-        BanglaVLM-v1
-              ↓
-Multi-Dataset Bengali Adaptation
-              ↓
-        BanglaVLM-v2
-              ↓
-Unseen Cross-Dataset Evaluation
-              ↓
-          BanglaVerse
+SmolVLM2-2.2B
+      ↓
+BanglaVLM-v1
+      ↓
+BanglaVLM-v2
+      ↓
+Cross-Dataset Evaluation
+      ↓
+BanglaVerse
 ```
 
-The experimental results indicate that Bengali-specific LoRA adaptation substantially improves task alignment, while joint training on multiple Bengali VQA datasets can further improve transfer to unseen visual-language distributions.
+The experiments show that Bengali-specific adaptation improves in-domain performance, while joint training on multiple Bengali VQA datasets improves performance on the structurally different ChitroJera dataset and produces a small positive signal on the unseen BanglaVerse benchmark.
 
-The resulting framework provides a practical foundation for continued research into:
-
-**Low-Resource Bengali Multimodal AI, Bengali VQA, Parameter-Efficient Fine-Tuning, and Cross-Dataset Vision-Language Generalization.**
+At the same time, the low unseen-domain scores demonstrate that **robust Bengali multimodal generalization remains an open research problem**.
 
 ---
 
 # 📖 Citation
-
-If you use this project, model adapters, experiments, or analysis in academic work, please cite the project as appropriate.
 
 ```bibtex
 @misc{pal2026banglavlm,
@@ -1329,31 +1333,30 @@ If you use this project, model adapters, experiments, or analysis in academic wo
 
 ### Bhaskar Pal
 
-**Researcher & Developer**
+Researcher & Developer
 
-* GitHub: `@bhaskarpal1707`
-* Hugging Face: `@bhaskar1707`
+- 💻 GitHub: [@bhaskarpal1707](https://github.com/bhaskarpal1707)
+- 🤗 Hugging Face: [@bhaskar1707](https://huggingface.co/bhaskar1707)
+- 📦 Project: [BanglaVLM](https://github.com/bhaskarpal1707/BanglaVLM)
 
 ---
 
 # ⭐ Acknowledgements
 
-This project builds upon the open-source ecosystem surrounding:
+This project builds upon the open-source ecosystem around:
 
-* Hugging Face Transformers
-* Hugging Face PEFT
-* PyTorch
-* SmolVLM2
-* Bengali VQA datasets
-* Open-source multimodal research
-
-The project aims to contribute further resources and empirical findings toward the development of Bengali multimodal AI.
+- PyTorch
+- Hugging Face Transformers
+- Hugging Face PEFT
+- SmolVLM2
+- Bengali multimodal datasets
+- Open-source Vision-Language research
 
 ---
 
 <p align="center">
 
-### 🇧🇩 Building Better Multimodal AI for Bengali
+## 🇧🇩 Building Better Multimodal AI for Bengali
 
 **BanglaVLM — Bengali Vision-Language Research**
 
