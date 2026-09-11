@@ -1,0 +1,9 @@
+stage,seconds
+dataset_download,3497.024
+preprocessing,7.223
+model_loading,188.476
+baseline_inference,338.638
+training,9191.221
+evaluation,4408.474
+visualization,2.543
+baseline_inference_v2,284.042

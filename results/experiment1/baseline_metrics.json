@@ -1,0 +1,31 @@
+{
+  "overall": {
+    "exact_match": 0.30666666666666664,
+    "normalized_exact_match": 0.30666666666666664,
+    "rouge_l": 0.31222222222222223
+  },
+  "n": 300,
+  "per_type": {
+    "numeric": {
+      "exact_match": 0.4523809523809524,
+      "normalized_exact_match": 0.4523809523809524,
+      "rouge_l": 0.4523809523809524,
+      "type_accuracy": 0.4523809523809524,
+      "n": 42
+    },
+    "polar": {
+      "exact_match": 0.5221238938053098,
+      "normalized_exact_match": 0.5221238938053098,
+      "rouge_l": 0.5221238938053098,
+      "type_accuracy": 0.5221238938053098,
+      "n": 113
+    },
+    "descriptive": {
+      "exact_match": 0.09655172413793103,
+      "normalized_exact_match": 0.09655172413793103,
+      "rouge_l": 0.10804597701149425,
+      "type_accuracy": 0.09655172413793103,
+      "n": 145
+    }
+  }
+}

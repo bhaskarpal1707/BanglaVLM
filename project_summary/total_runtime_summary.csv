@@ -1,0 +1,7 @@
+metric,seconds,minutes
+experiment1_total_s,17917.6,298.63
+experiment2_total_s,10813.3,180.22
+experiment3_total_s,6584.3,109.74
+total_training_s,9191.2,153.19
+total_evaluation_s,20081.4,334.69
+total_project_wallclock_s,35315.2,588.59

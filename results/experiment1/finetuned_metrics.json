@@ -1,0 +1,31 @@
+{
+  "overall": {
+    "exact_match": 0.3347322142286171,
+    "normalized_exact_match": 0.3351318944844125,
+    "rouge_l": 0.34167142476494994
+  },
+  "n": 5004,
+  "per_type": {
+    "descriptive": {
+      "exact_match": 0.14996022275258553,
+      "normalized_exact_match": 0.1507557677008751,
+      "rouge_l": 0.16377239837860363,
+      "type_accuracy": 0.1507557677008751,
+      "n": 2514
+    },
+    "polar": {
+      "exact_match": 0.5665399239543726,
+      "normalized_exact_match": 0.5665399239543726,
+      "rouge_l": 0.5665399239543726,
+      "type_accuracy": 0.5665399239543726,
+      "n": 1841
+    },
+    "numeric": {
+      "exact_match": 0.3929121725731895,
+      "normalized_exact_match": 0.3929121725731895,
+      "rouge_l": 0.3929121725731895,
+      "type_accuracy": 0.39907550077041604,
+      "n": 649
+    }
+  }
+}

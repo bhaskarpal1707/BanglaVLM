@@ -1,0 +1,8 @@
+{
+  "experiment1_total_s": 17917.640780407994,
+  "experiment2_total_s": 10813.279100942,
+  "experiment3_total_s": 6584.255348006001,
+  "total_training_s": 9191.221205761,
+  "total_evaluation_s": 20081.420176637002,
+  "total_project_wallclock_s": 35315.175229356
+}

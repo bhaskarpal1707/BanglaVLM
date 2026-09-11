@@ -1,0 +1,5002 @@
+[
+  {
+    "qa_id": 9862,
+    "image_id": 224336,
+    "image_file": "COCO_train2014_000000224336.jpg",
+    "question_bn": "ছবিতে কতজন লোক আছে?",
+    "answer_bn": "৮",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 1770,
+    "image_id": 405483,
+    "image_file": "COCO_train2014_000000405483.jpg",
+    "question_bn": "এই সাইনবোর্ডে কয়টি সাইন আছে?",
+    "answer_bn": "৫",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 22947,
+    "image_id": 387857,
+    "image_file": "COCO_train2014_000000387857.jpg",
+    "question_bn": "বাইরে কি অন্ধকার?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "বাইরে কি অন্ধকার?"
+  },
+  {
+    "qa_id": 21516,
+    "image_id": 64071,
+    "image_file": "COCO_train2014_000000064071.jpg",
+    "question_bn": "ছোট ছেলেটি তার শার্টে কী ধরে আছে?",
+    "answer_bn": "টেনিস র‍্যাকেট",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 19948,
+    "image_id": 251128,
+    "image_file": "COCO_train2014_000000251128.jpg",
+    "question_bn": "এটি কি একটি অল্পবয়সী প্রাণী?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 12350,
+    "image_id": 314130,
+    "image_file": "COCO_train2014_000000314130.jpg",
+    "question_bn": "নৌকাটির কি প্রতিবিম্ব দেখা যাচ্ছে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "নৌকাটি এক বার্ধি�"
+  },
+  {
+    "qa_id": 8692,
+    "image_id": 509584,
+    "image_file": "COCO_train2014_000000509584.jpg",
+    "question_bn": "এটি কি একটি বাস্তব ছবি?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 44231,
+    "image_id": 211464,
+    "image_file": "COCO_train2014_000000211464.jpg",
+    "question_bn": "এটি কি একটি চিড়িয়াখানা?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 7842,
+    "image_id": 379434,
+    "image_file": "COCO_train2014_000000379434.jpg",
+    "question_bn": "আগুন জ্বলছে কি?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আগুন জ্বলছে কি?\n\nআ"
+  },
+  {
+    "qa_id": 51730,
+    "image_id": 580625,
+    "image_file": "COCO_train2014_000000580625.jpg",
+    "question_bn": "ছবিতে কয়টি ল্যাপটপ আছে?",
+    "answer_bn": "০",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 34761,
+    "image_id": 397959,
+    "image_file": "COCO_train2014_000000397959.jpg",
+    "question_bn": "ওটা কি একসময় টেডি বিয়ার ছিল বলে মনে হচ্ছে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "ওটা কি একসময় টেড"
+  },
+  {
+    "qa_id": 2088,
+    "image_id": 83804,
+    "image_file": "COCO_train2014_000000083804.jpg",
+    "question_bn": "প্লেনের নাকের উপর একজন লোক কেন?",
+    "answer_bn": "ঠিক করছে",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "প্লেনের নাকের উপ�"
+  },
+  {
+    "qa_id": 1827,
+    "image_id": 24591,
+    "image_file": "COCO_train2014_000000024591.jpg",
+    "question_bn": "জমিটা কি বালুময়?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "জমিটা কি বালুময়?"
+  },
+  {
+    "qa_id": 8071,
+    "image_id": 448177,
+    "image_file": "COCO_train2014_000000448177.jpg",
+    "question_bn": "ঝোপে কয়টি ফুল আছে?",
+    "answer_bn": "২০",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 18922,
+    "image_id": 416778,
+    "image_file": "COCO_train2014_000000416778.jpg",
+    "question_bn": "কতগুলো বিছানা আছে?",
+    "answer_bn": "১",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 20663,
+    "image_id": 314565,
+    "image_file": "COCO_train2014_000000314565.jpg",
+    "question_bn": "বাচ্চারা কোন খেলা খেলছে?",
+    "answer_bn": "টেনিস",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাচ্চারা কোন"
+  },
+  {
+    "qa_id": 40974,
+    "image_id": 547869,
+    "image_file": "COCO_train2014_000000547869.jpg",
+    "question_bn": "এটি কি একটি পিকনিক?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি একটি পিকনিক ন"
+  },
+  {
+    "qa_id": 52330,
+    "image_id": 474955,
+    "image_file": "COCO_train2014_000000474955.jpg",
+    "question_bn": "এই লোকটি কি প্রথাগত স্কি পোল বহন করছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 1800,
+    "image_id": 24591,
+    "image_file": "COCO_train2014_000000024591.jpg",
+    "question_bn": "লোকেরা কী করতে যাচ্ছে?",
+    "answer_bn": "স্কি",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "লোকেরা কী করতে যা"
+  },
+  {
+    "qa_id": 46309,
+    "image_id": 369736,
+    "image_file": "COCO_train2014_000000369736.jpg",
+    "question_bn": "এই প্রাণীগুলো কি বন্য?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "এই প্রাণীগুলো কি"
+  },
+  {
+    "qa_id": 17399,
+    "image_id": 337745,
+    "image_file": "COCO_train2014_000000337745.jpg",
+    "question_bn": "এই লোকটি কত টুকরো পাই নিয়েছে?",
+    "answer_bn": "১",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 45162,
+    "image_id": 555922,
+    "image_file": "COCO_train2014_000000555922.jpg",
+    "question_bn": "প্লেটে কি মাংস আছে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "প্লেটে কি মাংস আছ"
+  },
+  {
+    "qa_id": 34708,
+    "image_id": 537497,
+    "image_file": "COCO_train2014_000000537497.jpg",
+    "question_bn": "এই দৃশ্যে কি কোনো পানীয় আছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 19171,
+    "image_id": 441909,
+    "image_file": "COCO_train2014_000000441909.jpg",
+    "question_bn": "What street is this?",
+    "answer_bn": "durham",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আপনারে এ স্টেট দে"
+  },
+  {
+    "qa_id": 37613,
+    "image_id": 550536,
+    "image_file": "COCO_train2014_000000550536.jpg",
+    "question_bn": "কি ধরনের মাংস?",
+    "answer_bn": "মুরগি",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "ধরনের মাংস কি বাং"
+  },
+  {
+    "qa_id": 51720,
+    "image_id": 580625,
+    "image_file": "COCO_train2014_000000580625.jpg",
+    "question_bn": "আসনগুলোর রঙ কি?",
+    "answer_bn": "লাল",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি আমার বাংলায়"
+  },
+  {
+    "qa_id": 23173,
+    "image_id": 483453,
+    "image_file": "COCO_train2014_000000483453.jpg",
+    "question_bn": "খাবারটি কি স্বাস্থ্যকর দেখাচ্ছে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "খাবারটি কি স্বাস�"
+  },
+  {
+    "qa_id": 507,
+    "image_id": 473957,
+    "image_file": "COCO_train2014_000000473957.jpg",
+    "question_bn": "বেঞ্চের বোর্ডগুলোর রং কি?",
+    "answer_bn": "বাদামী",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "বেঞ্চের বোর্ডগুল"
+  },
+  {
+    "qa_id": 14220,
+    "image_id": 251128,
+    "image_file": "COCO_train2014_000000251128.jpg",
+    "question_bn": "এই দুটি হাতি কি সম্ভবত একই বয়সের?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 34767,
+    "image_id": 397959,
+    "image_file": "COCO_train2014_000000397959.jpg",
+    "question_bn": "এই প্লেসেটটি কি চিত্রিত করে?",
+    "answer_bn": "ভাল্লুক",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 27036,
+    "image_id": 137583,
+    "image_file": "COCO_train2014_000000137583.jpg",
+    "question_bn": "ঘাস কি লম্বা?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "ঘাস কি লম্বা হয়ে"
+  },
+  {
+    "qa_id": 23171,
+    "image_id": 483453,
+    "image_file": "COCO_train2014_000000483453.jpg",
+    "question_bn": "টেবিলের পিছনে কি একটি এয়ার কন্ডিশনার আছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি তোই কি আপনার �"
+  },
+  {
+    "qa_id": 13637,
+    "image_id": 455717,
+    "image_file": "COCO_train2014_000000455717.jpg",
+    "question_bn": "লোকগুলোর মধ্যে একজন কি পড়ে গিয়েছিল?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 18757,
+    "image_id": 45543,
+    "image_file": "COCO_train2014_000000045543.jpg",
+    "question_bn": "আকাশে কতগুলো তুলোর মতো মেঘ আছে?",
+    "answer_bn": "২",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 26522,
+    "image_id": 363464,
+    "image_file": "COCO_train2014_000000363464.jpg",
+    "question_bn": "কোন ল্যাপটপটি চালু আছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 8690,
+    "image_id": 509584,
+    "image_file": "COCO_train2014_000000509584.jpg",
+    "question_bn": "প্রতিটি বাইক কতবার চালানো হয়েছে?",
+    "answer_bn": "১০",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 8063,
+    "image_id": 448177,
+    "image_file": "COCO_train2014_000000448177.jpg",
+    "question_bn": "টয়লেট সিটের নিচে কী অবস্থান করছে?",
+    "answer_bn": "ঘাস",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "যার টয়লেট সিটের"
+  },
+  {
+    "qa_id": 30281,
+    "image_id": 461114,
+    "image_file": "COCO_train2014_000000461114.jpg",
+    "question_bn": "শিশুর চুল কি কালো?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "শিশুর চুল কি কালো"
+  },
+  {
+    "qa_id": 8162,
+    "image_id": 431553,
+    "image_file": "COCO_train2014_000000431553.jpg",
+    "question_bn": "কাটিং বোর্ডটি কী দিয়ে তৈরি?",
+    "answer_bn": "প্লাস্টিক",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "কাটিং বোর্ডটি কী"
+  },
+  {
+    "qa_id": 29108,
+    "image_id": 2283,
+    "image_file": "COCO_train2014_000000002283.jpg",
+    "question_bn": "টেবিলের উপর বস্তুগুলো কী?",
+    "answer_bn": "বই",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি তুমি তাই বাংল"
+  },
+  {
+    "qa_id": 27308,
+    "image_id": 72889,
+    "image_file": "COCO_train2014_000000072889.jpg",
+    "question_bn": "লোকেরা কি একটি বড় অনুষ্ঠানে যাচ্ছে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "লোকেরা কি একটি বড"
+  },
+  {
+    "qa_id": 52344,
+    "image_id": 474955,
+    "image_file": "COCO_train2014_000000474955.jpg",
+    "question_bn": "সৈকতে কি প্রচুর বালি আছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 22552,
+    "image_id": 70282,
+    "image_file": "COCO_train2014_000000070282.jpg",
+    "question_bn": "আলোর পিছনে ওটা কোন ধরনের দেয়াল?",
+    "answer_bn": "ইটের",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আলোর পিছনে ওটা কো"
+  },
+  {
+    "qa_id": 2484,
+    "image_id": 305103,
+    "image_file": "COCO_train2014_000000305103.jpg",
+    "question_bn": "আপনি কীভাবে বলতে পারেন যে তিনি একজন পেশাদার ক্রীড়াবিদ নন?",
+    "answer_bn": "পোশাক",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আপনি কীভাবে বলতে"
+  },
+  {
+    "qa_id": 37925,
+    "image_id": 569725,
+    "image_file": "COCO_train2014_000000569725.jpg",
+    "question_bn": "দেয়ালগুলোর রঙ কী?",
+    "answer_bn": "সাদা",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "দেয়ালগুলোর রঙ ক�"
+  },
+  {
+    "qa_id": 44674,
+    "image_id": 64626,
+    "image_file": "COCO_train2014_000000064626.jpg",
+    "question_bn": "এই টাওয়ারে কয়টি ঘড়ি আছে?",
+    "answer_bn": "১",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 11010,
+    "image_id": 398704,
+    "image_file": "COCO_train2014_000000398704.jpg",
+    "question_bn": "এই যুবকেরা কি খাচ্ছে?",
+    "answer_bn": "হট ডগ",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "যুবকেরা কি খাচ্ছ�"
+  },
+  {
+    "qa_id": 30187,
+    "image_id": 447074,
+    "image_file": "COCO_train2014_000000447074.jpg",
+    "question_bn": "কোনো ধর্মীয় প্রতীক কি দেখা যাচ্ছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 6621,
+    "image_id": 367990,
+    "image_file": "COCO_train2014_000000367990.jpg",
+    "question_bn": "টয়লেটের উপরের র‌্যাকে ঝুলানো তোয়ালেগুলোর রঙ কী?",
+    "answer_bn": "নীল",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "যার রঙ কী তোয়ালে"
+  },
+  {
+    "qa_id": 46085,
+    "image_id": 386298,
+    "image_file": "COCO_train2014_000000386298.jpg",
+    "question_bn": "ছবিতে কয়টি কুকুর আছে?",
+    "answer_bn": "১",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 24530,
+    "image_id": 363464,
+    "image_file": "COCO_train2014_000000363464.jpg",
+    "question_bn": "এই ব্যক্তিটি কি কোনো প্রোগ্রাম চালাচ্ছে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি এক বাংলায় প্"
+  },
+  {
+    "qa_id": 29407,
+    "image_id": 559073,
+    "image_file": "COCO_train2014_000000559073.jpg",
+    "question_bn": "বিড়ালটি কি কোলে থাকতে পছন্দ করছে বলে মনে হচ্ছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "বাংলায় প্রশ্নের"
+  },
+  {
+    "qa_id": 49842,
+    "image_id": 101319,
+    "image_file": "COCO_train2014_000000101319.jpg",
+    "question_bn": "এই মহিলা কি কারো জন্য অপেক্ষা করছে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি এক বাংলা বাদা"
+  },
+  {
+    "qa_id": 16742,
+    "image_id": 317227,
+    "image_file": "COCO_train2014_000000317227.jpg",
+    "question_bn": "আপনি টেবিলে কয়টি রিমোট দেখতে পাচ্ছেন?",
+    "answer_bn": "০",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আপনি টেবিলে কয়ট�"
+  },
+  {
+    "qa_id": 5365,
+    "image_id": 427992,
+    "image_file": "COCO_train2014_000000427992.jpg",
+    "question_bn": "এই রাস্তাটি কী?",
+    "answer_bn": "সেড্রক",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "এই রাস্তাটি এক স্"
+  },
+  {
+    "qa_id": 2920,
+    "image_id": 64626,
+    "image_file": "COCO_train2014_000000064626.jpg",
+    "question_bn": "এই বস্তুটি কী?",
+    "answer_bn": "ঘড়ি টাওয়ার",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 20286,
+    "image_id": 332210,
+    "image_file": "COCO_train2014_000000332210.jpg",
+    "question_bn": "এই ট্রেনটি কিসের জন্য ব্যবহৃত হয়?",
+    "answer_bn": "যাত্রী",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 24121,
+    "image_id": 141710,
+    "image_file": "COCO_train2014_000000141710.jpg",
+    "question_bn": "কতজন খেলছে?",
+    "answer_bn": "৪",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 6826,
+    "image_id": 518613,
+    "image_file": "COCO_train2014_000000518613.jpg",
+    "question_bn": "কুকুরটি কোথায়?",
+    "answer_bn": "স্কেটবোর্ডে",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "কুকুর বাংলায় বা�"
+  },
+  {
+    "qa_id": 20665,
+    "image_id": 314565,
+    "image_file": "COCO_train2014_000000314565.jpg",
+    "question_bn": "তার শার্টের রঙ কী?",
+    "answer_bn": "নীল",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি তাই বাংলায় প"
+  },
+  {
+    "qa_id": 8680,
+    "image_id": 509584,
+    "image_file": "COCO_train2014_000000509584.jpg",
+    "question_bn": "লোকটির ব্যাগ কি তার বাম হাতের নিচে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 30282,
+    "image_id": 461114,
+    "image_file": "COCO_train2014_000000461114.jpg",
+    "question_bn": "ছেলেটি কি চশমা পরেছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 23172,
+    "image_id": 483453,
+    "image_file": "COCO_train2014_000000483453.jpg",
+    "question_bn": "পিছনের প্লেটে কী আছে?",
+    "answer_bn": "ব্রোকলি",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "পিছনের প্লেটে কী"
+  },
+  {
+    "qa_id": 37700,
+    "image_id": 209066,
+    "image_file": "COCO_train2014_000000209066.jpg",
+    "question_bn": "এই ছবিটি কি সাদা-কালো?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 29433,
+    "image_id": 559073,
+    "image_file": "COCO_train2014_000000559073.jpg",
+    "question_bn": "এই বিড়ালটি কিসের উপর ঘুমাচ্ছে?",
+    "answer_bn": "চেয়ার",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 14595,
+    "image_id": 576040,
+    "image_file": "COCO_train2014_000000576040.jpg",
+    "question_bn": "ডেস্কের উপর কি কোনো স্মার্ট ফোন আছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 29477,
+    "image_id": 559073,
+    "image_file": "COCO_train2014_000000559073.jpg",
+    "question_bn": "এই বিড়ালটি কোন ধরনের চেয়ারে বসে আছে?",
+    "answer_bn": "স্যুটকেস",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 28791,
+    "image_id": 218601,
+    "image_file": "COCO_train2014_000000218601.jpg",
+    "question_bn": "সেখানে কয়টি জিরাফ আছে?",
+    "answer_bn": "১",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "সেখানে কয়টি জির�"
+  },
+  {
+    "qa_id": 18173,
+    "image_id": 24371,
+    "image_file": "COCO_train2014_000000024371.jpg",
+    "question_bn": "খাবারটি কি সুস্বাদু?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "খাবারটি কি সুস্ব�"
+  },
+  {
+    "qa_id": 22670,
+    "image_id": 425701,
+    "image_file": "COCO_train2014_000000425701.jpg",
+    "question_bn": "ছুরিটির হাতলের রঙ কী?",
+    "answer_bn": "রূপালী",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "ছুরিটি হাতলের রঙ"
+  },
+  {
+    "qa_id": 5947,
+    "image_id": 202567,
+    "image_file": "COCO_train2014_000000202567.jpg",
+    "question_bn": "এই ছবিতে কয়টি ব্যাকপ্যাক আছে?",
+    "answer_bn": "১",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 52587,
+    "image_id": 56499,
+    "image_file": "COCO_train2014_000000056499.jpg",
+    "question_bn": "জানালার ফ্রেমের রঙ কী?",
+    "answer_bn": "বাদামী",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 15010,
+    "image_id": 378923,
+    "image_file": "COCO_train2014_000000378923.jpg",
+    "question_bn": "এটা কি বাইরে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাইরে এক কাজ �"
+  },
+  {
+    "qa_id": 44012,
+    "image_id": 574281,
+    "image_file": "COCO_train2014_000000574281.jpg",
+    "question_bn": "এই সময়গুলো কি সেলাইয়ের জন্য প্রয়োজন?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি এক কাজ করা হল�"
+  },
+  {
+    "qa_id": 21515,
+    "image_id": 64071,
+    "image_file": "COCO_train2014_000000064071.jpg",
+    "question_bn": "বাচ্চাটি কোন ব্র্যান্ডের শার্ট পরেছে?",
+    "answer_bn": "অ্যাডিডাস",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "বাচ্চাটি কোন ব্র�"
+  },
+  {
+    "qa_id": 14601,
+    "image_id": 576040,
+    "image_file": "COCO_train2014_000000576040.jpg",
+    "question_bn": "কীবোর্ডটি কি একটি ঐতিহ্যবাহী?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "কীবোর্ড একটি ঐতি�"
+  },
+  {
+    "qa_id": 37958,
+    "image_id": 461114,
+    "image_file": "COCO_train2014_000000461114.jpg",
+    "question_bn": "বাচ্চার গলায় কী আছে?",
+    "answer_bn": "কিছুই না",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "বাচ্চার গলায় কী"
+  },
+  {
+    "qa_id": 30230,
+    "image_id": 480532,
+    "image_file": "COCO_train2014_000000480532.jpg",
+    "question_bn": "এই ছবিটি কি কোনো রেস্তোরাঁর বলে মনে হচ্ছে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি এক ক্ষমিক প্র"
+  },
+  {
+    "qa_id": 22819,
+    "image_id": 302687,
+    "image_file": "COCO_train2014_000000302687.jpg",
+    "question_bn": "লোকটি কিসে আছে?",
+    "answer_bn": "গাড়ি",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 46274,
+    "image_id": 369736,
+    "image_file": "COCO_train2014_000000369736.jpg",
+    "question_bn": "এই প্রাণীটি কি বন্য?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "এই প্রাণীটি কি বন"
+  },
+  {
+    "qa_id": 19165,
+    "image_id": 441909,
+    "image_file": "COCO_train2014_000000441909.jpg",
+    "question_bn": "What color is the sign?",
+    "answer_bn": "white",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "The sign is white."
+  },
+  {
+    "qa_id": 26239,
+    "image_id": 509210,
+    "image_file": "COCO_train2014_000000509210.jpg",
+    "question_bn": "এটি কি একটি খেলনা পরিবার?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি একটি খেলনা পর"
+  },
+  {
+    "qa_id": 3056,
+    "image_id": 154955,
+    "image_file": "COCO_train2014_000000154955.jpg",
+    "question_bn": "এই ছবিতে বাতিটি কি জ্বালানো?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 20296,
+    "image_id": 332210,
+    "image_file": "COCO_train2014_000000332210.jpg",
+    "question_bn": "ট্রেনের রঙ কী?",
+    "answer_bn": "লাল এবং সাদা",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 2090,
+    "image_id": 83804,
+    "image_file": "COCO_train2014_000000083804.jpg",
+    "question_bn": "প্লেনের সামনে কতজন লোক দাঁড়িয়ে আছে?",
+    "answer_bn": "৩",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "প্লেনের সামনে কত�"
+  },
+  {
+    "qa_id": 25356,
+    "image_id": 461114,
+    "image_file": "COCO_train2014_000000461114.jpg",
+    "question_bn": "শিশুটিকে কি খুশি মনে হচ্ছে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "শিশুটিকে খুশি মন�"
+  },
+  {
+    "qa_id": 31488,
+    "image_id": 137378,
+    "image_file": "COCO_train2014_000000137378.jpg",
+    "question_bn": "সোফার রঙ কি?",
+    "answer_bn": "বাদামী",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "সোফার রঙ কি হলে ত�"
+  },
+  {
+    "qa_id": 22676,
+    "image_id": 425701,
+    "image_file": "COCO_train2014_000000425701.jpg",
+    "question_bn": "টেবিলের উপর কী আছে?",
+    "answer_bn": "খাবার",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি তোই বাংলায় প"
+  },
+  {
+    "qa_id": 5230,
+    "image_id": 23301,
+    "image_file": "COCO_train2014_000000023301.jpg",
+    "question_bn": "এটা কি দিনের বেলা?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 18185,
+    "image_id": 24371,
+    "image_file": "COCO_train2014_000000024371.jpg",
+    "question_bn": "পেস্ট্রিতে কোন ধরনের ফল আছে?",
+    "answer_bn": "টমেটো",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "পেস্ট্রিতে কোন ধ�"
+  },
+  {
+    "qa_id": 48281,
+    "image_id": 529545,
+    "image_file": "COCO_train2014_000000529545.jpg",
+    "question_bn": "দুটি ছবিতেই কি একই বিল্ডিং আছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 25349,
+    "image_id": 461114,
+    "image_file": "COCO_train2014_000000461114.jpg",
+    "question_bn": "বাচ্চাটির বয়স কত?",
+    "answer_bn": "৩",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "বাচ্চাটির বয়স ক�"
+  },
+  {
+    "qa_id": 18614,
+    "image_id": 279708,
+    "image_file": "COCO_train2014_000000279708.jpg",
+    "question_bn": "এটা কোন প্রাণী?",
+    "answer_bn": "ভেড়া",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 40316,
+    "image_id": 498988,
+    "image_file": "COCO_train2014_000000498988.jpg",
+    "question_bn": "বিড়ালটির চোখের রঙ কী?",
+    "answer_bn": "হলুদ",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "বাংলায় প্রশ্নের"
+  },
+  {
+    "qa_id": 30784,
+    "image_id": 274047,
+    "image_file": "COCO_train2014_000000274047.jpg",
+    "question_bn": "সে কি একজন জলদস্যু?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "সে কি একজন জলদস্য"
+  },
+  {
+    "qa_id": 37920,
+    "image_id": 569725,
+    "image_file": "COCO_train2014_000000569725.jpg",
+    "question_bn": "এটি কি বাইরে নাকি ভিতরে?",
+    "answer_bn": "ভিতরে",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাইরের নাকি ভ"
+  },
+  {
+    "qa_id": 12663,
+    "image_id": 322892,
+    "image_file": "COCO_train2014_000000322892.jpg",
+    "question_bn": "অনেকগুলো কলার বাক্স আছে কি?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 22652,
+    "image_id": 425701,
+    "image_file": "COCO_train2014_000000425701.jpg",
+    "question_bn": "খাবারটি কি দুগ্ধজাত দ্রব্যমুক্ত?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "খাবারটি কি দুগ্ধ�"
+  },
+  {
+    "qa_id": 21735,
+    "image_id": 134077,
+    "image_file": "COCO_train2014_000000134077.jpg",
+    "question_bn": "কোন খেলাটি খেলা হচ্ছে?",
+    "answer_bn": "ফ্রিজবি",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 46310,
+    "image_id": 369736,
+    "image_file": "COCO_train2014_000000369736.jpg",
+    "question_bn": "ছবির প্রাণীগুলো কী করছে?",
+    "answer_bn": "দাঁড়িয়ে আছে",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "ছবির প্রাণীগুলো �"
+  },
+  {
+    "qa_id": 44697,
+    "image_id": 64626,
+    "image_file": "COCO_train2014_000000064626.jpg",
+    "question_bn": "মহিলাটি কেন ওড়না পরেছে?",
+    "answer_bn": "মৃত্যু",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 22447,
+    "image_id": 211405,
+    "image_file": "COCO_train2014_000000211405.jpg",
+    "question_bn": "টয়লেটে কি কোনো সতর্কবার্তা আছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "টয়লেটে কেন্দ্রে"
+  },
+  {
+    "qa_id": 51310,
+    "image_id": 214320,
+    "image_file": "COCO_train2014_000000214320.jpg",
+    "question_bn": "জিরাফটি কি চিড়িয়াখানায় আছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "জিরাফটি কি চিড়ি�"
+  },
+  {
+    "qa_id": 35359,
+    "image_id": 378028,
+    "image_file": "COCO_train2014_000000378028.jpg",
+    "question_bn": "কাউন্টারে কয়টি কাটিং বোর্ড আছে?",
+    "answer_bn": "১",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 51302,
+    "image_id": 214320,
+    "image_file": "COCO_train2014_000000214320.jpg",
+    "question_bn": "জিরাফটি কি খাচ্ছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "জিরাফটি কি খাচ্ছ�"
+  },
+  {
+    "qa_id": 30993,
+    "image_id": 337628,
+    "image_file": "COCO_train2014_000000337628.jpg",
+    "question_bn": "কেউ কি এই ডোনাট থেকে এক কামড় খেয়েছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 29410,
+    "image_id": 559073,
+    "image_file": "COCO_train2014_000000559073.jpg",
+    "question_bn": "বিড়ালটি কি ঘুমাচ্ছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "বাংলায় প্রশ্নের"
+  },
+  {
+    "qa_id": 19081,
+    "image_id": 176085,
+    "image_file": "COCO_train2014_000000176085.jpg",
+    "question_bn": "What kind of fruit is this?",
+    "answer_bn": "banana and orange",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি তাই তাদের কাজ"
+  },
+  {
+    "qa_id": 12336,
+    "image_id": 337689,
+    "image_file": "COCO_train2014_000000337689.jpg",
+    "question_bn": "এই স্যান্ডউইচটি কি ভর্তি?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 41200,
+    "image_id": 402243,
+    "image_file": "COCO_train2014_000000402243.jpg",
+    "question_bn": "তোয়ালেগুলোর রঙ কী?",
+    "answer_bn": "সাদা",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "তোয়ালেগুলো রঙ ক�"
+  },
+  {
+    "qa_id": 39685,
+    "image_id": 387329,
+    "image_file": "COCO_train2014_000000387329.jpg",
+    "question_bn": "চপস্টিকটি কোথায়?",
+    "answer_bn": "প্লেটে",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "চপস্টিকটি কোথায়"
+  },
+  {
+    "qa_id": 7964,
+    "image_id": 448177,
+    "image_file": "COCO_train2014_000000448177.jpg",
+    "question_bn": "টয়লেটটি কি বাড়ির ভিতরে না বাইরে?",
+    "answer_bn": "বাইরে",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "যার ভিতরে না বাইর"
+  },
+  {
+    "qa_id": 2930,
+    "image_id": 64626,
+    "image_file": "COCO_train2014_000000064626.jpg",
+    "question_bn": "ঘড়ির মুখের রঙ কী?",
+    "answer_bn": "সাদা",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "ঘড়ির মুখের রঙ কী"
+  },
+  {
+    "qa_id": 9765,
+    "image_id": 61559,
+    "image_file": "COCO_train2014_000000061559.jpg",
+    "question_bn": "ট্রেনটির রঙ কী?",
+    "answer_bn": "নীল, সাদা, টিল",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "ট্রেনটির রঙ কী হয"
+  },
+  {
+    "qa_id": 13271,
+    "image_id": 315994,
+    "image_file": "COCO_train2014_000000315994.jpg",
+    "question_bn": "ওটা কোন ধরণের লাইটার?",
+    "answer_bn": "জিপ্পো",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 14223,
+    "image_id": 251128,
+    "image_file": "COCO_train2014_000000251128.jpg",
+    "question_bn": "এটা কোথায়?",
+    "answer_bn": "আফ্রিকা",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি এক বাংলা প্রশ"
+  },
+  {
+    "qa_id": 34763,
+    "image_id": 397959,
+    "image_file": "COCO_train2014_000000397959.jpg",
+    "question_bn": "সে ওভাবে পোশাক পরেছে কেন?",
+    "answer_bn": "পার্টি",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 52284,
+    "image_id": 474955,
+    "image_file": "COCO_train2014_000000474955.jpg",
+    "question_bn": "এই লোকটি কি ধরণের দৃশ্যে আছে?",
+    "answer_bn": "বরফাচ্ছন্ন",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 4792,
+    "image_id": 360760,
+    "image_file": "COCO_train2014_000000360760.jpg",
+    "question_bn": "মহিলাটি কি চশমা পরেছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 30321,
+    "image_id": 461114,
+    "image_file": "COCO_train2014_000000461114.jpg",
+    "question_bn": "এই শিশুটি কী রঙের শার্ট পরে আছে?",
+    "answer_bn": "হলুদ",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 30295,
+    "image_id": 461114,
+    "image_file": "COCO_train2014_000000461114.jpg",
+    "question_bn": "আইসিং এর রঙ কি?",
+    "answer_bn": "সাদা",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আইসিং এর রঙ কি তা�"
+  },
+  {
+    "qa_id": 52280,
+    "image_id": 474955,
+    "image_file": "COCO_train2014_000000474955.jpg",
+    "question_bn": "এই ব্যক্তি কোন খেলা খেলছে?",
+    "answer_bn": "স্নোবোর্ডিং",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি এক বাংলায় প্"
+  },
+  {
+    "qa_id": 38006,
+    "image_id": 461114,
+    "image_file": "COCO_train2014_000000461114.jpg",
+    "question_bn": "বাচ্চাটি কেন কাঁদছে?",
+    "answer_bn": "কেক",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "বাচ্চাটি কেন কাঁ�"
+  },
+  {
+    "qa_id": 42642,
+    "image_id": 576630,
+    "image_file": "COCO_train2014_000000576630.jpg",
+    "question_bn": "ছবিটি কি জালের সামনে থেকে নাকি পেছন থেকে তোলা?",
+    "answer_bn": "সামনে",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "ছবিটি কি জালের সা"
+  },
+  {
+    "qa_id": 21803,
+    "image_id": 307968,
+    "image_file": "COCO_train2014_000000307968.jpg",
+    "question_bn": "এটা কি বিমানবন্দরের টার্মিনালের মতো দেখতে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "বাংলায় প্রশ্নের"
+  },
+  {
+    "qa_id": 46244,
+    "image_id": 369736,
+    "image_file": "COCO_train2014_000000369736.jpg",
+    "question_bn": "এই প্রাণীগুলো কি তাদের প্রাকৃতিক পরিবেশে আছে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "এই প্রাণীগুলো কি"
+  },
+  {
+    "qa_id": 568,
+    "image_id": 59170,
+    "image_file": "COCO_train2014_000000059170.jpg",
+    "question_bn": "চিহ্নের উপর কোন নম্বর আছে?",
+    "answer_bn": "427",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 10004,
+    "image_id": 356362,
+    "image_file": "COCO_train2014_000000356362.jpg",
+    "question_bn": "মাটিতে কোন যানবাহনটি আছে?",
+    "answer_bn": "প্লেন",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "যানবাহন (Lufthansa) এক এক"
+  },
+  {
+    "qa_id": 44680,
+    "image_id": 64626,
+    "image_file": "COCO_train2014_000000064626.jpg",
+    "question_bn": "ঘড়িতে কোন ভাষা ব্যবহার করা হয়েছে?",
+    "answer_bn": "রোমান",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "ঘড়িতে কোন ভাষা ব"
+  },
+  {
+    "qa_id": 22668,
+    "image_id": 425701,
+    "image_file": "COCO_train2014_000000425701.jpg",
+    "question_bn": "এই খাবারে কি সবজি আছে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 26634,
+    "image_id": 204671,
+    "image_file": "COCO_train2014_000000204671.jpg",
+    "question_bn": "ছেলেটি কোন ধরনের রাস্তার উপর দিয়ে যাচ্ছে?",
+    "answer_bn": "পাথরের",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 9863,
+    "image_id": 224336,
+    "image_file": "COCO_train2014_000000224336.jpg",
+    "question_bn": "মহিলাটির চুল কি পনিটেলে বাঁধা?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "মহিলাটির চুল কি প"
+  },
+  {
+    "qa_id": 24533,
+    "image_id": 363464,
+    "image_file": "COCO_train2014_000000363464.jpg",
+    "question_bn": "নিচের ঘড়িটিতে কয়টা বাজে?",
+    "answer_bn": "০",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 35849,
+    "image_id": 488657,
+    "image_file": "COCO_train2014_000000488657.jpg",
+    "question_bn": "সেখানে কতগুলো ট্র্যাক আছে?",
+    "answer_bn": "৩",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "সেখানে কতগুলো ট্�"
+  },
+  {
+    "qa_id": 14208,
+    "image_id": 251128,
+    "image_file": "COCO_train2014_000000251128.jpg",
+    "question_bn": "এই হাতিটি কি একা?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 37702,
+    "image_id": 209066,
+    "image_file": "COCO_train2014_000000209066.jpg",
+    "question_bn": "রেললাইনের পাশে কি ইটের দেয়াল আছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "রেললাইনের পাশে ক�"
+  },
+  {
+    "qa_id": 288,
+    "image_id": 441891,
+    "image_file": "COCO_train2014_000000441891.jpg",
+    "question_bn": "কতগুলি জিরাফ দেখা যায়?",
+    "answer_bn": "৩",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 22529,
+    "image_id": 191957,
+    "image_file": "COCO_train2014_000000191957.jpg",
+    "question_bn": "গায়কটি কী করছে?",
+    "answer_bn": "গান গাইছে",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "গায়কটি কী করছে?"
+  },
+  {
+    "qa_id": 40336,
+    "image_id": 219859,
+    "image_file": "COCO_train2014_000000219859.jpg",
+    "question_bn": "বাসের উপরে কোন অক্ষরগুলো আছে?",
+    "answer_bn": "জট",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাসের উপরে কো"
+  },
+  {
+    "qa_id": 15804,
+    "image_id": 129433,
+    "image_file": "COCO_train2014_000000129433.jpg",
+    "question_bn": "এই গেমটি কি স্পনসর করা?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "এই গেমটি কি স্পনস"
+  },
+  {
+    "qa_id": 41184,
+    "image_id": 402243,
+    "image_file": "COCO_train2014_000000402243.jpg",
+    "question_bn": "কতগুলো তোয়ালে আছে?",
+    "answer_bn": "৩",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 9253,
+    "image_id": 400245,
+    "image_file": "COCO_train2014_000000400245.jpg",
+    "question_bn": "সে কোন ধরনের খেলা খেলছে?",
+    "answer_bn": "কোনোটিই না",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 24605,
+    "image_id": 17545,
+    "image_file": "COCO_train2014_000000017545.jpg",
+    "question_bn": "এই ছবিটি কোন পরিবেশে তোলা হয়েছে?",
+    "answer_bn": "বসার ঘর",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি এক বাংলায় প্"
+  },
+  {
+    "qa_id": 52585,
+    "image_id": 56499,
+    "image_file": "COCO_train2014_000000056499.jpg",
+    "question_bn": "কয়টি পোষা প্রাণী?",
+    "answer_bn": "১",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 17400,
+    "image_id": 337745,
+    "image_file": "COCO_train2014_000000337745.jpg",
+    "question_bn": "প্লেটে কী আছে?",
+    "answer_bn": "কেক",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "প্লেট কী আছে? তাই"
+  },
+  {
+    "qa_id": 29716,
+    "image_id": 209066,
+    "image_file": "COCO_train2014_000000209066.jpg",
+    "question_bn": "শেষ বগিটির রঙ কি?",
+    "answer_bn": "সবুজ",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "শেষ বগিটির রঙ কি �"
+  },
+  {
+    "qa_id": 14562,
+    "image_id": 467778,
+    "image_file": "COCO_train2014_000000467778.jpg",
+    "question_bn": "এই ছবিতে কি কেউ দৃশ্যমান?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 44700,
+    "image_id": 64626,
+    "image_file": "COCO_train2014_000000064626.jpg",
+    "question_bn": "কত সময় দেখানো হচ্ছে?",
+    "answer_bn": "১:০৫",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 42826,
+    "image_id": 407671,
+    "image_file": "COCO_train2014_000000407671.jpg",
+    "question_bn": "ট্রেনটি কোন স্টেশনের দিকে আসছে?",
+    "answer_bn": "৩",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "যার কাজ করা হয়ে ব�"
+  },
+  {
+    "qa_id": 196,
+    "image_id": 79106,
+    "image_file": "COCO_train2014_000000079106.jpg",
+    "question_bn": "চিহ্নটির লাল অংশে কী লেখা আছে?",
+    "answer_bn": "ওপেন হাউস",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "চিহ্নটি লাল অংশে"
+  },
+  {
+    "qa_id": 52305,
+    "image_id": 474955,
+    "image_file": "COCO_train2014_000000474955.jpg",
+    "question_bn": "এটি কি একটি স্কি রিসোর্ট?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 26238,
+    "image_id": 509210,
+    "image_file": "COCO_train2014_000000509210.jpg",
+    "question_bn": "বাতিটি কি বন্ধ?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "বাতিটি কি বন্ধ?\n\nব"
+  },
+  {
+    "qa_id": 39246,
+    "image_id": 252244,
+    "image_file": "COCO_train2014_000000252244.jpg",
+    "question_bn": "সে কিসের উপর দাঁড়িয়ে আছে?",
+    "answer_bn": "স্কেটবোর্ড",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 1599,
+    "image_id": 550536,
+    "image_file": "COCO_train2014_000000550536.jpg",
+    "question_bn": "বাটিতে সবুজ সবজিটি কি?",
+    "answer_bn": "ব্রোকলি",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "বাটিতে সবুজ সবজি�"
+  },
+  {
+    "qa_id": 9866,
+    "image_id": 224336,
+    "image_file": "COCO_train2014_000000224336.jpg",
+    "question_bn": "দলের মাঝখানে থাকা পুরুষ এবং মহিলার পিছনে কোন বস্তুটি আছে?",
+    "answer_bn": "ছাতা",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 29418,
+    "image_id": 559073,
+    "image_file": "COCO_train2014_000000559073.jpg",
+    "question_bn": "কাছাকাছি কি কোন গাছ আছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 25291,
+    "image_id": 461114,
+    "image_file": "COCO_train2014_000000461114.jpg",
+    "question_bn": "ছোট ছেলেটির চুল কি কোঁকড়ানো?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 21063,
+    "image_id": 145502,
+    "image_file": "COCO_train2014_000000145502.jpg",
+    "question_bn": "এই এলাকাটি কি প্রত্যন্ত বলে মনে হচ্ছে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি একই বাংলায় প"
+  },
+  {
+    "qa_id": 3145,
+    "image_id": 47832,
+    "image_file": "COCO_train2014_000000047832.jpg",
+    "question_bn": "ব্যাটসম্যান কি বলে আঘাত করতে যাচ্ছে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "বাংলায় প্রশ্নের"
+  },
+  {
+    "qa_id": 21267,
+    "image_id": 459189,
+    "image_file": "COCO_train2014_000000459189.jpg",
+    "question_bn": "এটা কি প্লেটে আছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 48282,
+    "image_id": 529545,
+    "image_file": "COCO_train2014_000000529545.jpg",
+    "question_bn": "কোন শটটি নতুন?",
+    "answer_bn": "নিচেরটি",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 7831,
+    "image_id": 379434,
+    "image_file": "COCO_train2014_000000379434.jpg",
+    "question_bn": "লোকেরা কীসের স্বাদ নিতে প্রস্তুত হচ্ছে?",
+    "answer_bn": "বিয়ার",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "লোকেরা কীসের স্ব�"
+  },
+  {
+    "qa_id": 38808,
+    "image_id": 14027,
+    "image_file": "COCO_train2014_000000014027.jpg",
+    "question_bn": "চিহ্নটি কি মানুষের কথা বলছে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "চিহ্নটি কি মানুষ�"
+  },
+  {
+    "qa_id": 5362,
+    "image_id": 427992,
+    "image_file": "COCO_train2014_000000427992.jpg",
+    "question_bn": "ওগুলো কোন ধরণের তার?",
+    "answer_bn": "বৈদ্যুতিক",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "ওগুলো কোন ধরণের ত"
+  },
+  {
+    "qa_id": 43297,
+    "image_id": 387595,
+    "image_file": "COCO_train2014_000000387595.jpg",
+    "question_bn": "ট্রাকটি কি নীল এবং সাদা উভয় রঙের?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "ট্রাকটি কি নীল এব"
+  },
+  {
+    "qa_id": 11261,
+    "image_id": 296747,
+    "image_file": "COCO_train2014_000000296747.jpg",
+    "question_bn": "কতজন লোক আছে?",
+    "answer_bn": "২",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 11291,
+    "image_id": 338210,
+    "image_file": "COCO_train2014_000000338210.jpg",
+    "question_bn": "ছবিতে কতগুলো টার্মিনাল দেখানো হয়েছে?",
+    "answer_bn": "১",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 38244,
+    "image_id": 329766,
+    "image_file": "COCO_train2014_000000329766.jpg",
+    "question_bn": "ট্রেনটি কি লাল?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "যার কাজ করা হয়ে ব�"
+  },
+  {
+    "qa_id": 45902,
+    "image_id": 383816,
+    "image_file": "COCO_train2014_000000383816.jpg",
+    "question_bn": "সে কি ইচ্ছে করে ঘুরছে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 14698,
+    "image_id": 464330,
+    "image_file": "COCO_train2014_000000464330.jpg",
+    "question_bn": "এই ছবিতে কোন জীবন্ত জিনিস দৃশ্যমান?",
+    "answer_bn": "মহিলা",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি এক বাংলা বাক্"
+  },
+  {
+    "qa_id": 22654,
+    "image_id": 425701,
+    "image_file": "COCO_train2014_000000425701.jpg",
+    "question_bn": "আপনি কি হাত বা মুখ মোছার জন্য ব্যবহৃত কোনো জিনিস দেখতে পাচ্ছেন?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আপনি কি হাত বা মু�"
+  },
+  {
+    "qa_id": 42579,
+    "image_id": 189675,
+    "image_file": "COCO_train2014_000000189675.jpg",
+    "question_bn": "এটা কোথায়?",
+    "answer_bn": "অফিস",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি তাই বাংলা বাং"
+  },
+  {
+    "qa_id": 52562,
+    "image_id": 357728,
+    "image_file": "COCO_train2014_000000357728.jpg",
+    "question_bn": "দলে কতজন মহিলা আছে?",
+    "answer_bn": "০",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 34832,
+    "image_id": 135965,
+    "image_file": "COCO_train2014_000000135965.jpg",
+    "question_bn": "কতজন লোক টুপি পরে আছে?",
+    "answer_bn": "২",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 18192,
+    "image_id": 24371,
+    "image_file": "COCO_train2014_000000024371.jpg",
+    "question_bn": "এটি কি একটি স্বাস্থ্যকর খাবার?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 44699,
+    "image_id": 64626,
+    "image_file": "COCO_train2014_000000064626.jpg",
+    "question_bn": "ঘড়ি টাওয়ারে কয়টা বাজে?",
+    "answer_bn": "১:০৫",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "ঘড়ি টাওয়ারে কয�"
+  },
+  {
+    "qa_id": 17662,
+    "image_id": 322755,
+    "image_file": "COCO_train2014_000000322755.jpg",
+    "question_bn": "কোন খেলাটি হচ্ছে?",
+    "answer_bn": "বেসবল",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 25325,
+    "image_id": 461114,
+    "image_file": "COCO_train2014_000000461114.jpg",
+    "question_bn": "কেকের উপর কোন সংখ্যাটি আছে?",
+    "answer_bn": "৩",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 30990,
+    "image_id": 337628,
+    "image_file": "COCO_train2014_000000337628.jpg",
+    "question_bn": "ঐ ডোনাটটা কি খাওয়া যায়?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি এক বাংলা বাদা"
+  },
+  {
+    "qa_id": 29712,
+    "image_id": 209066,
+    "image_file": "COCO_train2014_000000209066.jpg",
+    "question_bn": "এই ট্রেনটি কি যাত্রীদের জন্য?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 36089,
+    "image_id": 522298,
+    "image_file": "COCO_train2014_000000522298.jpg",
+    "question_bn": "মেয়েটির হাতের হাতলের রঙ কী?",
+    "answer_bn": "কালো",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "মেয়েটির হাতের হ�"
+  },
+  {
+    "qa_id": 41645,
+    "image_id": 256276,
+    "image_file": "COCO_train2014_000000256276.jpg",
+    "question_bn": "ছেলেদের শার্টের রঙ কী?",
+    "answer_bn": "গোলাপী",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 37632,
+    "image_id": 550536,
+    "image_file": "COCO_train2014_000000550536.jpg",
+    "question_bn": "কেউ কি সন্দেহ করবে যে এই প্লেটের ভোজনকারীর মাখনের প্রতি বিতৃষ্ণা আছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 10808,
+    "image_id": 383391,
+    "image_file": "COCO_train2014_000000383391.jpg",
+    "question_bn": "পটভূমিতে থাকা মেয়েটির শার্টের রঙ কী?",
+    "answer_bn": "কালো",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "পটভূমিতে থাকা মে�"
+  },
+  {
+    "qa_id": 21745,
+    "image_id": 134077,
+    "image_file": "COCO_train2014_000000134077.jpg",
+    "question_bn": "লেজের উপর কতজন লোক বসে আছে?",
+    "answer_bn": "৩",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 19972,
+    "image_id": 105605,
+    "image_file": "COCO_train2014_000000105605.jpg",
+    "question_bn": "মহিলাটি কীসের দিকে তাকাচ্ছে?",
+    "answer_bn": "ইয়াহু! মাসকট",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "যারা যারা যারা যা"
+  },
+  {
+    "qa_id": 4943,
+    "image_id": 375473,
+    "image_file": "COCO_train2014_000000375473.jpg",
+    "question_bn": "এটি কি একটি গ্যারেজ সেল?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 26534,
+    "image_id": 363464,
+    "image_file": "COCO_train2014_000000363464.jpg",
+    "question_bn": "ছবিতে ল্যাপটপটি কি চালু আছে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "ছবিতে ল্যাপটপটি �"
+  },
+  {
+    "qa_id": 1628,
+    "image_id": 152871,
+    "image_file": "COCO_train2014_000000152871.jpg",
+    "question_bn": "প্লেটগুলো কিসের তৈরি?",
+    "answer_bn": "কাগজ",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "প্লেটগুলো কিসের �"
+  },
+  {
+    "qa_id": 51524,
+    "image_id": 555156,
+    "image_file": "COCO_train2014_000000555156.jpg",
+    "question_bn": "ফ্রিজের দরজা খোলা কেন?",
+    "answer_bn": "খাবার নেওয়ার জন্য",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি এক বাংলা প্রশ"
+  },
+  {
+    "qa_id": 46249,
+    "image_id": 369736,
+    "image_file": "COCO_train2014_000000369736.jpg",
+    "question_bn": "জেব্রাগুলো কি গাছ থেকে খাচ্ছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "জেব্রাগুলো কি গা�"
+  },
+  {
+    "qa_id": 20577,
+    "image_id": 189742,
+    "image_file": "COCO_train2014_000000189742.jpg",
+    "question_bn": "এখানে কতগুলো প্রাণী আছে?",
+    "answer_bn": "১২",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 51525,
+    "image_id": 555156,
+    "image_file": "COCO_train2014_000000555156.jpg",
+    "question_bn": "এখানে কয়টি তাক আছে?",
+    "answer_bn": "১০",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি এ কাজ করছি এক"
+  },
+  {
+    "qa_id": 19170,
+    "image_id": 441909,
+    "image_file": "COCO_train2014_000000441909.jpg",
+    "question_bn": "What sign is in the background?",
+    "answer_bn": "stop",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "The sign in the background is a street sign that reads \"Durham Court\"."
+  },
+  {
+    "qa_id": 512,
+    "image_id": 473957,
+    "image_file": "COCO_train2014_000000473957.jpg",
+    "question_bn": "এই বেঞ্চে কে তাদের সাইকেল রেখে গেছে?",
+    "answer_bn": "কেউ না",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 5937,
+    "image_id": 347796,
+    "image_file": "COCO_train2014_000000347796.jpg",
+    "question_bn": "ছবির সামনে কোন ব্র্যান্ডের কম্পিউটার?",
+    "answer_bn": "অ্যাপল",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 3866,
+    "image_id": 478078,
+    "image_file": "COCO_train2014_000000478078.jpg",
+    "question_bn": "সেখানে কয়টি টেলিফোন পোল আছে?",
+    "answer_bn": "২",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 20295,
+    "image_id": 332210,
+    "image_file": "COCO_train2014_000000332210.jpg",
+    "question_bn": "ট্র্যাকে কতগুলো ট্রেন আছে?",
+    "answer_bn": "১",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 5247,
+    "image_id": 60316,
+    "image_file": "COCO_train2014_000000060316.jpg",
+    "question_bn": "এটি কোন ধরণের ভূখণ্ডের ছবি?",
+    "answer_bn": "তৃণভূমি",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 2058,
+    "image_id": 463334,
+    "image_file": "COCO_train2014_000000463334.jpg",
+    "question_bn": "এই পুরুষরা কোন জাতির?",
+    "answer_bn": "সাদা",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 26516,
+    "image_id": 363464,
+    "image_file": "COCO_train2014_000000363464.jpg",
+    "question_bn": "ল্যাপটপের উপর কি চেয়ার আছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "ল্যাপটপের উপর কি"
+  },
+  {
+    "qa_id": 5936,
+    "image_id": 347796,
+    "image_file": "COCO_train2014_000000347796.jpg",
+    "question_bn": "লোকটি কি দাঁড়িয়ে আছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "লোকটি কি দাঁড়িয�"
+  },
+  {
+    "qa_id": 41323,
+    "image_id": 25167,
+    "image_file": "COCO_train2014_000000025167.jpg",
+    "question_bn": "এই দৃশ্যের দৃশ্যপটটি অদ্ভুত কেন?",
+    "answer_bn": "আমি জানি না",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি তাই বাংলা বাক"
+  },
+  {
+    "qa_id": 21051,
+    "image_id": 145502,
+    "image_file": "COCO_train2014_000000145502.jpg",
+    "question_bn": "আকাশ কি পরিষ্কার?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আকাশ কি পরিষ্কার?"
+  },
+  {
+    "qa_id": 23176,
+    "image_id": 483453,
+    "image_file": "COCO_train2014_000000483453.jpg",
+    "question_bn": "চেয়ারগুলোর রঙ কী?",
+    "answer_bn": "কমলা",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "চেয়ারগুলোর রঙ ক�"
+  },
+  {
+    "qa_id": 38763,
+    "image_id": 69576,
+    "image_file": "COCO_train2014_000000069576.jpg",
+    "question_bn": "বিল্ডিংটির উপরে কোন ধর্মীয় প্রতীক আছে?",
+    "answer_bn": "কোনোটিই নয়",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "বাংলায় প্রশ্নের"
+  },
+  {
+    "qa_id": 18749,
+    "image_id": 45543,
+    "image_file": "COCO_train2014_000000045543.jpg",
+    "question_bn": "ট্রেনটির রঙ কী?",
+    "answer_bn": "কমলা এবং হলুদ",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 11489,
+    "image_id": 411295,
+    "image_file": "COCO_train2014_000000411295.jpg",
+    "question_bn": "ব্যক্তির হাতে কী?",
+    "answer_bn": "স্কি পোল",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "বাংলায় প্রশ্নের"
+  },
+  {
+    "qa_id": 48819,
+    "image_id": 92753,
+    "image_file": "COCO_train2014_000000092753.jpg",
+    "question_bn": "বলওয়ালা ব্যক্তিটি কি রঙের টুপি পরে আছে?",
+    "answer_bn": "নীল",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "বলওয়ালা ব্যক্তি"
+  },
+  {
+    "qa_id": 49808,
+    "image_id": 500044,
+    "image_file": "COCO_train2014_000000500044.jpg",
+    "question_bn": "মাইক্রোওয়েভের উপর কি ইস্ত্রি আছে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 38044,
+    "image_id": 461114,
+    "image_file": "COCO_train2014_000000461114.jpg",
+    "question_bn": "জন্মদিনের শিশুটির নাম কী?",
+    "answer_bn": "জোশুয়া",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 21411,
+    "image_id": 127076,
+    "image_file": "COCO_train2014_000000127076.jpg",
+    "question_bn": "তারা সবাই কি পান করার মতো যথেষ্ট বয়স্ক?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "তারা সবাই কি পান �"
+  },
+  {
+    "qa_id": 38158,
+    "image_id": 148871,
+    "image_file": "COCO_train2014_000000148871.jpg",
+    "question_bn": "একজন মাতাল ব্যক্তি কি এরকম দেখবে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি একজন মাতাল ব্"
+  },
+  {
+    "qa_id": 33089,
+    "image_id": 76049,
+    "image_file": "COCO_train2014_000000076049.jpg",
+    "question_bn": "এই সুবিধাটি কোন ব্র্যান্ডের বোতলজাত পানি সরবরাহ করে?",
+    "answer_bn": "এভিয়ান",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "এই সুবিধাটি কোন ব"
+  },
+  {
+    "qa_id": 16726,
+    "image_id": 317227,
+    "image_file": "COCO_train2014_000000317227.jpg",
+    "question_bn": "এই ছবিতে কয়টি বাসনপত্র আছে?",
+    "answer_bn": "৩",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি এক বাসনপত্র আ"
+  },
+  {
+    "qa_id": 8142,
+    "image_id": 431553,
+    "image_file": "COCO_train2014_000000431553.jpg",
+    "question_bn": "কাটিং বোর্ডের উপর থাকা গাজরগুলোর মধ্যে পার্থক্য কী?",
+    "answer_bn": "রঙ",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "কাটিং বোর্ডের উপ�"
+  },
+  {
+    "qa_id": 8164,
+    "image_id": 431553,
+    "image_file": "COCO_train2014_000000431553.jpg",
+    "question_bn": "সবুজ খাবারটি কী?",
+    "answer_bn": "বেল পেপার",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "সবুজ খাবার কী হয়"
+  },
+  {
+    "qa_id": 35601,
+    "image_id": 511024,
+    "image_file": "COCO_train2014_000000511024.jpg",
+    "question_bn": "এই ঘরটি কি পরিপাটি এবং সুসংগঠিত?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি এক ঘরটি কি পর�"
+  },
+  {
+    "qa_id": 28692,
+    "image_id": 78286,
+    "image_file": "COCO_train2014_000000078286.jpg",
+    "question_bn": "ক্রসওয়াক ব্যবহারকারী কোনো লোক আছে কি?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "ক্রসওয়াক ব্যবহা"
+  },
+  {
+    "qa_id": 35084,
+    "image_id": 64659,
+    "image_file": "COCO_train2014_000000064659.jpg",
+    "question_bn": "টেলিফোনটি কি ব্যবহৃত হচ্ছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "টেলিফোনটি কি ব্য�"
+  },
+  {
+    "qa_id": 33846,
+    "image_id": 448859,
+    "image_file": "COCO_train2014_000000448859.jpg",
+    "question_bn": "এটি কি একটি যাত্রীবাহী জেট?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 37997,
+    "image_id": 461114,
+    "image_file": "COCO_train2014_000000461114.jpg",
+    "question_bn": "এই ছবিতে কি কেকের উপর পেঙ্গুইন আছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 3041,
+    "image_id": 154955,
+    "image_file": "COCO_train2014_000000154955.jpg",
+    "question_bn": "এই দৃশ্যে এই ব্যক্তির চশমা বর্তমানে কেন অকেজো?",
+    "answer_bn": "অন্ধকার",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি এক বাংলা বাদা"
+  },
+  {
+    "qa_id": 8176,
+    "image_id": 431553,
+    "image_file": "COCO_train2014_000000431553.jpg",
+    "question_bn": "এই উপাদানগুলো কি কোনো রেসিপিতে একসাথে ব্যবহার করা যায়?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 3930,
+    "image_id": 238709,
+    "image_file": "COCO_train2014_000000238709.jpg",
+    "question_bn": "আম্পায়ার কোন রঙের শার্ট পরেছেন?",
+    "answer_bn": "নীল",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 31640,
+    "image_id": 73568,
+    "image_file": "COCO_train2014_000000073568.jpg",
+    "question_bn": "দম্পতি কি করছে?",
+    "answer_bn": "খাচ্ছে",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "দাও, আমি বাংলায় �"
+  },
+  {
+    "qa_id": 26596,
+    "image_id": 315101,
+    "image_file": "COCO_train2014_000000315101.jpg",
+    "question_bn": "হিটার কি স্ট্রাইক আউট করেছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "হিটার কি স্ট্রাই�"
+  },
+  {
+    "qa_id": 9490,
+    "image_id": 19681,
+    "image_file": "COCO_train2014_000000019681.jpg",
+    "question_bn": "এটি কত নম্বর বাস?",
+    "answer_bn": "১১০০",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 21780,
+    "image_id": 307968,
+    "image_file": "COCO_train2014_000000307968.jpg",
+    "question_bn": "কোন শিশুটি ছোট?",
+    "answer_bn": "মেয়ে",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 16736,
+    "image_id": 317227,
+    "image_file": "COCO_train2014_000000317227.jpg",
+    "question_bn": "টেবিলে কোন খাবার আছে?",
+    "answer_bn": "সবজি",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি তোই কাজ করছি �"
+  },
+  {
+    "qa_id": 16725,
+    "image_id": 317227,
+    "image_file": "COCO_train2014_000000317227.jpg",
+    "question_bn": "একটি বাড়ির কোন ঘরে আপনি এই সমস্ত জিনিস খুঁজে পাবেন?",
+    "answer_bn": "রান্নাঘর",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আপনার কোন ঘরে আপন"
+  },
+  {
+    "qa_id": 44675,
+    "image_id": 64626,
+    "image_file": "COCO_train2014_000000064626.jpg",
+    "question_bn": "এটি কোন সময়ে তোলা?",
+    "answer_bn": "১:০৫",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি তাই বাংলায় প"
+  },
+  {
+    "qa_id": 37609,
+    "image_id": 550536,
+    "image_file": "COCO_train2014_000000550536.jpg",
+    "question_bn": "খাবারটি কীভাবে প্রস্তুত করা হয়েছিল?",
+    "answer_bn": "বেক করা",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "খাবারটি কীভাবে প�"
+  },
+  {
+    "qa_id": 12355,
+    "image_id": 314130,
+    "image_file": "COCO_train2014_000000314130.jpg",
+    "question_bn": "দূরের ওই চিমনিগুলো থেকে কী বের হচ্ছে?",
+    "answer_bn": "ধোঁয়া",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 16256,
+    "image_id": 412704,
+    "image_file": "COCO_train2014_000000412704.jpg",
+    "question_bn": "আবহাওয়া কেমন?",
+    "answer_bn": "রৌদ্রোজ্জ্বল",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আবহাওয়া কেমন?\n\nআ�"
+  },
+  {
+    "qa_id": 37961,
+    "image_id": 461114,
+    "image_file": "COCO_train2014_000000461114.jpg",
+    "question_bn": "এই কার্যকলাপটি কিসের জন্য ব্যবহৃত হয়?",
+    "answer_bn": "জন্মদিন",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 21790,
+    "image_id": 307968,
+    "image_file": "COCO_train2014_000000307968.jpg",
+    "question_bn": "কি ধরণের মেঝে?",
+    "answer_bn": "কার্পেট",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 6425,
+    "image_id": 81841,
+    "image_file": "COCO_train2014_000000081841.jpg",
+    "question_bn": "চেয়ারগুলো কী দিয়ে তৈরি?",
+    "answer_bn": "কাঠ",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি তাই বাংলা বাং"
+  },
+  {
+    "qa_id": 37409,
+    "image_id": 452706,
+    "image_file": "COCO_train2014_000000452706.jpg",
+    "question_bn": "আপনি কি বিমান থেকে একটি রেখা আসতে দেখছেন?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আপনি কি বিমান থেক"
+  },
+  {
+    "qa_id": 45907,
+    "image_id": 383816,
+    "image_file": "COCO_train2014_000000383816.jpg",
+    "question_bn": "পটভূমিতে কোন ধরণের গাছ আছে?",
+    "answer_bn": "পাইন",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "পটভূমিতে কোন ধরণ�"
+  },
+  {
+    "qa_id": 8172,
+    "image_id": 431553,
+    "image_file": "COCO_train2014_000000431553.jpg",
+    "question_bn": "কোনো আলু আছে কি?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 2971,
+    "image_id": 581326,
+    "image_file": "COCO_train2014_000000581326.jpg",
+    "question_bn": "সে কী ধরনের প্যান্ট পরেছে?",
+    "answer_bn": "ক্যাপ্রিস",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 44710,
+    "image_id": 91285,
+    "image_file": "COCO_train2014_000000091285.jpg",
+    "question_bn": "কেকের উপর কি ধরনের চেরি আছে?",
+    "answer_bn": "মারাসচিনো",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "কেকের উপর কি ধরনে"
+  },
+  {
+    "qa_id": 976,
+    "image_id": 294659,
+    "image_file": "COCO_train2014_000000294659.jpg",
+    "question_bn": "তারা কি ধরে আছে?",
+    "answer_bn": "স্কি",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 8068,
+    "image_id": 448177,
+    "image_file": "COCO_train2014_000000448177.jpg",
+    "question_bn": "পেছনে ওটা কি কলা গাছ?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 21038,
+    "image_id": 145502,
+    "image_file": "COCO_train2014_000000145502.jpg",
+    "question_bn": "সৈকতে কতজন লোক আছে?",
+    "answer_bn": "২৫",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "সৈকতে কতজন লোক আছ"
+  },
+  {
+    "qa_id": 14711,
+    "image_id": 323336,
+    "image_file": "COCO_train2014_000000323336.jpg",
+    "question_bn": "প্রধান প্লেটের পিছনে আলুর কোন আইটেমটি আছে?",
+    "answer_bn": "চিপস",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি একই প্রধান প্"
+  },
+  {
+    "qa_id": 32727,
+    "image_id": 360147,
+    "image_file": "COCO_train2014_000000360147.jpg",
+    "question_bn": "লোকটি কি আজ দাড়ি কেটেছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আজকের দাড়ি কেটে�"
+  },
+  {
+    "qa_id": 38765,
+    "image_id": 69576,
+    "image_file": "COCO_train2014_000000069576.jpg",
+    "question_bn": "দিনের কোন সময়?",
+    "answer_bn": "দুপুর",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "দিনের কোন সময় না"
+  },
+  {
+    "qa_id": 38330,
+    "image_id": 347131,
+    "image_file": "COCO_train2014_000000347131.jpg",
+    "question_bn": "ফুলের নিচের ফিতার রঙ কী?",
+    "answer_bn": "কালো",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "ফুলের নিচের ফিতা�"
+  },
+  {
+    "qa_id": 18745,
+    "image_id": 45543,
+    "image_file": "COCO_train2014_000000045543.jpg",
+    "question_bn": "এই ট্রেনটি কি বাষ্পীয় ট্রেন?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাষ্পীয় ট্র�"
+  },
+  {
+    "qa_id": 31487,
+    "image_id": 530300,
+    "image_file": "COCO_train2014_000000530300.jpg",
+    "question_bn": "ট্রেনটি কোথায়?",
+    "answer_bn": "স্টেশনে",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 3558,
+    "image_id": 112320,
+    "image_file": "COCO_train2014_000000112320.jpg",
+    "question_bn": "এই নির্দেশাবলী কি সব এক রঙে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "এই নির্দেশাবলী ক�"
+  },
+  {
+    "qa_id": 14694,
+    "image_id": 464330,
+    "image_file": "COCO_train2014_000000464330.jpg",
+    "question_bn": "টিভির সামনে কী?",
+    "answer_bn": "রিমোট",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "টিভির সামনে কী বা"
+  },
+  {
+    "qa_id": 30191,
+    "image_id": 447074,
+    "image_file": "COCO_train2014_000000447074.jpg",
+    "question_bn": "বাসটির নম্বর কত?",
+    "answer_bn": "১৫৮৯",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "বাসটির নম্বর হলে�"
+  },
+  {
+    "qa_id": 279,
+    "image_id": 558917,
+    "image_file": "COCO_train2014_000000558917.jpg",
+    "question_bn": "ডানদিকে প্লেটের চারপাশে কি ধরনের রোল আছে?",
+    "answer_bn": "স্প্রিং",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "ডানদিকে প্লেটের �"
+  },
+  {
+    "qa_id": 30367,
+    "image_id": 461114,
+    "image_file": "COCO_train2014_000000461114.jpg",
+    "question_bn": "শিশুটা কী খেতে চলেছে?",
+    "answer_bn": "কেক",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "শিশুটা কী খেতে চল"
+  },
+  {
+    "qa_id": 22655,
+    "image_id": 425701,
+    "image_file": "COCO_train2014_000000425701.jpg",
+    "question_bn": "বাম দিকের মেয়েটি কোন খাবার খাচ্ছে?",
+    "answer_bn": "স্যুপ",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "বাংলায় প্রশ্নের"
+  },
+  {
+    "qa_id": 37823,
+    "image_id": 184504,
+    "image_file": "COCO_train2014_000000184504.jpg",
+    "question_bn": "প্রাণীগুলো কিসের পাশে দাঁড়িয়ে আছে?",
+    "answer_bn": "গাছ",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "প্রাণীগুলো কিসের"
+  },
+  {
+    "qa_id": 23740,
+    "image_id": 243127,
+    "image_file": "COCO_train2014_000000243127.jpg",
+    "question_bn": "কতগুলো পুরো টুকরো বাকি আছে?",
+    "answer_bn": "২",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি তাই বাকি আছে �"
+  },
+  {
+    "qa_id": 34831,
+    "image_id": 135965,
+    "image_file": "COCO_train2014_000000135965.jpg",
+    "question_bn": "লোকেরা কি টুপি পরেছে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "লোকেরা কি টুপি পর"
+  },
+  {
+    "qa_id": 46264,
+    "image_id": 369736,
+    "image_file": "COCO_train2014_000000369736.jpg",
+    "question_bn": "এটি কি একটি চিড়িয়াখানা?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 38973,
+    "image_id": 500440,
+    "image_file": "COCO_train2014_000000500440.jpg",
+    "question_bn": "এটি কি একটি খেলনা কম্পিউটার?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 13603,
+    "image_id": 536425,
+    "image_file": "COCO_train2014_000000536425.jpg",
+    "question_bn": "এই খেলনাটি কিসে চলে?",
+    "answer_bn": "জল",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি একই খেলনাটি ক"
+  },
+  {
+    "qa_id": 16722,
+    "image_id": 317227,
+    "image_file": "COCO_train2014_000000317227.jpg",
+    "question_bn": "এটা কি ভিতরে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 24568,
+    "image_id": 81981,
+    "image_file": "COCO_train2014_000000081981.jpg",
+    "question_bn": "এটা কি স্বাস্থ্যকর খাবার?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 18914,
+    "image_id": 416778,
+    "image_file": "COCO_train2014_000000416778.jpg",
+    "question_bn": "বিছানায় কতগুলো বালিশ আছে?",
+    "answer_bn": "৭",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "বাংলায় প্রশ্নের"
+  },
+  {
+    "qa_id": 3557,
+    "image_id": 112320,
+    "image_file": "COCO_train2014_000000112320.jpg",
+    "question_bn": "কেউ কেন একটি হাতি ফ্রিজে রাখার চেষ্টা করার পরিকল্পনা করবে?",
+    "answer_bn": "বোকা",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি তাই বাংলা বাং"
+  },
+  {
+    "qa_id": 50517,
+    "image_id": 85462,
+    "image_file": "COCO_train2014_000000085462.jpg",
+    "question_bn": "কেকের থালাটির রঙ কি?",
+    "answer_bn": "কালো",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "কেকের থালাটির রঙ"
+  },
+  {
+    "qa_id": 45139,
+    "image_id": 555922,
+    "image_file": "COCO_train2014_000000555922.jpg",
+    "question_bn": "সাদা মাংসটি কি?",
+    "answer_bn": "মুরগি",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "সাদা মাংসটি কি হল"
+  },
+  {
+    "qa_id": 3991,
+    "image_id": 127491,
+    "image_file": "COCO_train2014_000000127491.jpg",
+    "question_bn": "আপনি কি জানালা দিয়ে বাইরে তাকান?",
+    "answer_bn": "বাইরে",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আপনি কি জানালা দি"
+  },
+  {
+    "qa_id": 25341,
+    "image_id": 461114,
+    "image_file": "COCO_train2014_000000461114.jpg",
+    "question_bn": "কেকের উপর কোন নামটি লেখা?",
+    "answer_bn": "জোশুয়া",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 3069,
+    "image_id": 95929,
+    "image_file": "COCO_train2014_000000095929.jpg",
+    "question_bn": "ছবিতে কয়জন লোক আছে?",
+    "answer_bn": "৬",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 2955,
+    "image_id": 64626,
+    "image_file": "COCO_train2014_000000064626.jpg",
+    "question_bn": "ছবিতে কতগুলো মেঘ আছে?",
+    "answer_bn": "অনেক",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "চাকিতে কতগুলো মে�"
+  },
+  {
+    "qa_id": 51307,
+    "image_id": 214320,
+    "image_file": "COCO_train2014_000000214320.jpg",
+    "question_bn": "আকাশে কি কোনো মেঘ আছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 38256,
+    "image_id": 329766,
+    "image_file": "COCO_train2014_000000329766.jpg",
+    "question_bn": "৬ নম্বর কোথায়?",
+    "answer_bn": "ট্রেন",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 40748,
+    "image_id": 509584,
+    "image_file": "COCO_train2014_000000509584.jpg",
+    "question_bn": "লোকদের মাথায় কী আছে?",
+    "answer_bn": "হেলমেট",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 42842,
+    "image_id": 103335,
+    "image_file": "COCO_train2014_000000103335.jpg",
+    "question_bn": "লোকটি কী ধরে আছে?",
+    "answer_bn": "স্কি পোল",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 14202,
+    "image_id": 251128,
+    "image_file": "COCO_train2014_000000251128.jpg",
+    "question_bn": "কয়টি হাতি দেখানো হয়েছে?",
+    "answer_bn": "২",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 3066,
+    "image_id": 95929,
+    "image_file": "COCO_train2014_000000095929.jpg",
+    "question_bn": "এখানে সম্ভবত কী ধরনের অনুষ্ঠান হচ্ছে?",
+    "answer_bn": "মিটিং",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 41186,
+    "image_id": 402243,
+    "image_file": "COCO_train2014_000000402243.jpg",
+    "question_bn": "সিঙ্কটি কি পরিষ্কার?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "সিঙ্কটি কি পরিষ্�"
+  },
+  {
+    "qa_id": 6829,
+    "image_id": 518613,
+    "image_file": "COCO_train2014_000000518613.jpg",
+    "question_bn": "কুকুরটি কী নিয়ে খেলছে?",
+    "answer_bn": "স্কেটবোর্ড",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "কুকুর কী নিয়ে খে"
+  },
+  {
+    "qa_id": 16522,
+    "image_id": 221317,
+    "image_file": "COCO_train2014_000000221317.jpg",
+    "question_bn": "তারা কি ঘুড়ি ওড়াচ্ছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি তারা ঘুড়ি ওড"
+  },
+  {
+    "qa_id": 5303,
+    "image_id": 224168,
+    "image_file": "COCO_train2014_000000224168.jpg",
+    "question_bn": "বিড়ালটি কোথায় দেখছে?",
+    "answer_bn": "ক্যামেরা",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "বাংলায় প্রশ্নের"
+  },
+  {
+    "qa_id": 52168,
+    "image_id": 342666,
+    "image_file": "COCO_train2014_000000342666.jpg",
+    "question_bn": "এটি কি একজন পেশাদার স্কেটবোর্ডার?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "একজন পেশাদার স্ক�"
+  },
+  {
+    "qa_id": 5251,
+    "image_id": 60316,
+    "image_file": "COCO_train2014_000000060316.jpg",
+    "question_bn": "এগুলো কি খামারের প্রাণী?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "খামারের প্রাণী এ�"
+  },
+  {
+    "qa_id": 20833,
+    "image_id": 510680,
+    "image_file": "COCO_train2014_000000510680.jpg",
+    "question_bn": "এই আপেল কি টক?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আপেল কি টক?\n\nআপেল �"
+  },
+  {
+    "qa_id": 32142,
+    "image_id": 244784,
+    "image_file": "COCO_train2014_000000244784.jpg",
+    "question_bn": "গাছের কাণ্ডের রঙ কি?",
+    "answer_bn": "সাদা",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "গাছের কাণ্ডের রঙ"
+  },
+  {
+    "qa_id": 10583,
+    "image_id": 496578,
+    "image_file": "COCO_train2014_000000496578.jpg",
+    "question_bn": "পাখিরা কি খাবার খুঁজছে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "পাখিরা খুঁজছে এক"
+  },
+  {
+    "qa_id": 48386,
+    "image_id": 128121,
+    "image_file": "COCO_train2014_000000128121.jpg",
+    "question_bn": "এটি কি একটি পাবলিক রেস্টরুম?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি একটি পাবলিক র"
+  },
+  {
+    "qa_id": 21719,
+    "image_id": 350014,
+    "image_file": "COCO_train2014_000000350014.jpg",
+    "question_bn": "পেছনে কী ধরনের বেড়া আছে?",
+    "answer_bn": "পিকেট",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 50515,
+    "image_id": 85462,
+    "image_file": "COCO_train2014_000000085462.jpg",
+    "question_bn": "এই খাদ্য পণ্যগুলো কি পোকামাকড় থেকে সুরক্ষিত?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 52142,
+    "image_id": 409058,
+    "image_file": "COCO_train2014_000000409058.jpg",
+    "question_bn": "আপনি কি এখানে সার্ফিং করতে স্বাচ্ছন্দ্য বোধ করবেন?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আপনি কি এখানে সার"
+  },
+  {
+    "qa_id": 2203,
+    "image_id": 370768,
+    "image_file": "COCO_train2014_000000370768.jpg",
+    "question_bn": "মহিলাটি আকাশে কী উড়াচ্ছে?",
+    "answer_bn": "প্লেন",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 7580,
+    "image_id": 545124,
+    "image_file": "COCO_train2014_000000545124.jpg",
+    "question_bn": "বিমানগুলো কোন কোম্পানির?",
+    "answer_bn": "এয়ার কানাডা",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 34706,
+    "image_id": 537497,
+    "image_file": "COCO_train2014_000000537497.jpg",
+    "question_bn": "এটি কি একটি স্বাস্থ্যকর সকালের নাস্তা?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "স্বাস্থ্যকর সকাল"
+  },
+  {
+    "qa_id": 51303,
+    "image_id": 214320,
+    "image_file": "COCO_train2014_000000214320.jpg",
+    "question_bn": "জিরাফটি গাছের পাশে কি করছে?",
+    "answer_bn": "খাচ্ছে",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "জিরাফটি গাছের পা�"
+  },
+  {
+    "qa_id": 47615,
+    "image_id": 11527,
+    "image_file": "COCO_train2014_000000011527.jpg",
+    "question_bn": "ডিমটি কীভাবে প্রস্তুত করা হয়েছিল?",
+    "answer_bn": "শক্ত করে সিদ্ধ",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "ডিমটি কীভাবে প্র�"
+  },
+  {
+    "qa_id": 42000,
+    "image_id": 350077,
+    "image_file": "COCO_train2014_000000350077.jpg",
+    "question_bn": "ছাউনিটির রঙ কী?",
+    "answer_bn": "সবুজ",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "প্রশ্নের উত্তর স�"
+  },
+  {
+    "qa_id": 25363,
+    "image_id": 461114,
+    "image_file": "COCO_train2014_000000461114.jpg",
+    "question_bn": "ছেলেটি কী করছে?",
+    "answer_bn": "হাসছে",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 22431,
+    "image_id": 211405,
+    "image_file": "COCO_train2014_000000211405.jpg",
+    "question_bn": "এই টয়লেটের উপরের অংশ কোথায়?",
+    "answer_bn": "উপরে",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি তাই বাংলায় প"
+  },
+  {
+    "qa_id": 17997,
+    "image_id": 332812,
+    "image_file": "COCO_train2014_000000332812.jpg",
+    "question_bn": "লোকটির টুপি কোন দিকে মুখ করে আছে?",
+    "answer_bn": "সামনে",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "লোকটির টুপি কোন দ"
+  },
+  {
+    "qa_id": 25345,
+    "image_id": 461114,
+    "image_file": "COCO_train2014_000000461114.jpg",
+    "question_bn": "এই কেকটি কোন অনুষ্ঠানের প্রতিনিধিত্ব করে?",
+    "answer_bn": "জন্মদিন",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি এক কেন্দ্রে ব"
+  },
+  {
+    "qa_id": 21057,
+    "image_id": 145502,
+    "image_file": "COCO_train2014_000000145502.jpg",
+    "question_bn": "মাঠের উপরে কয়টি ঘুড়ি উড়ছে?",
+    "answer_bn": "১৫",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 22658,
+    "image_id": 425701,
+    "image_file": "COCO_train2014_000000425701.jpg",
+    "question_bn": "ঐ পানীয়টি কি অ্যালকোহলযুক্ত হওয়ার সম্ভাবনা আছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি এক পানীয় পাক"
+  },
+  {
+    "qa_id": 30785,
+    "image_id": 274047,
+    "image_file": "COCO_train2014_000000274047.jpg",
+    "question_bn": "ব্যাটার কি ডানহাতি?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "বাংলায় প্রশ্নের"
+  },
+  {
+    "qa_id": 11478,
+    "image_id": 414555,
+    "image_file": "COCO_train2014_000000414555.jpg",
+    "question_bn": "কতগুলো প্রাণী দেখা যাচ্ছে?",
+    "answer_bn": "২",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "প্রথম তাই প্রাণী"
+  },
+  {
+    "qa_id": 24618,
+    "image_id": 17545,
+    "image_file": "COCO_train2014_000000017545.jpg",
+    "question_bn": "টেবিলটি কি ভাসমান মনে হচ্ছে নাকি এর পাগুলো স্পষ্টভাবে দেখা যাচ্ছে?",
+    "answer_bn": "স্পষ্ট",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "টেবিলটি কি ভাসমা�"
+  },
+  {
+    "qa_id": 37877,
+    "image_id": 235390,
+    "image_file": "COCO_train2014_000000235390.jpg",
+    "question_bn": "টয়লেট ট্যাঙ্কের উপর কতগুলো টয়লেট পেপারের রোল আছে?",
+    "answer_bn": "০",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "টয়লেট ট্যাঙ্কের"
+  },
+  {
+    "qa_id": 25362,
+    "image_id": 461114,
+    "image_file": "COCO_train2014_000000461114.jpg",
+    "question_bn": "এই শিশুটি কী করছে?",
+    "answer_bn": "হাসছে",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 6402,
+    "image_id": 81841,
+    "image_file": "COCO_train2014_000000081841.jpg",
+    "question_bn": "ক্যামেরার সবচেয়ে কাছের চেয়ারটি কোন ধরনের?",
+    "answer_bn": "ডাইনিং",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 530,
+    "image_id": 473957,
+    "image_file": "COCO_train2014_000000473957.jpg",
+    "question_bn": "বৃষ্টি হচ্ছে কি?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "বৃষ্টি হচ্ছে কি আ"
+  },
+  {
+    "qa_id": 37916,
+    "image_id": 569725,
+    "image_file": "COCO_train2014_000000569725.jpg",
+    "question_bn": "এটি কি একটি শোবার ঘর?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 46622,
+    "image_id": 429227,
+    "image_file": "COCO_train2014_000000429227.jpg",
+    "question_bn": "কতগুলো জেব্রা?",
+    "answer_bn": "২",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "জেব্রা এক প্রধান"
+  },
+  {
+    "qa_id": 8189,
+    "image_id": 431553,
+    "image_file": "COCO_train2014_000000431553.jpg",
+    "question_bn": "গাজরগুলো কি সাধারণ?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "গাজরগুলো কি সাধা�"
+  },
+  {
+    "qa_id": 6408,
+    "image_id": 81841,
+    "image_file": "COCO_train2014_000000081841.jpg",
+    "question_bn": "দেয়ালে কী আছে?",
+    "answer_bn": "আয়না",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "দেয়ালে কী আছে?\n\nদ"
+  },
+  {
+    "qa_id": 44686,
+    "image_id": 64626,
+    "image_file": "COCO_train2014_000000064626.jpg",
+    "question_bn": "ঘড়িটি কি আলোকিত?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 18740,
+    "image_id": 45543,
+    "image_file": "COCO_train2014_000000045543.jpg",
+    "question_bn": "এই পরিস্থিতি কি গরু চরানোর জন্য উপযুক্ত?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "এ পরিস্থিতি যেতে"
+  },
+  {
+    "qa_id": 41161,
+    "image_id": 478475,
+    "image_file": "COCO_train2014_000000478475.jpg",
+    "question_bn": "ছেলে না মেয়েরা টুপি পরে?",
+    "answer_bn": "উভয়",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি তাই বাংলায় প"
+  },
+  {
+    "qa_id": 11491,
+    "image_id": 338210,
+    "image_file": "COCO_train2014_000000338210.jpg",
+    "question_bn": "ছবিতে কতগুলো টার্মিনাল দেখানো হয়েছে?",
+    "answer_bn": "১",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 27926,
+    "image_id": 509584,
+    "image_file": "COCO_train2014_000000509584.jpg",
+    "question_bn": "বাইকের প্রধান রঙ কি?",
+    "answer_bn": "কালো",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "বাইকের প্রধান রঙ"
+  },
+  {
+    "qa_id": 5305,
+    "image_id": 224168,
+    "image_file": "COCO_train2014_000000224168.jpg",
+    "question_bn": "এই টেবিলটি কোন আকারের?",
+    "answer_bn": "বড়",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি তোই বাংলায় প"
+  },
+  {
+    "qa_id": 21466,
+    "image_id": 96925,
+    "image_file": "COCO_train2014_000000096925.jpg",
+    "question_bn": "সেখানে কয়টি আমেরিকান পতাকা আছে?",
+    "answer_bn": "৪",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 29472,
+    "image_id": 559073,
+    "image_file": "COCO_train2014_000000559073.jpg",
+    "question_bn": "বিড়ালটি কোথায় তাকাচ্ছে?",
+    "answer_bn": "ক্যামেরা",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "বাংলায় প্রশ্নের"
+  },
+  {
+    "qa_id": 23738,
+    "image_id": 243127,
+    "image_file": "COCO_train2014_000000243127.jpg",
+    "question_bn": "টেবিলের রঙ কী?",
+    "answer_bn": "বাদামী",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "তুমি তাই কি বাংলা"
+  },
+  {
+    "qa_id": 14205,
+    "image_id": 251128,
+    "image_file": "COCO_train2014_000000251128.jpg",
+    "question_bn": "এটা কি সার্কাস?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 36090,
+    "image_id": 522298,
+    "image_file": "COCO_train2014_000000522298.jpg",
+    "question_bn": "কতজন মানুষ?",
+    "answer_bn": "৩",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 45148,
+    "image_id": 555922,
+    "image_file": "COCO_train2014_000000555922.jpg",
+    "question_bn": "সবুজ সবজিটি কি?",
+    "answer_bn": "ব্রকলি",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "সবুজ সবজিটি কি হল"
+  },
+  {
+    "qa_id": 24868,
+    "image_id": 316901,
+    "image_file": "COCO_train2014_000000316901.jpg",
+    "question_bn": "বাচ্চাটি কোন হাতে টুথব্রাশ ধরে আছে?",
+    "answer_bn": "উভয়",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "বাচ্চাটি কোন হাত�"
+  },
+  {
+    "qa_id": 42641,
+    "image_id": 576630,
+    "image_file": "COCO_train2014_000000576630.jpg",
+    "question_bn": "ছবিতে কতজন লোক আছে?",
+    "answer_bn": "১",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "ছবিতে কতজন লোক আছ"
+  },
+  {
+    "qa_id": 518,
+    "image_id": 473957,
+    "image_file": "COCO_train2014_000000473957.jpg",
+    "question_bn": "মেঘগুলো কি ঝোড়ো দেখাচ্ছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 46255,
+    "image_id": 369736,
+    "image_file": "COCO_train2014_000000369736.jpg",
+    "question_bn": "জেব্রাগুলো কী খাচ্ছে?",
+    "answer_bn": "পাতা",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "জেব্রাগুলো কী খা�"
+  },
+  {
+    "qa_id": 24613,
+    "image_id": 17545,
+    "image_file": "COCO_train2014_000000017545.jpg",
+    "question_bn": "গোলাপী বস্তুটি কী?",
+    "answer_bn": "ফুল",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "গোলাপী বস্তুটি ক�"
+  },
+  {
+    "qa_id": 8701,
+    "image_id": 509584,
+    "image_file": "COCO_train2014_000000509584.jpg",
+    "question_bn": "বাইকগুলোতে কতজন লোক আছে?",
+    "answer_bn": "২",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাইকের কাজের"
+  },
+  {
+    "qa_id": 11860,
+    "image_id": 204509,
+    "image_file": "COCO_train2014_000000204509.jpg",
+    "question_bn": "আপনি কতগুলো বিড়াল দেখতে পাচ্ছেন?",
+    "answer_bn": "০",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 10011,
+    "image_id": 356362,
+    "image_file": "COCO_train2014_000000356362.jpg",
+    "question_bn": "আকাশ কি পরিষ্কার?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আকাশ কি পরিষ্কার?"
+  },
+  {
+    "qa_id": 9317,
+    "image_id": 302000,
+    "image_file": "COCO_train2014_000000302000.jpg",
+    "question_bn": "দেয়ালের ওপাশে কী আছে?",
+    "answer_bn": "বাড়ি",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "দেয়ালের ওপাশে ক�"
+  },
+  {
+    "qa_id": 22893,
+    "image_id": 507520,
+    "image_file": "COCO_train2014_000000507520.jpg",
+    "question_bn": "লোকটির গাড়ির উপরে কী আছে?",
+    "answer_bn": "কভার",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 23376,
+    "image_id": 204732,
+    "image_file": "COCO_train2014_000000204732.jpg",
+    "question_bn": "এটি কি একটি গ্রুপ ছবি?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি তাই কি একটি গ�"
+  },
+  {
+    "qa_id": 52353,
+    "image_id": 474955,
+    "image_file": "COCO_train2014_000000474955.jpg",
+    "question_bn": "এটি বছরের কোন মাস?",
+    "answer_bn": "ডিসেম্বর",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 18182,
+    "image_id": 24371,
+    "image_file": "COCO_train2014_000000024371.jpg",
+    "question_bn": "প্লেটে কোন ধরনের প্রোটিন আছে?",
+    "answer_bn": "মুরগি",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "প্লেটে কোন ধরনের"
+  },
+  {
+    "qa_id": 27133,
+    "image_id": 178637,
+    "image_file": "COCO_train2014_000000178637.jpg",
+    "question_bn": "ফ্ল্যাটব্রেডে কোন সস আছে?",
+    "answer_bn": "মাখন",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "ফ্ল্যাটব্রেড এক �"
+  },
+  {
+    "qa_id": 17991,
+    "image_id": 332812,
+    "image_file": "COCO_train2014_000000332812.jpg",
+    "question_bn": "এই লোকটি কি সম্ভবত শারীরিকভাবে সুস্থ?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "এই লোকটি কি সম্ভা"
+  },
+  {
+    "qa_id": 22534,
+    "image_id": 339498,
+    "image_file": "COCO_train2014_000000339498.jpg",
+    "question_bn": "বসে থাকা মেয়েটি কী ধরে আছে?",
+    "answer_bn": "টেনিস র‍্যাকেট",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 40975,
+    "image_id": 547869,
+    "image_file": "COCO_train2014_000000547869.jpg",
+    "question_bn": "এটা কি একটি রেস্তোরাঁ হতে পারে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি একটি রেস্টোর�"
+  },
+  {
+    "qa_id": 21801,
+    "image_id": 307968,
+    "image_file": "COCO_train2014_000000307968.jpg",
+    "question_bn": "ছোট বাচ্চারা কী করছে?",
+    "answer_bn": "উই খেলছে",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 2973,
+    "image_id": 581326,
+    "image_file": "COCO_train2014_000000581326.jpg",
+    "question_bn": "গাড়িটি কয়টি ঘোড়া টানছে?",
+    "answer_bn": "২",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "গাড়িটি কয়টি ঘো�"
+  },
+  {
+    "qa_id": 8054,
+    "image_id": 366665,
+    "image_file": "COCO_train2014_000000366665.jpg",
+    "question_bn": "ছবিতে কয়টি দৃশ্য আছে?",
+    "answer_bn": "১২",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "ছবিতে কয়টি দৃশ্�"
+  },
+  {
+    "qa_id": 23150,
+    "image_id": 163332,
+    "image_file": "COCO_train2014_000000163332.jpg",
+    "question_bn": "ছবিতে কয়টি ভেড়া আছে?",
+    "answer_bn": "২",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "ছবিতে কয়টি ভেড়�"
+  },
+  {
+    "qa_id": 2597,
+    "image_id": 489967,
+    "image_file": "COCO_train2014_000000489967.jpg",
+    "question_bn": "ছবিটি কি একটি থামানো গাড়ির দৃষ্টিকোণ থেকে তোলা?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 401,
+    "image_id": 66255,
+    "image_file": "COCO_train2014_000000066255.jpg",
+    "question_bn": "কোনো গাছ দেখা যাচ্ছে কি?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 26542,
+    "image_id": 363464,
+    "image_file": "COCO_train2014_000000363464.jpg",
+    "question_bn": "উভয় স্ক্রিন কি চালু?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 11477,
+    "image_id": 414555,
+    "image_file": "COCO_train2014_000000414555.jpg",
+    "question_bn": "প্রাণীগুলো কি একই দিকে মুখ করে আছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "প্রাণীগুলো কি এক�"
+  },
+  {
+    "qa_id": 22440,
+    "image_id": 211405,
+    "image_file": "COCO_train2014_000000211405.jpg",
+    "question_bn": "টয়লেটের কভার কি উপরে নাকি নিচে?",
+    "answer_bn": "উপরে",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি তাই বাংলায় প"
+  },
+  {
+    "qa_id": 37102,
+    "image_id": 71339,
+    "image_file": "COCO_train2014_000000071339.jpg",
+    "question_bn": "গাছ আছে কি?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "গাছ আছে কি? তাই বা"
+  },
+  {
+    "qa_id": 45925,
+    "image_id": 331379,
+    "image_file": "COCO_train2014_000000331379.jpg",
+    "question_bn": "কুকুরের গাড়িটি আয়নার গাড়ির তুলনায় কোন দিকে যাচ্ছে?",
+    "answer_bn": "বিপরীত",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "কুকুরের গাড়িটি �"
+  },
+  {
+    "qa_id": 35353,
+    "image_id": 378028,
+    "image_file": "COCO_train2014_000000378028.jpg",
+    "question_bn": "মেয়েটি কি ক্যামেরার দিকে মুখ করে আছে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "মেয়েটি কি ক্যাম�"
+  },
+  {
+    "qa_id": 46306,
+    "image_id": 369736,
+    "image_file": "COCO_train2014_000000369736.jpg",
+    "question_bn": "জেব্রাগুলো কি জায়গা ভাগ করে নিচ্ছে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "জেব্রাগুলো কি জা�"
+  },
+  {
+    "qa_id": 533,
+    "image_id": 473957,
+    "image_file": "COCO_train2014_000000473957.jpg",
+    "question_bn": "বেঞ্চে কি কেউ বসে আছে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 6424,
+    "image_id": 81841,
+    "image_file": "COCO_train2014_000000081841.jpg",
+    "question_bn": "ছবিতে কি কোনো টিভি আছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 13240,
+    "image_id": 315994,
+    "image_file": "COCO_train2014_000000315994.jpg",
+    "question_bn": "কোন বস্তুটি সময় রাখে?",
+    "answer_bn": "ফোন",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি এক বাংলা প্রশ"
+  },
+  {
+    "qa_id": 44233,
+    "image_id": 211464,
+    "image_file": "COCO_train2014_000000211464.jpg",
+    "question_bn": "একটি প্রাণী কি অন্যটির চেয়ে বড়?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি একটি প্রাণী ক"
+  },
+  {
+    "qa_id": 2173,
+    "image_id": 370768,
+    "image_file": "COCO_train2014_000000370768.jpg",
+    "question_bn": "এটি কি একটি সুস্বাদু পাই তৈরিতে ব্যবহার করা যেতে পারে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 29469,
+    "image_id": 559073,
+    "image_file": "COCO_train2014_000000559073.jpg",
+    "question_bn": "বিড়ালটি কি ছায়ায় বসে আছে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "বিড়াল কাজের কাজ"
+  },
+  {
+    "qa_id": 51198,
+    "image_id": 265536,
+    "image_file": "COCO_train2014_000000265536.jpg",
+    "question_bn": "কোনো মেয়ের কি একটি হাত খালি আছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 46192,
+    "image_id": 30175,
+    "image_file": "COCO_train2014_000000030175.jpg",
+    "question_bn": "এই চিহ্নগুলো কি একটি শীতকালীন রিসোর্টের?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি একটি শীতকালী�"
+  },
+  {
+    "qa_id": 13232,
+    "image_id": 315994,
+    "image_file": "COCO_train2014_000000315994.jpg",
+    "question_bn": "কলমটির রঙ কী?",
+    "answer_bn": "কালো",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "কলমটি এক কীর্লিক"
+  },
+  {
+    "qa_id": 35583,
+    "image_id": 41669,
+    "image_file": "COCO_train2014_000000041669.jpg",
+    "question_bn": "তারাটির রঙ কী?",
+    "answer_bn": "লাল",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "তারাটি রঙ কী হয়ে"
+  },
+  {
+    "qa_id": 11284,
+    "image_id": 118347,
+    "image_file": "COCO_train2014_000000118347.jpg",
+    "question_bn": "মহিলাটি কি খুশি?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "মহিলাটি খুশি হয়�"
+  },
+  {
+    "qa_id": 2275,
+    "image_id": 112737,
+    "image_file": "COCO_train2014_000000112737.jpg",
+    "question_bn": "সাইনটিতে কী কী রঙ আছে?",
+    "answer_bn": "সবুজ এবং সাদা",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "সাইনটিতে কী কী রঙ"
+  },
+  {
+    "qa_id": 25297,
+    "image_id": 461114,
+    "image_file": "COCO_train2014_000000461114.jpg",
+    "question_bn": "এই কেকের পাশে কি ফ্রস্টিং দিয়ে বিড়াল আঁকা আছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি এক বাংলা বাদা"
+  },
+  {
+    "qa_id": 29432,
+    "image_id": 559073,
+    "image_file": "COCO_train2014_000000559073.jpg",
+    "question_bn": "বিড়ালটি কি জেগে আছে না ঘুমাচ্ছে?",
+    "answer_bn": "জেগে আছে",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "বাংলায় প্রশ্নের"
+  },
+  {
+    "qa_id": 2204,
+    "image_id": 370768,
+    "image_file": "COCO_train2014_000000370768.jpg",
+    "question_bn": "পাখির প্রধান রঙ কী?",
+    "answer_bn": "সাদা",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "পাখির প্রধান রঙ ক"
+  },
+  {
+    "qa_id": 29099,
+    "image_id": 2283,
+    "image_file": "COCO_train2014_000000002283.jpg",
+    "question_bn": "ঘরটি কি অন্ধকার?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "ঘরটি কি অন্ধকার?"
+  },
+  {
+    "qa_id": 18177,
+    "image_id": 24371,
+    "image_file": "COCO_train2014_000000024371.jpg",
+    "question_bn": "খাবারের কোনো আইটেমে কি গার্নিশ আছে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 21788,
+    "image_id": 307968,
+    "image_file": "COCO_train2014_000000307968.jpg",
+    "question_bn": "রুমে কয়টি ছেলে দাঁড়িয়ে আছে?",
+    "answer_bn": "১",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "রুমে কয়টি ছেলে দ"
+  },
+  {
+    "qa_id": 8695,
+    "image_id": 509584,
+    "image_file": "COCO_train2014_000000509584.jpg",
+    "question_bn": "বাইকটির প্রধান রঙ কী?",
+    "answer_bn": "কালো",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "বাইকটির প্রধান র�"
+  },
+  {
+    "qa_id": 28687,
+    "image_id": 78286,
+    "image_file": "COCO_train2014_000000078286.jpg",
+    "question_bn": "এটি কি একটি ট্রেন স্টেশন?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 46298,
+    "image_id": 369736,
+    "image_file": "COCO_train2014_000000369736.jpg",
+    "question_bn": "জেব্রাগুলো কোথায়?",
+    "answer_bn": "রাস্তায়",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "জেব্রাগুলো কোথায"
+  },
+  {
+    "qa_id": 13574,
+    "image_id": 377423,
+    "image_file": "COCO_train2014_000000377423.jpg",
+    "question_bn": "টেনিস র‍্যাকেটে কোন অক্ষর আছে?",
+    "answer_bn": "w",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "টেনিস র‍্যাকেটে �"
+  },
+  {
+    "qa_id": 21041,
+    "image_id": 145502,
+    "image_file": "COCO_train2014_000000145502.jpg",
+    "question_bn": "ছবিটির মূল আকর্ষণ কোন খেলা?",
+    "answer_bn": "ঘুড়ি উড়ানো",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "ছবিটি কোন খেলা না"
+  },
+  {
+    "qa_id": 14594,
+    "image_id": 576040,
+    "image_file": "COCO_train2014_000000576040.jpg",
+    "question_bn": "সেখানে কয়টি মনিটর আছে?",
+    "answer_bn": "২",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 15578,
+    "image_id": 550308,
+    "image_file": "COCO_train2014_000000550308.jpg",
+    "question_bn": "পানীয়টির মধ্যে সবুজ পাতাটি কী?",
+    "answer_bn": "পুদিনা",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "পানীয়টি এক কীর্�"
+  },
+  {
+    "qa_id": 34062,
+    "image_id": 199126,
+    "image_file": "COCO_train2014_000000199126.jpg",
+    "question_bn": "মহিলাটির নৌকায় কি আছে?",
+    "answer_bn": "পুরুষ",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "মহিলাটির নৌকায় �"
+  },
+  {
+    "qa_id": 1769,
+    "image_id": 405483,
+    "image_file": "COCO_train2014_000000405483.jpg",
+    "question_bn": "এটা কি একটা বড় বাজার?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 15910,
+    "image_id": 427007,
+    "image_file": "COCO_train2014_000000427007.jpg",
+    "question_bn": "ছবিগুলোতে আবহাওয়া কেমন?",
+    "answer_bn": "মেঘাচ্ছন্ন",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 26531,
+    "image_id": 363464,
+    "image_file": "COCO_train2014_000000363464.jpg",
+    "question_bn": "ধাতব টপযুক্ত স্বচ্ছ বলটি কী?",
+    "answer_bn": "মাউস",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "ধাতব টপযুক্ত স্ব�"
+  },
+  {
+    "qa_id": 33928,
+    "image_id": 219472,
+    "image_file": "COCO_train2014_000000219472.jpg",
+    "question_bn": "তারা কি নৌকায় উঠছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 21747,
+    "image_id": 134077,
+    "image_file": "COCO_train2014_000000134077.jpg",
+    "question_bn": "এটা কোন খেলা?",
+    "answer_bn": "ফ্রিজবি",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি তাই কি করবেন?"
+  },
+  {
+    "qa_id": 14217,
+    "image_id": 251128,
+    "image_file": "COCO_train2014_000000251128.jpg",
+    "question_bn": "বড় হাতিটির ত্বক কি মসৃণ?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "বড় হাতিটি কি মসৃ"
+  },
+  {
+    "qa_id": 9438,
+    "image_id": 348602,
+    "image_file": "COCO_train2014_000000348602.jpg",
+    "question_bn": "ফুলগুলোর রঙ কী?",
+    "answer_bn": "গোলাপী",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "ফুলগুলোর রঙ কী হয"
+  },
+  {
+    "qa_id": 30302,
+    "image_id": 461114,
+    "image_file": "COCO_train2014_000000461114.jpg",
+    "question_bn": "এটা কার জন্মদিন?",
+    "answer_bn": "জোশুয়া",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 2195,
+    "image_id": 370768,
+    "image_file": "COCO_train2014_000000370768.jpg",
+    "question_bn": "এটা কি একটি যাত্রীবাহী জেট?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "যার যার যার যার য�"
+  },
+  {
+    "qa_id": 38027,
+    "image_id": 461114,
+    "image_file": "COCO_train2014_000000461114.jpg",
+    "question_bn": "বাচ্চাটির বয়স কত?",
+    "answer_bn": "৩",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "বাচ্চাটির বয়স ক�"
+  },
+  {
+    "qa_id": 19942,
+    "image_id": 251128,
+    "image_file": "COCO_train2014_000000251128.jpg",
+    "question_bn": "ছবিতে কি কোনো বাচ্চা আছে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 17405,
+    "image_id": 337745,
+    "image_file": "COCO_train2014_000000337745.jpg",
+    "question_bn": "লাল বীজগুলোর আসল নাম কী?",
+    "answer_bn": "রাস্পবেরি",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "লাল বীজগুলোর আসল"
+  },
+  {
+    "qa_id": 37942,
+    "image_id": 505827,
+    "image_file": "COCO_train2014_000000505827.jpg",
+    "question_bn": "আমরা কি প্যাক করে যাওয়ার জন্য প্রস্তুত?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি প্রতি প্রশ্ন�"
+  },
+  {
+    "qa_id": 27931,
+    "image_id": 509584,
+    "image_file": "COCO_train2014_000000509584.jpg",
+    "question_bn": "পার্কিং স্পটে কি পার্ক করা আছে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "পার্কিং স্পটে কি"
+  },
+  {
+    "qa_id": 25272,
+    "image_id": 461114,
+    "image_file": "COCO_train2014_000000461114.jpg",
+    "question_bn": "তার সোয়েটশার্টের রঙ কী?",
+    "answer_bn": "হলুদ",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "তার সোয়েটশার্টে"
+  },
+  {
+    "qa_id": 20284,
+    "image_id": 332210,
+    "image_file": "COCO_train2014_000000332210.jpg",
+    "question_bn": "ট্রেনটি কোথায়?",
+    "answer_bn": "ট্র্যাকে",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 19946,
+    "image_id": 251128,
+    "image_file": "COCO_train2014_000000251128.jpg",
+    "question_bn": "হাতিগুলো কি খাবার খুঁজছে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 1700,
+    "image_id": 411803,
+    "image_file": "COCO_train2014_000000411803.jpg",
+    "question_bn": "এখানে কী ধরনের পরিবহন ব্যবস্থা রয়েছে?",
+    "answer_bn": "ট্রেন",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি এক বাংলা প্রশ"
+  },
+  {
+    "qa_id": 16749,
+    "image_id": 317227,
+    "image_file": "COCO_train2014_000000317227.jpg",
+    "question_bn": "এই জিনিসগুলোর মধ্যে কয়টি গাছ থেকে উৎপন্ন হয়নি?",
+    "answer_bn": "১",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি এক বাংলা বাক্"
+  },
+  {
+    "qa_id": 30986,
+    "image_id": 337628,
+    "image_file": "COCO_train2014_000000337628.jpg",
+    "question_bn": "ডোনাটের উপর কি চেরি আছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "ডোনাটের উপর কি চে"
+  },
+  {
+    "qa_id": 26367,
+    "image_id": 121610,
+    "image_file": "COCO_train2014_000000121610.jpg",
+    "question_bn": "বেঞ্চটির রঙ কী?",
+    "answer_bn": "বাদামী",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "বেঞ্চটির রঙ কী?\n\nব"
+  },
+  {
+    "qa_id": 23177,
+    "image_id": 483453,
+    "image_file": "COCO_train2014_000000483453.jpg",
+    "question_bn": "এখানে কয়টি প্লেস সেটিং আছে?",
+    "answer_bn": "১",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি এক কাজ করছি য�"
+  },
+  {
+    "qa_id": 5364,
+    "image_id": 427992,
+    "image_file": "COCO_train2014_000000427992.jpg",
+    "question_bn": "পটভূমিতে ওগুলো কি স্কি লিফটের লাইন?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "স্কি লিফট এক ক্যা"
+  },
+  {
+    "qa_id": 23181,
+    "image_id": 483453,
+    "image_file": "COCO_train2014_000000483453.jpg",
+    "question_bn": "বাটির রঙ কী?",
+    "answer_bn": "সাদা",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "বাটি রঙ কী হয়েছে"
+  },
+  {
+    "qa_id": 28267,
+    "image_id": 57965,
+    "image_file": "COCO_train2014_000000057965.jpg",
+    "question_bn": "ঘড়িতে সময় কত?",
+    "answer_bn": "৭:২৭",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "ঘড়িতে সময় কত?\n\nঘ"
+  },
+  {
+    "qa_id": 41199,
+    "image_id": 402243,
+    "image_file": "COCO_train2014_000000402243.jpg",
+    "question_bn": "কতগুলো আয়না চিত্রিত হয়েছে?",
+    "answer_bn": "১",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 30996,
+    "image_id": 337628,
+    "image_file": "COCO_train2014_000000337628.jpg",
+    "question_bn": "কতগুলো প্লেট?",
+    "answer_bn": "৩",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 26522,
+    "image_id": 363464,
+    "image_file": "COCO_train2014_000000363464.jpg",
+    "question_bn": "কোন ল্যাপটপটি চালু আছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 1809,
+    "image_id": 24591,
+    "image_file": "COCO_train2014_000000024591.jpg",
+    "question_bn": "কয়টি পোল আছে?",
+    "answer_bn": "২",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 10010,
+    "image_id": 356362,
+    "image_file": "COCO_train2014_000000356362.jpg",
+    "question_bn": "ওটা কি একটি নতুন বিমান?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "ওটা কি একটি নতুন �"
+  },
+  {
+    "qa_id": 22434,
+    "image_id": 211405,
+    "image_file": "COCO_train2014_000000211405.jpg",
+    "question_bn": "কী সম্পূর্ণ খোলা?",
+    "answer_bn": "টয়লেট",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 15803,
+    "image_id": 129433,
+    "image_file": "COCO_train2014_000000129433.jpg",
+    "question_bn": "টেনিস র‍্যাকেটটির রঙ কী?",
+    "answer_bn": "লাল এবং সাদা",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "টেনিস রঙ কী হলে ত�"
+  },
+  {
+    "qa_id": 50538,
+    "image_id": 576227,
+    "image_file": "COCO_train2014_000000576227.jpg",
+    "question_bn": "বিল্ডিংয়ের সাথে ঘড়ির রঙের ব্যাপারে আপনার মতামত কি?",
+    "answer_bn": "বিপরীত",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "বিল্ডিংয়ের সাথে"
+  },
+  {
+    "qa_id": 22657,
+    "image_id": 425701,
+    "image_file": "COCO_train2014_000000425701.jpg",
+    "question_bn": "ব্যক্তিটি কী পান করছে?",
+    "answer_bn": "পানি",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 2191,
+    "image_id": 370768,
+    "image_file": "COCO_train2014_000000370768.jpg",
+    "question_bn": "আকাশে কী আছে?",
+    "answer_bn": "প্লেন",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 9483,
+    "image_id": 581601,
+    "image_file": "COCO_train2014_000000581601.jpg",
+    "question_bn": "ওটা কি একটি সাধারণ আকৃতির টাব?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "ওটা কি একটি সাধার"
+  },
+  {
+    "qa_id": 52286,
+    "image_id": 474955,
+    "image_file": "COCO_train2014_000000474955.jpg",
+    "question_bn": "লোকটির হাতে কী আছে?",
+    "answer_bn": "স্নোবোর্ড",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 35797,
+    "image_id": 190952,
+    "image_file": "COCO_train2014_000000190952.jpg",
+    "question_bn": "এই পিজ্জাতে কি খুব বেশি সস আছে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 27613,
+    "image_id": 234956,
+    "image_file": "COCO_train2014_000000234956.jpg",
+    "question_bn": "কেউ কি ট্রেনের জন্য অপেক্ষা করছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 36054,
+    "image_id": 207976,
+    "image_file": "COCO_train2014_000000207976.jpg",
+    "question_bn": "লোকটি কী করছে?",
+    "answer_bn": "হাসছে",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 52559,
+    "image_id": 357728,
+    "image_file": "COCO_train2014_000000357728.jpg",
+    "question_bn": "ছবিতে কতজন লোক আছে?",
+    "answer_bn": "৫০",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 41277,
+    "image_id": 439095,
+    "image_file": "COCO_train2014_000000439095.jpg",
+    "question_bn": "হলুদ ব্যাগে কোন ফল আছে?",
+    "answer_bn": "জাম্বুরা",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "হলুদ ব্যাগে কোন ফ"
+  },
+  {
+    "qa_id": 10013,
+    "image_id": 356362,
+    "image_file": "COCO_train2014_000000356362.jpg",
+    "question_bn": "ওগুলো কি প্রপেলার প্লেন?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "ওগুলো প্রপেলার প�"
+  },
+  {
+    "qa_id": 30324,
+    "image_id": 461114,
+    "image_file": "COCO_train2014_000000461114.jpg",
+    "question_bn": "জন্মদিনের ছেলেটি কি উঁচু চেয়ারে বসে আছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 49811,
+    "image_id": 500044,
+    "image_file": "COCO_train2014_000000500044.jpg",
+    "question_bn": "এটা কি মাইক্রোওয়েভ?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 16724,
+    "image_id": 317227,
+    "image_file": "COCO_train2014_000000317227.jpg",
+    "question_bn": "টেবিলের উপর বোতলে কী আছে?",
+    "answer_bn": "শেরি",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি তুমি কি তুলে �"
+  },
+  {
+    "qa_id": 22221,
+    "image_id": 288115,
+    "image_file": "COCO_train2014_000000288115.jpg",
+    "question_bn": "ট্রেনটি কি এইমাত্র একটি বাঁক ঘুরেছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 2631,
+    "image_id": 491837,
+    "image_file": "COCO_train2014_000000491837.jpg",
+    "question_bn": "সেখানে কয়টি প্লান্টার আছে?",
+    "answer_bn": "১৫",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 36052,
+    "image_id": 207976,
+    "image_file": "COCO_train2014_000000207976.jpg",
+    "question_bn": "এই ব্যক্তি কি চশমা পরে আছে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি তাই বাংলায় প"
+  },
+  {
+    "qa_id": 205,
+    "image_id": 79106,
+    "image_file": "COCO_train2014_000000079106.jpg",
+    "question_bn": "চিহ্নের উপর কোন নম্বর আছে?",
+    "answer_bn": "202.575.8444",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 41977,
+    "image_id": 350077,
+    "image_file": "COCO_train2014_000000350077.jpg",
+    "question_bn": "এটা কি একটি হাসপাতাল?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "প্রতি কাজের উপায়"
+  },
+  {
+    "qa_id": 44692,
+    "image_id": 64626,
+    "image_file": "COCO_train2014_000000064626.jpg",
+    "question_bn": "আকাশের রঙ কি?",
+    "answer_bn": "ধূসর",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আকাশের রঙ কি হলে �"
+  },
+  {
+    "qa_id": 16781,
+    "image_id": 317227,
+    "image_file": "COCO_train2014_000000317227.jpg",
+    "question_bn": "ছবিতে কত শতাংশ আছে?",
+    "answer_bn": "১০০",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 29428,
+    "image_id": 559073,
+    "image_file": "COCO_train2014_000000559073.jpg",
+    "question_bn": "সেখানে কয়টি বিড়াল আছে?",
+    "answer_bn": "১",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 35715,
+    "image_id": 558380,
+    "image_file": "COCO_train2014_000000558380.jpg",
+    "question_bn": "সিঙ্কটির রঙ কী?",
+    "answer_bn": "গোলাপী",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "সিঙ্কটি রঙ কী হয়"
+  },
+  {
+    "qa_id": 5929,
+    "image_id": 347796,
+    "image_file": "COCO_train2014_000000347796.jpg",
+    "question_bn": "ছবিতে কয়জন লোক আছে?",
+    "answer_bn": "৫",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "ছবিতে কয়জন লোক আ"
+  },
+  {
+    "qa_id": 26488,
+    "image_id": 438292,
+    "image_file": "COCO_train2014_000000438292.jpg",
+    "question_bn": "লোকটি কী করছে?",
+    "answer_bn": "হাসছে",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 25343,
+    "image_id": 461114,
+    "image_file": "COCO_train2014_000000461114.jpg",
+    "question_bn": "কেকের উপর কোন ফ্লেভারের ফ্রস্টিং আছে?",
+    "answer_bn": "ভ্যানিলা",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 11008,
+    "image_id": 398704,
+    "image_file": "COCO_train2014_000000398704.jpg",
+    "question_bn": "চেয়ারের রঙ কি?",
+    "answer_bn": "বাদামী",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "চেয়ারের রঙ কি বা"
+  },
+  {
+    "qa_id": 24621,
+    "image_id": 17545,
+    "image_file": "COCO_train2014_000000017545.jpg",
+    "question_bn": "ফুলদানিটি কি জমকালো?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "ফুলদানিটি কি জমক�"
+  },
+  {
+    "qa_id": 41180,
+    "image_id": 402243,
+    "image_file": "COCO_train2014_000000402243.jpg",
+    "question_bn": "দেয়ালের ছবির বস্তুটি কী?",
+    "answer_bn": "তোয়ালে",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "দেয়ালের ছবির বস�"
+  },
+  {
+    "qa_id": 25305,
+    "image_id": 461114,
+    "image_file": "COCO_train2014_000000461114.jpg",
+    "question_bn": "এটি কোন খাবার?",
+    "answer_bn": "কেক",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 33439,
+    "image_id": 176403,
+    "image_file": "COCO_train2014_000000176403.jpg",
+    "question_bn": "বৃষ্টি হচ্ছে বলে কি ছাতাগুলো উপস্থিত?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "বাংলায় প্রশ্নের"
+  },
+  {
+    "qa_id": 26255,
+    "image_id": 509210,
+    "image_file": "COCO_train2014_000000509210.jpg",
+    "question_bn": "জানালার সিলে কী রাখা আছে?",
+    "answer_bn": "বোতল",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 31638,
+    "image_id": 73568,
+    "image_file": "COCO_train2014_000000073568.jpg",
+    "question_bn": "কোন লোকটির গোঁফ আছে?",
+    "answer_bn": "ডানদিকের লোকটি",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 24560,
+    "image_id": 81981,
+    "image_file": "COCO_train2014_000000081981.jpg",
+    "question_bn": "এই কেকটি কি অনেক লোক খাচ্ছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 46253,
+    "image_id": 369736,
+    "image_file": "COCO_train2014_000000369736.jpg",
+    "question_bn": "আপনি কয়টি জেব্রার মাথা দেখতে পাচ্ছেন?",
+    "answer_bn": "২",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আপনি কয়টি জেব্র�"
+  },
+  {
+    "qa_id": 11282,
+    "image_id": 118347,
+    "image_file": "COCO_train2014_000000118347.jpg",
+    "question_bn": "তার নাম কী?",
+    "answer_bn": "অজানা",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি তাই বাংলায় প"
+  },
+  {
+    "qa_id": 16738,
+    "image_id": 317227,
+    "image_file": "COCO_train2014_000000317227.jpg",
+    "question_bn": "টেবিলে কি কোনো সেদ্ধ ডিম আছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 34716,
+    "image_id": 537497,
+    "image_file": "COCO_train2014_000000537497.jpg",
+    "question_bn": "ট্রের উপর কি রাস্পবেরি আছে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি তোই বাংলায় প"
+  },
+  {
+    "qa_id": 30192,
+    "image_id": 447074,
+    "image_file": "COCO_train2014_000000447074.jpg",
+    "question_bn": "এটা কোন ধরনের যান?",
+    "answer_bn": "বাস",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি এক বাংলা বাংল"
+  },
+  {
+    "qa_id": 15481,
+    "image_id": 205791,
+    "image_file": "COCO_train2014_000000205791.jpg",
+    "question_bn": "বিড়ালটি কিসের উপর শুয়ে আছে?",
+    "answer_bn": "সোফা",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "বাংলায় প্রশ্নের"
+  },
+  {
+    "qa_id": 48382,
+    "image_id": 128121,
+    "image_file": "COCO_train2014_000000128121.jpg",
+    "question_bn": "বাম দিকের দেয়ালের রঙ কী?",
+    "answer_bn": "হলুদ",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "বাংলায় প্রশ্নের"
+  },
+  {
+    "qa_id": 24634,
+    "image_id": 528189,
+    "image_file": "COCO_train2014_000000528189.jpg",
+    "question_bn": "গরুটি কি ক্যামেরার দিকে মুখ করে আছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "গরুটি কি ক্যামের�"
+  },
+  {
+    "qa_id": 32667,
+    "image_id": 390496,
+    "image_file": "COCO_train2014_000000390496.jpg",
+    "question_bn": "এটা কি দিনের বেলা?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 45546,
+    "image_id": 441493,
+    "image_file": "COCO_train2014_000000441493.jpg",
+    "question_bn": "দেয়ালের রঙ কী?",
+    "answer_bn": "সাদা",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "দেয়ালের রঙ কী হয"
+  },
+  {
+    "qa_id": 91,
+    "image_id": 121582,
+    "image_file": "COCO_train2014_000000121582.jpg",
+    "question_bn": "রাস্তায় কি কোনো ক্যাব আছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "রাস্তায় কেন্দ্র"
+  },
+  {
+    "qa_id": 24879,
+    "image_id": 316901,
+    "image_file": "COCO_train2014_000000316901.jpg",
+    "question_bn": "মেয়েটি মুখে কী ঢোকাচ্ছে?",
+    "answer_bn": "টুথব্রাশ",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "মেয়েটি মুখে কী ঢ"
+  },
+  {
+    "qa_id": 23903,
+    "image_id": 422115,
+    "image_file": "COCO_train2014_000000422115.jpg",
+    "question_bn": "তার টাই কেন উপরে উঠে আছে?",
+    "answer_bn": "বাতাস",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "তার টাই কেন উপরে �"
+  },
+  {
+    "qa_id": 18178,
+    "image_id": 24371,
+    "image_file": "COCO_train2014_000000024371.jpg",
+    "question_bn": "এই খাবারটি কোন দেশের?",
+    "answer_bn": "ইতালি",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "এই খাবার এক ক্ষেত"
+  },
+  {
+    "qa_id": 35584,
+    "image_id": 41669,
+    "image_file": "COCO_train2014_000000041669.jpg",
+    "question_bn": "কতজন লোক খাবে?",
+    "answer_bn": "১০",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 50533,
+    "image_id": 576227,
+    "image_file": "COCO_train2014_000000576227.jpg",
+    "question_bn": "আকাশে কি মেঘ আছে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি আমার বাংলায়"
+  },
+  {
+    "qa_id": 26222,
+    "image_id": 509210,
+    "image_file": "COCO_train2014_000000509210.jpg",
+    "question_bn": "এই ঘরে কতগুলো জানালা আছে?",
+    "answer_bn": "৩",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 37981,
+    "image_id": 461114,
+    "image_file": "COCO_train2014_000000461114.jpg",
+    "question_bn": "এই কেকটি যার জন্য তার বয়স কত?",
+    "answer_bn": "৩",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বলি তার বয়স �"
+  },
+  {
+    "qa_id": 37119,
+    "image_id": 87235,
+    "image_file": "COCO_train2014_000000087235.jpg",
+    "question_bn": "ফটোগ্রাফের কোন দিকে সবজি আছে?",
+    "answer_bn": "ডান",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "ফটোগ্রাফের কোন দ�"
+  },
+  {
+    "qa_id": 18744,
+    "image_id": 45543,
+    "image_file": "COCO_train2014_000000045543.jpg",
+    "question_bn": "ট্রেনটিতে কী লেখা আছে?",
+    "answer_bn": "জিডব্লিউএন",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 41250,
+    "image_id": 129361,
+    "image_file": "COCO_train2014_000000129361.jpg",
+    "question_bn": "তার কোটের রঙ কী?",
+    "answer_bn": "সাদা",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি তার কোটের রঙ �"
+  },
+  {
+    "qa_id": 38214,
+    "image_id": 18873,
+    "image_file": "COCO_train2014_000000018873.jpg",
+    "question_bn": "এটি কি একটি গ্র্যাজুয়েশন কেক?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 14809,
+    "image_id": 138999,
+    "image_file": "COCO_train2014_000000138999.jpg",
+    "question_bn": "পানপাত্রগুলো কি নতুন না পুরনো দেখাচ্ছে?",
+    "answer_bn": "নতুন",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "পানপাত্রগুলো কি �"
+  },
+  {
+    "qa_id": 7824,
+    "image_id": 379434,
+    "image_file": "COCO_train2014_000000379434.jpg",
+    "question_bn": "তারা কী খেলছে?",
+    "answer_bn": "ফ্রিসবি",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি তারা খেলছে তা"
+  },
+  {
+    "qa_id": 23691,
+    "image_id": 102383,
+    "image_file": "COCO_train2014_000000102383.jpg",
+    "question_bn": "এই ছবিতে কি ভিননেট (অন্ধকার কোণ) আছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 41416,
+    "image_id": 481504,
+    "image_file": "COCO_train2014_000000481504.jpg",
+    "question_bn": "এটি কি একটি ছায়াযুক্ত এলাকা?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি একটি ছায়াযু�"
+  },
+  {
+    "qa_id": 26484,
+    "image_id": 438292,
+    "image_file": "COCO_train2014_000000438292.jpg",
+    "question_bn": "তার ব্লাউজের রঙ কী?",
+    "answer_bn": "সাদা",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি তাই বাংলায় প"
+  },
+  {
+    "qa_id": 8069,
+    "image_id": 448177,
+    "image_file": "COCO_train2014_000000448177.jpg",
+    "question_bn": "টয়লেটটি কীসের জন্য ব্যবহৃত হচ্ছে?",
+    "answer_bn": "প্ল্যান্টার",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "টয়লেটটি কীসের জ�"
+  },
+  {
+    "qa_id": 20831,
+    "image_id": 510680,
+    "image_file": "COCO_train2014_000000510680.jpg",
+    "question_bn": "সবুজ আপেলটি কি খাওয়ার জন্য প্রস্তুত?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "সবুজ আপেলটি খাওয�"
+  },
+  {
+    "qa_id": 25314,
+    "image_id": 461114,
+    "image_file": "COCO_train2014_000000461114.jpg",
+    "question_bn": "কেকে কি কোনো গর্ত আছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 17402,
+    "image_id": 337745,
+    "image_file": "COCO_train2014_000000337745.jpg",
+    "question_bn": "ছবিতে কোন ধরনের খাবার আছে?",
+    "answer_bn": "কেক",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 13226,
+    "image_id": 315994,
+    "image_file": "COCO_train2014_000000315994.jpg",
+    "question_bn": "কোন ধরণের ব্যক্তি এই বস্তুগুলো ব্যবহার করবে?",
+    "answer_bn": "মহিলা",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 1766,
+    "image_id": 405483,
+    "image_file": "COCO_train2014_000000405483.jpg",
+    "question_bn": "লাল সাইনটিতে কী লেখা আছে?",
+    "answer_bn": "হার্টস",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 2923,
+    "image_id": 64626,
+    "image_file": "COCO_train2014_000000064626.jpg",
+    "question_bn": "এই টাওয়ারে কতগুলো ঘড়ি আছে?",
+    "answer_bn": "১",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 38243,
+    "image_id": 329766,
+    "image_file": "COCO_train2014_000000329766.jpg",
+    "question_bn": "ট্রেনের কোনো দরজা কি খোলা আছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "যেন তুমি তাই কি খ�"
+  },
+  {
+    "qa_id": 6404,
+    "image_id": 81841,
+    "image_file": "COCO_train2014_000000081841.jpg",
+    "question_bn": "টেবিলটি কি জিনিসপত্র মুক্ত?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি তোই বাংলায় প"
+  },
+  {
+    "qa_id": 37826,
+    "image_id": 184504,
+    "image_file": "COCO_train2014_000000184504.jpg",
+    "question_bn": "গাছের নিচে কোন ধরনের আসবাবপত্র আছে?",
+    "answer_bn": "বেঞ্চ",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 34380,
+    "image_id": 537558,
+    "image_file": "COCO_train2014_000000537558.jpg",
+    "question_bn": "ছবিতে কুকুরটি কোথায় দাঁড়িয়ে আছে?",
+    "answer_bn": "মেঝেতে",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "চুক্রিত কুকুরটি �"
+  },
+  {
+    "qa_id": 49796,
+    "image_id": 183080,
+    "image_file": "COCO_train2014_000000183080.jpg",
+    "question_bn": "ব্র্যান্ডগুলো কি মেলে?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "ব্র্যান্ডগুলো কি"
+  },
+  {
+    "qa_id": 16759,
+    "image_id": 317227,
+    "image_file": "COCO_train2014_000000317227.jpg",
+    "question_bn": "এই ছবিতে কয়টি বাটি আছে?",
+    "answer_bn": "২",
+    "answer_type": "numeric",
+    "source": "bangla_bayanno",
+    "prediction": "আমি এক বাটি আছে য�"
+  },
+  {
+    "qa_id": 30314,
+    "image_id": 461114,
+    "image_file": "COCO_train2014_000000461114.jpg",
+    "question_bn": "এটা কার জন্মদিন?",
+    "answer_bn": "জোশুয়া",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 39692,
+    "image_id": 346898,
+    "image_file": "COCO_train2014_000000346898.jpg",
+    "question_bn": "ছবিটি দিনের কোন সময়ের?",
+    "answer_bn": "বিকাল",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 30995,
+    "image_id": 337628,
+    "image_file": "COCO_train2014_000000337628.jpg",
+    "question_bn": "কোনো ডোনাটের উপর কি স্প্রিঙ্কলস আছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 21463,
+    "image_id": 96925,
+    "image_file": "COCO_train2014_000000096925.jpg",
+    "question_bn": "এরা কি হিংস্র বাইকার?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 13227,
+    "image_id": 315994,
+    "image_file": "COCO_train2014_000000315994.jpg",
+    "question_bn": "এই ছবিতে কি কোনো অ্যান্টিক চাবি আছে?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি এক ক্লাসে এক �"
+  },
+  {
+    "qa_id": 417,
+    "image_id": 66255,
+    "image_file": "COCO_train2014_000000066255.jpg",
+    "question_bn": "এই ছবিটি কি প্লেনের উপর থেকে তোলা হয়েছিল?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 9255,
+    "image_id": 330597,
+    "image_file": "COCO_train2014_000000330597.jpg",
+    "question_bn": "এখানে কোন ধরনের ওয়াইন পরিবেশন করা হয়?",
+    "answer_bn": "পিনোট",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি এক বাংলা প্রশ"
+  },
+  {
+    "qa_id": 35332,
+    "image_id": 378028,
+    "image_file": "COCO_train2014_000000378028.jpg",
+    "question_bn": "এটা কি একটি অফিস?",
+    "answer_bn": "না",
+    "answer_type": "polar",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  },
+  {
+    "qa_id": 19077,
+    "image_id": 176085,
+    "image_file": "COCO_train2014_000000176085.jpg",
+    "question_bn": "What is on the plate?",
+    "answer_bn": "fruit",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি তাই বাংলা বাং"
+  },
+  {
+    "qa_id": 15496,
+    "image_id": 205791,
+    "image_file": "COCO_train2014_000000205791.jpg",
+    "question_bn": "এই বিড়ালটি কি ঘরের ভিতরে নাকি বাইরে?",
+    "answer_bn": "ভিতরে",
+    "answer_type": "descriptive",
+    "source": "bangla_bayanno",
+    "prediction": "আমি বাংলায় প্রশ�"
+  }
+]

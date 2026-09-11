@@ -1,0 +1,15 @@
+{
+  "lora_r": 16,
+  "lora_alpha": 32,
+  "lora_dropout": 0.05,
+  "target_modules": "all-linear",
+  "learning_rate": 0.0002,
+  "lr_scheduler_type": "cosine",
+  "warmup_steps": 30,
+  "max_train_steps": 1000,
+  "per_device_train_batch_size": 1,
+  "gradient_accumulation_steps": 8,
+  "fp16": true,
+  "bf16": false,
+  "do_image_splitting": false
+}

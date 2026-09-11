@@ -1,0 +1,6 @@
+﻿example_id,image_file,question_bn,reference_answer_bn,predicted_answer_bn,answer_type,correct
+1,example_01_COCO_train2014_000000277688.jpg,গাড়িতে কতজন লোক আছে?,২,২,numeric,True
+2,example_02_COCO_train2014_000000406168.jpg,এটি কি যুক্তরাষ্ট্রে?,না,না,polar,True
+3,example_03_COCO_train2014_000000550536.jpg,প্লেটটির রঙ কি?,সাদা,সাদা,descriptive,True
+4,example_04_COCO_train2014_000000383816.jpg,সে কিসের উপর দাঁড়িয়ে আছে?,স্নোবোর্ড,স্কিইং,descriptive,False
+5,example_05_COCO_train2014_000000317227.jpg,আপনি কোন ব্র্যান্ডের মশলা দেখতে পাচ্ছেন?,আর্গো,টেনিস,descriptive,False

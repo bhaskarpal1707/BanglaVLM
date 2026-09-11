@@ -1,0 +1,4002 @@
+[
+  {
+    "image_file": "chitrojera_002489.jpg",
+    "question_bn": "চিত্রে ক'জন লোক লাল শার্ট পরে আছে?",
+    "answer_bn": "একজন",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "হ্যাঁ"
+  },
+  {
+    "image_file": "chitrojera_000606.jpg",
+    "question_bn": "ছবিতে মোট কতজন মানুষ স্কুটারে চলাচল করছে?",
+    "answer_bn": "দুইজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "২"
+  },
+  {
+    "image_file": "chitrojera_005745.jpg",
+    "question_bn": "চিত্রে কি ধরনের খাবার পরিবেশন করা হয়েছে?",
+    "answer_bn": "বিরিয়ানি",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "সালাদ"
+  },
+  {
+    "image_file": "chitrojera_005222.jpg",
+    "question_bn": "প্লেটের উপরে কি ধরনের খাবার রয়েছে?",
+    "answer_bn": "রুটি ও কারি",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "পিজা"
+  },
+  {
+    "image_file": "chitrojera_004804.jpg",
+    "question_bn": "ছবিতে দেখা ব্যক্তি কিসে আছেন?",
+    "answer_bn": "নৌকায়",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "বাইক"
+  },
+  {
+    "image_file": "chitrojera_002975.jpg",
+    "question_bn": "ভ্যানের উপর বসে থাকা ব্যক্তির শারীরিক পরিস্থিতি কি?",
+    "answer_bn": "পঙ্গু",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "বাইক"
+  },
+  {
+    "image_file": "chitrojera_002193.jpg",
+    "question_bn": "ছবিতে কতজন মানুষ দেখা যাচ্ছে?",
+    "answer_bn": "পাঁচজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_011284.jpg",
+    "question_bn": "ছবিতে থাকা পুরুষের পোশাকের রঙ কি?",
+    "answer_bn": "সাদা",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_001906.jpg",
+    "question_bn": "ছবিতে কতজন মানুষ ক্ষেতে কাজ করছে?",
+    "answer_bn": "তিনজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "২"
+  },
+  {
+    "image_file": "chitrojera_012047.jpg",
+    "question_bn": "ছবিতে ব্যক্তিটি কোথায় বসে আছেন?",
+    "answer_bn": "সিঁড়ির উপরে",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "বাথরুম"
+  },
+  {
+    "image_file": "chitrojera_008571.jpg",
+    "question_bn": "ছবির মহিলারা কী বহন করছেন?",
+    "answer_bn": "পাতা",
+    "answer_type": "action",
+    "source": "chitrojera",
+    "prediction": "কাঁচি"
+  },
+  {
+    "image_file": "chitrojera_000769.jpg",
+    "question_bn": "ছবিতে মোট কতজন ছেলেমেয়ে খেলছে?",
+    "answer_bn": "সাত জন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "৫"
+  },
+  {
+    "image_file": "chitrojera_000716.jpg",
+    "question_bn": "ছবিতে কতজন মানুষ নৌকায় বসে আছে?",
+    "answer_bn": "তিনজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "৪"
+  },
+  {
+    "image_file": "chitrojera_002026.jpg",
+    "question_bn": "ছবিতে কয়েক প্রজাতির ক্যাকটাস কোন টবে রয়েছে?",
+    "answer_bn": "সামনের টবে",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "ক্যাকটাস"
+  },
+  {
+    "image_file": "chitrojera_004719.jpg",
+    "question_bn": "ছোট ছেলেটি কি ধরণের ফুল হাতে নিয়ে আছে?",
+    "answer_bn": "শাপলা ফুল",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "ফুল"
+  },
+  {
+    "image_file": "chitrojera_004973.jpg",
+    "question_bn": "রাস্তাটির দুইপাশে কী ধরনের গাছ রয়েছে?",
+    "answer_bn": "সবুজ গাছপালা",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "পালা"
+  },
+  {
+    "image_file": "chitrojera_010492.jpg",
+    "question_bn": "ছেলেটি কী পরে আছে?",
+    "answer_bn": "সাদা শার্ট",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "বিড়াল"
+  },
+  {
+    "image_file": "chitrojera_000659.jpg",
+    "question_bn": "ছবিতে কতজন নারী দেখা যাচ্ছে?",
+    "answer_bn": "তিনজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "২"
+  },
+  {
+    "image_file": "chitrojera_011479.jpg",
+    "question_bn": "মহিলাটি কোথায় হাসছেন?",
+    "answer_bn": "বাজারে",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "বাইরে"
+  },
+  {
+    "image_file": "chitrojera_004289.jpg",
+    "question_bn": "গ্লাসের উপরের অলংকারটি কি?",
+    "answer_bn": "ছোট ছাতা",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "ক্যামেরা"
+  },
+  {
+    "image_file": "chitrojera_012161.jpg",
+    "question_bn": "ছবিতে দেখা যাওয়া শহরের আকাশ কেমন?",
+    "answer_bn": "মেঘলা",
+    "answer_type": "state",
+    "source": "chitrojera",
+    "prediction": "বাতাস"
+  },
+  {
+    "image_file": "chitrojera_008527.jpg",
+    "question_bn": "ছবিতে দেখা মেয়েটি কি করছে?",
+    "answer_bn": "দড়ি লাফ",
+    "answer_type": "action",
+    "source": "chitrojera",
+    "prediction": "বাঁচাচ্ছে"
+  },
+  {
+    "image_file": "chitrojera_004737.jpg",
+    "question_bn": "ছবিতে কি ধরণের পাত্র দেখা যাচ্ছে?",
+    "answer_bn": "মাটির হাড়ি",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কালো"
+  },
+  {
+    "image_file": "chitrojera_009310.jpg",
+    "question_bn": "মহিলাটির পরনে কী রঙের শারি রয়েছে?",
+    "answer_bn": "বেগুলি",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_005791.jpg",
+    "question_bn": "ছবিতে কি ধরনের পরিবেশ দেখা যাচ্ছে?",
+    "answer_bn": "গোধূলি",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "পার্ক"
+  },
+  {
+    "image_file": "chitrojera_000154.jpg",
+    "question_bn": "ছবিতে কতজন লোক মটরসাইকেল চালাচ্ছে?",
+    "answer_bn": "চারজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "৬"
+  },
+  {
+    "image_file": "chitrojera_003440.jpg",
+    "question_bn": "থালায় কটি প্রকারের তরকারী দেখা যাচ্ছে?",
+    "answer_bn": "পাঁচ প্রকার",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কাটানো"
+  },
+  {
+    "image_file": "chitrojera_008580.jpg",
+    "question_bn": "ছবিতে কী কাজ করছে মানুষগুলো?",
+    "answer_bn": "গাছ সরাচ্ছে",
+    "answer_type": "action",
+    "source": "chitrojera",
+    "prediction": "বাইরে আছে"
+  },
+  {
+    "image_file": "chitrojera_006981.jpg",
+    "question_bn": "বাচ্চা ছেলেটি কোন জিনিসের উপর বসে?",
+    "answer_bn": "রঙের মোড়ক",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "কাঁচি"
+  },
+  {
+    "image_file": "chitrojera_011964.jpg",
+    "question_bn": "ছবিতে মানুষটি কোথায় দাঁড়িয়ে আছেন?",
+    "answer_bn": "পাহাড়ের সামনে",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "বাম"
+  },
+  {
+    "image_file": "chitrojera_003376.jpg",
+    "question_bn": "ছবিতে বাচ্চারা কী দেখছে?",
+    "answer_bn": "ট্রেন",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কাঁচি"
+  },
+  {
+    "image_file": "chitrojera_004636.jpg",
+    "question_bn": "ছবিতে সূর্যাস্তটি কখন ঘটছে?",
+    "answer_bn": "সন্ধ্যায়",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "শর্টার"
+  },
+  {
+    "image_file": "chitrojera_006941.jpg",
+    "question_bn": "ছবিতে মেয়েরা কোন জায়গায় খেলছে?",
+    "answer_bn": "বারান্দায়",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "গাছ"
+  },
+  {
+    "image_file": "chitrojera_012168.jpg",
+    "question_bn": "পাহাড়ের চুরাটি কেমন ঘেরা আছে?",
+    "answer_bn": "সবুজে",
+    "answer_type": "state",
+    "source": "chitrojera",
+    "prediction": "বাতাস"
+  },
+  {
+    "image_file": "chitrojera_001998.jpg",
+    "question_bn": "ছবিতে কতগুলি প্লেট দেখা যাচ্ছে?",
+    "answer_bn": "পাঁচটি",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "৪"
+  },
+  {
+    "image_file": "chitrojera_007673.jpg",
+    "question_bn": "ছবিতে কোন সময়ে সূর্য অস্ত যাচ্ছে?",
+    "answer_bn": "পশ্চিম আকাশে",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "গোলাপী"
+  },
+  {
+    "image_file": "chitrojera_002082.jpg",
+    "question_bn": "ছবিতে কয়জন বাচ্চা রয়েছে?",
+    "answer_bn": "চারজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "৪"
+  },
+  {
+    "image_file": "chitrojera_007312.jpg",
+    "question_bn": "ছবিতে বুড়ো পুরুষটি কোন কাজ করছেন?",
+    "answer_bn": "নামাজ পড়ছেন",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাথরুম করছেন"
+  },
+  {
+    "image_file": "chitrojera_007027.jpg",
+    "question_bn": "কাপটি কোন ধরনের সামগ্রী দিয়ে তৈরি?",
+    "answer_bn": "মাটি",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "কাপ"
+  },
+  {
+    "image_file": "chitrojera_005567.jpg",
+    "question_bn": "ছোট ছেলেটি কিসের মধ্যে দাঁড়িয়ে আছে?",
+    "answer_bn": "গাঁদাফুলের বাগানে",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "ফল"
+  },
+  {
+    "image_file": "chitrojera_000953.jpg",
+    "question_bn": "এই জায়গায় মোট কয়জন লোক দেখা যাচ্ছে?",
+    "answer_bn": "দুজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_009510.jpg",
+    "question_bn": "ব্রিজের রঙ কি?",
+    "answer_bn": "হলুদ-কালো",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_011125.jpg",
+    "question_bn": "ছবিতে বাচ্চাটি কোন ধরনের পোশাক পরে আছে?",
+    "answer_bn": "সবুজ পোশাক",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "কাঠ"
+  },
+  {
+    "image_file": "chitrojera_002739.jpg",
+    "question_bn": "ছবিতে কি ধরনের বেড়া দেখা যাচ্ছে?",
+    "answer_bn": "লোহার বেড়া",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কোনোটিই না"
+  },
+  {
+    "image_file": "chitrojera_007651.jpg",
+    "question_bn": "ছবিতে কোন খেলার সরঞ্জাম দেখা যাচ্ছে?",
+    "answer_bn": "ব্যাডমিন্টন নেট",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "স্কিইং"
+  },
+  {
+    "image_file": "chitrojera_001757.jpg",
+    "question_bn": "ছবিতে কতজন পুরুষ পেয়াজের গুদামঘরে কাজ করছে?",
+    "answer_bn": "২ জন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_011367.jpg",
+    "question_bn": "ছবির মানুষগুলো ঠিক কোথায় আনন্দ উপভোগ করছে?",
+    "answer_bn": "সুইমিংপুলে",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "স্কার্টিং"
+  },
+  {
+    "image_file": "chitrojera_006038.jpg",
+    "question_bn": "ছবিতে কুকুরটি কোন জিনিস গলায় পড়ে আছে?",
+    "answer_bn": "কমলা বেল্ট",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাথরুম"
+  },
+  {
+    "image_file": "chitrojera_007350.jpg",
+    "question_bn": "ছবিতে দেখা মেয়েটি কোন দেশের পতাকা হাতে দৌড়াচ্ছে?",
+    "answer_bn": "বাংলাদেশের",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "ইউনিফর্ম"
+  },
+  {
+    "image_file": "chitrojera_004186.jpg",
+    "question_bn": "ছবিতে দেখা খেলার মাঠে কি আছে?",
+    "answer_bn": "ঝরাপাতা",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "বাম"
+  },
+  {
+    "image_file": "chitrojera_001604.jpg",
+    "question_bn": "ছবিতে কতগুলো পাখি আকাশে উরতে দেখা যাচ্ছে?",
+    "answer_bn": "পাঁচটি",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_001015.jpg",
+    "question_bn": "ছবিতে কতজন পুরুষ ছাতা ধরেছেন?",
+    "answer_bn": "১ জন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "৩"
+  },
+  {
+    "image_file": "chitrojera_004869.jpg",
+    "question_bn": "ছবিতে কি ধরনের প্রাণী দেখা যাচ্ছে?",
+    "answer_bn": "চিংড়ি মাছ",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "পাখি"
+  },
+  {
+    "image_file": "chitrojera_005989.jpg",
+    "question_bn": "নৌকাটি কোন ধরনের পরিবেশে চলাচল করছে?",
+    "answer_bn": "জলাভূমি",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাতাস"
+  },
+  {
+    "image_file": "chitrojera_001792.jpg",
+    "question_bn": "ছবিতে কতজন মানুষ নামায পড়ছেন?",
+    "answer_bn": "দুই",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_012046.jpg",
+    "question_bn": "লোকটি কোথায় বসে আছে?",
+    "answer_bn": "বেঞ্চে",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "বিছানা"
+  },
+  {
+    "image_file": "chitrojera_002180.jpg",
+    "question_bn": "ছবিতে কতজন মানুষ দাঁড়িয়ে আছে?",
+    "answer_bn": "দশজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১০"
+  },
+  {
+    "image_file": "chitrojera_011823.jpg",
+    "question_bn": "মেয়েটি কোথায় তাকিয়ে আছে?",
+    "answer_bn": "বাইরে",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "ট্রেন"
+  },
+  {
+    "image_file": "chitrojera_011932.jpg",
+    "question_bn": "ছবিটিতে ব্যক্তিটি কোথা থেকে তাকিয়ে আছেন?",
+    "answer_bn": "ট্রেনের জানালা",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "ট্রেন"
+  },
+  {
+    "image_file": "chitrojera_009361.jpg",
+    "question_bn": "নৌকাটির রং কি?",
+    "answer_bn": "সবুজ ও লাল",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_007408.jpg",
+    "question_bn": "ছবিতে কোন ধরনের গাছ দেখা যাচ্ছে?",
+    "answer_bn": "খেজুর গাছ",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "পালঙ্ক"
+  },
+  {
+    "image_file": "chitrojera_003506.jpg",
+    "question_bn": "ছবিতে দেখা যাওয়া রাস্তাটির দুপাশে কি আছে?",
+    "answer_bn": "গাছ",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_007513.jpg",
+    "question_bn": "ছবিতে দেখা যাচ্ছে ব্রিজটি কোন উপাদান দিয়ে তৈরি?",
+    "answer_bn": "তার",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাম"
+  },
+  {
+    "image_file": "chitrojera_007239.jpg",
+    "question_bn": "বর্ণনা অনুসারে, ছোট ছেলেটি কোন ধরনের পরিবেশে সাইকেল চালাচ্ছে?",
+    "answer_bn": "ফাঁকা রাস্তায়",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাইরে"
+  },
+  {
+    "image_file": "chitrojera_004495.jpg",
+    "question_bn": "ছবিতে কাঁদাযুক্ত জিনিসটি কি?",
+    "answer_bn": "পা",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_005588.jpg",
+    "question_bn": "বিড়ালটি কি দিয়ে ঢাকা?",
+    "answer_bn": "কাঁথা",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "হ্যাঁ"
+  },
+  {
+    "image_file": "chitrojera_001636.jpg",
+    "question_bn": "পরিবেশন করা বাটিগুলির সংখ্যা কত?",
+    "answer_bn": "আটটি",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১০"
+  },
+  {
+    "image_file": "chitrojera_003696.jpg",
+    "question_bn": "ছবিতে পেইন্টিং এ কি পাখির ছবি আঁকা আছে?",
+    "answer_bn": "রাজহাঁস",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_011088.jpg",
+    "question_bn": "ছবিতে মেয়েটি কি পরিধান করে আছে?",
+    "answer_bn": "লাল পোশাক",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_012206.jpg",
+    "question_bn": "ছবিতে প্রদর্শিত আবহাওয়া কেমন?",
+    "answer_bn": "কুয়াশাচ্ছন্ন",
+    "answer_type": "state",
+    "source": "chitrojera",
+    "prediction": "বাতাস"
+  },
+  {
+    "image_file": "chitrojera_003507.jpg",
+    "question_bn": "ছবিটিতে দেখা জিলাপির উপরে কি আছে?",
+    "answer_bn": "মালাই",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কাঁটাচামার"
+  },
+  {
+    "image_file": "chitrojera_009561.jpg",
+    "question_bn": "নৌকার পালটির কী রঙ?",
+    "answer_bn": "কালো ও লাল",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "কালো"
+  },
+  {
+    "image_file": "chitrojera_007668.jpg",
+    "question_bn": "এই ছবিতে ছেলেটি কোন সময়ে দৌড়ে যাচ্ছে?",
+    "answer_bn": "সূর্যাস্তের সময়",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "শর্টিং"
+  },
+  {
+    "image_file": "chitrojera_005625.jpg",
+    "question_bn": "বার্গারটি কিরকম প্লেটের উপর রাখা আছে?",
+    "answer_bn": "চারকোনা",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_011423.jpg",
+    "question_bn": "ছবিটি কোথায় তোলা হয়েছে?",
+    "answer_bn": "গ্যালারি",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "বাইরে"
+  },
+  {
+    "image_file": "chitrojera_004735.jpg",
+    "question_bn": "ছেলেটি কীভাবে ধানের উপর দিয়ে চলছে?",
+    "answer_bn": "লাফ দিয়ে",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "বাতাস"
+  },
+  {
+    "image_file": "chitrojera_006731.jpg",
+    "question_bn": "ছবিতে কোন ছেলের চোখে সান গ্লাস আছে?",
+    "answer_bn": "বাঁ দিকের",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "কার্মিনি"
+  },
+  {
+    "image_file": "chitrojera_001191.jpg",
+    "question_bn": "ছবিতে কতজন পুরুষ হাঁটছে?",
+    "answer_bn": "তিনজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "৪"
+  },
+  {
+    "image_file": "chitrojera_004893.jpg",
+    "question_bn": "ছবিতে কী ধরনের পরিবহন দেখা যাচ্ছে?",
+    "answer_bn": "নৌকা",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "বাইক"
+  },
+  {
+    "image_file": "chitrojera_012082.jpg",
+    "question_bn": "আবহাওয়া কেমন দেখা যাচ্ছে ছবিতে?",
+    "answer_bn": "মেঘলা",
+    "answer_type": "state",
+    "source": "chitrojera",
+    "prediction": "বাতাস"
+  },
+  {
+    "image_file": "chitrojera_006530.jpg",
+    "question_bn": "ছোট মেয়েটি কোন ফুল তুলছে?",
+    "answer_bn": "শাপলা",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "কালো"
+  },
+  {
+    "image_file": "chitrojera_008053.jpg",
+    "question_bn": "ছবিতে ব্যক্তিটি কোন বাহন ব্যবহার করছেন?",
+    "answer_bn": "ভ্যান গাড়ি",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাইক"
+  },
+  {
+    "image_file": "chitrojera_005596.jpg",
+    "question_bn": "বাংলাদেশের জাতীয় পাখিটির নাম কি?",
+    "answer_bn": "দোয়েল",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কালো"
+  },
+  {
+    "image_file": "chitrojera_001528.jpg",
+    "question_bn": "ছবিতে কয়টি বড় নৌকা দেখা যাচ্ছে?",
+    "answer_bn": "দুইটি",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_004530.jpg",
+    "question_bn": "ছবিতে দেখা খেলার মাঠটির মেঝে কিসের তৈরি?",
+    "answer_bn": "কংক্রিট",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "টেনিস"
+  },
+  {
+    "image_file": "chitrojera_006514.jpg",
+    "question_bn": "এই ব্যক্তির জামায় কোন ধরনের নকশা রয়েছে?",
+    "answer_bn": "সংবাদপত্র",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "সাইন"
+  },
+  {
+    "image_file": "chitrojera_004555.jpg",
+    "question_bn": "লোকটি কি ধরনের ক্যামেরা হাতে নিয়ে আছে?",
+    "answer_bn": "ভিডিও ক্যামেরা",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "ক্যামেরা"
+  },
+  {
+    "image_file": "chitrojera_010350.jpg",
+    "question_bn": "মেয়েটির জামার রং কি?",
+    "answer_bn": "গোলাপি",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "লাল"
+  },
+  {
+    "image_file": "chitrojera_007989.jpg",
+    "question_bn": "ছবিটিতে কোন সময়ের আকাশ দেখা যাচ্ছে?",
+    "answer_bn": "দিনের",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "শর্টিং"
+  },
+  {
+    "image_file": "chitrojera_009506.jpg",
+    "question_bn": "ছবিতে দেখা পাখিটির প্রধান রং কি?",
+    "answer_bn": "হলুদ",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "হলুদ"
+  },
+  {
+    "image_file": "chitrojera_003073.jpg",
+    "question_bn": "খাবারের উপরে কী ধরনের দানাদার পদার্থ ছিটানো আছে?",
+    "answer_bn": "কালো দানা",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কাটানো"
+  },
+  {
+    "image_file": "chitrojera_005569.jpg",
+    "question_bn": "প্লাটফর্মে দাড়িয়ে থাকা পুরুষটির মাথায় কী আছে?",
+    "answer_bn": "টুপি",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কাঁচি"
+  },
+  {
+    "image_file": "chitrojera_012170.jpg",
+    "question_bn": "ছবিতে আবহাওয়ার অবস্থা কেমন?",
+    "answer_bn": "মেঘলা",
+    "answer_type": "state",
+    "source": "chitrojera",
+    "prediction": "রঙিন"
+  },
+  {
+    "image_file": "chitrojera_005249.jpg",
+    "question_bn": "ছবিতে দেখানো গাড়িগুলির গন্তব্যস্থল কি?",
+    "answer_bn": "উত্তরা",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "উত্তর সামনে"
+  },
+  {
+    "image_file": "chitrojera_011151.jpg",
+    "question_bn": "ছবিতে মেয়েটি কী পরে আছে?",
+    "answer_bn": "শাল ও জ্যাকেট",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "বাম"
+  },
+  {
+    "image_file": "chitrojera_005541.jpg",
+    "question_bn": "ছবিতে কয়টি নৌকা ভিড়ানো আছে?",
+    "answer_bn": "ছয়টা",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "৪"
+  },
+  {
+    "image_file": "chitrojera_008754.jpg",
+    "question_bn": "ছবিতে দেখা মেয়েটি কি করছে?",
+    "answer_bn": "দাঁড়িয়ে আছে",
+    "answer_type": "action",
+    "source": "chitrojera",
+    "prediction": "হ্যাঁ"
+  },
+  {
+    "image_file": "chitrojera_008007.jpg",
+    "question_bn": "খাবারের সাথে কোন ধরনের মাছ দেখা যাচ্ছে?",
+    "answer_bn": "চিংড়ি",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "কালো"
+  },
+  {
+    "image_file": "chitrojera_007357.jpg",
+    "question_bn": "ছবিতে বাড়িটি কোন জায়গায় অবস্থিত?",
+    "answer_bn": "পাহাড়ে",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাম"
+  },
+  {
+    "image_file": "chitrojera_011476.jpg",
+    "question_bn": "মহিলাটি কোথায় পানি নিচ্ছে?",
+    "answer_bn": "কলসে",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "বামে"
+  },
+  {
+    "image_file": "chitrojera_002961.jpg",
+    "question_bn": "উঠোনে কি শুকানো হচ্ছে?",
+    "answer_bn": "ধান",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_010583.jpg",
+    "question_bn": "ছবিতে দেখা মেয়েটির পরনে কি ধরণের পোশাক?",
+    "answer_bn": "শাড়ি",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "কার্ড"
+  },
+  {
+    "image_file": "chitrojera_010248.jpg",
+    "question_bn": "ছবিতে কি রঙের ঘর দেখা যাচ্ছে?",
+    "answer_bn": "সাদা",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_001986.jpg",
+    "question_bn": "ছবিতে মোট কতজন বাচ্চা দেখা যাচ্ছে?",
+    "answer_bn": "৩ জন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "২"
+  },
+  {
+    "image_file": "chitrojera_001028.jpg",
+    "question_bn": "পানিতে কতগুলি পানা ভাসছে?",
+    "answer_bn": "৪ জুটি",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_002443.jpg",
+    "question_bn": "ছবিতে কতজন লোক বেলচা কাঁধে করে রাস্তা দিয়ে হাঁটছে?",
+    "answer_bn": "তিনজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "৩"
+  },
+  {
+    "image_file": "chitrojera_003345.jpg",
+    "question_bn": "ছবিতে দেখা ছেলেটির মুখের ভাব কি?",
+    "answer_bn": "হাস্যোজ্জ্বল",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "হ্যাঁ"
+  },
+  {
+    "image_file": "chitrojera_003444.jpg",
+    "question_bn": "ছবিতে লোকটি কিসের দ্বারা পাথর তুলছে?",
+    "answer_bn": "বেলচা",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_012086.jpg",
+    "question_bn": "ছবিতে গাছটির কি অবস্থা?",
+    "answer_bn": "পাতা নাই",
+    "answer_type": "state",
+    "source": "chitrojera",
+    "prediction": "হ্যাঁ"
+  },
+  {
+    "image_file": "chitrojera_001365.jpg",
+    "question_bn": "ছবিতে মোট কতজন বালক রয়েছে?",
+    "answer_bn": "চারজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১০"
+  },
+  {
+    "image_file": "chitrojera_007783.jpg",
+    "question_bn": "ছবিটি কোন সময় তোলা হয়েছে?",
+    "answer_bn": "সন্ধ্যা",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "শর্টিং"
+  },
+  {
+    "image_file": "chitrojera_007687.jpg",
+    "question_bn": "ছবিতে দেখা স্যান্ডউইচগুলো কোন ধরনের পাত্রে রাখা আছে?",
+    "answer_bn": "বাটিতে",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "কাঁটাচামার"
+  },
+  {
+    "image_file": "chitrojera_009721.jpg",
+    "question_bn": "ছবিতে কয় রকম রঙের ফুল দেখা যাচ্ছে?",
+    "answer_bn": "৩-৪ রকম",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_011000.jpg",
+    "question_bn": "ছবিটিতে বয়স্ক মহিলাটি কী পরে আছেন?",
+    "answer_bn": "শাড়ি",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "শিশু"
+  },
+  {
+    "image_file": "chitrojera_005315.jpg",
+    "question_bn": "ছেলে দুটি কি পরিবেশে দাঁড়িয়ে?",
+    "answer_bn": "পানির মধ্যে",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_000235.jpg",
+    "question_bn": "এই চিত্রে পরিবারের কতজন সদস্য বেঞ্চে বসে আছেন?",
+    "answer_bn": "চারজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "৪"
+  },
+  {
+    "image_file": "chitrojera_002551.jpg",
+    "question_bn": "লোকটি কি ধরনের শার্ট পরে আছে?",
+    "answer_bn": "সাদা শার্ট",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কাঁচি"
+  },
+  {
+    "image_file": "chitrojera_011130.jpg",
+    "question_bn": "ছবিতে মহিলাটি কী ধরণের পোশাক পরে আছেন?",
+    "answer_bn": "শারি",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "কাঠ"
+  },
+  {
+    "image_file": "chitrojera_011525.jpg",
+    "question_bn": "ছবিতে লোকটি কোথায় দাঁড়িয়ে আছে?",
+    "answer_bn": "নৌকার উপর",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "বাম"
+  },
+  {
+    "image_file": "chitrojera_011933.jpg",
+    "question_bn": "ছেলেটি কোথায় দাঁড়িয়ে আছে?",
+    "answer_bn": "দরজার সামনে",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "বামে"
+  },
+  {
+    "image_file": "chitrojera_012217.jpg",
+    "question_bn": "গাছের সারির মাঝদিয়ে কেমন একটি রাস্তা চলে গেছে?",
+    "answer_bn": "লম্বা ও সরু",
+    "answer_type": "state",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_006042.jpg",
+    "question_bn": "ছবিতে নাগর দোলাটি কোন সময়ের দৃশ্য মনে হচ্ছে?",
+    "answer_bn": "সন্ধ্যা",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাতাসে"
+  },
+  {
+    "image_file": "chitrojera_008905.jpg",
+    "question_bn": "ছবিতে কারা আন্দোলন করছে?",
+    "answer_bn": "নারী ও পুরুষ",
+    "answer_type": "action",
+    "source": "chitrojera",
+    "prediction": "হ্যাঁ"
+  },
+  {
+    "image_file": "chitrojera_003419.jpg",
+    "question_bn": "কাঁচের কন্টেইনারে কি রকমের খাবার সাজানো আছে?",
+    "answer_bn": "কেক",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_009397.jpg",
+    "question_bn": "ছবিতে দেখা যাওয়া বাড়িগুলোর ছাদের রঙ কি?",
+    "answer_bn": "নীল",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_000094.jpg",
+    "question_bn": "ছবিতে কতজন মহিলা সবুজ ইউনিফরম পরে আছেন?",
+    "answer_bn": "তিন জন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_005560.jpg",
+    "question_bn": "ছবিতে কী ধরণের খাবার গ্রিল করা হচ্ছে?",
+    "answer_bn": "মাংস ও আলু",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কাটা"
+  },
+  {
+    "image_file": "chitrojera_010380.jpg",
+    "question_bn": "ছবিতে দাঁড়িয়ে থাকা এই শিশুটির পোশাকের প্রধান রঙ কী?",
+    "answer_bn": "কমলা",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "বাদামী"
+  },
+  {
+    "image_file": "chitrojera_003843.jpg",
+    "question_bn": "ছবিতে দেখা ভবনটি কি?",
+    "answer_bn": "মাদ্রসা",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "বাইরে"
+  },
+  {
+    "image_file": "chitrojera_010554.jpg",
+    "question_bn": "ছবিতে মহিলাটি কী পরিধান করেছেন?",
+    "answer_bn": "শাড়ি",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "পার্ক"
+  },
+  {
+    "image_file": "chitrojera_002336.jpg",
+    "question_bn": "ছবিতে কতজন পুরুষ ফুলের তুড়ার সাথে দাঁড়িয়ে আছে?",
+    "answer_bn": "১০ জন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১০"
+  },
+  {
+    "image_file": "chitrojera_006229.jpg",
+    "question_bn": "লোকটি মন্দিরের কোন অংশে শুয়ে আছে?",
+    "answer_bn": "সিঁড়িতে",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাতাস"
+  },
+  {
+    "image_file": "chitrojera_011093.jpg",
+    "question_bn": "লাল গেঞ্জি পরিহিত পুরুষ কয়জনের ঘাড় ধরে আছেন?",
+    "answer_bn": "দুইজনের",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_011990.jpg",
+    "question_bn": "ছবিতে চুল কাটা হচ্ছে কোথায়?",
+    "answer_bn": "নাপিতের দোকানে",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "বামে"
+  },
+  {
+    "image_file": "chitrojera_011296.jpg",
+    "question_bn": "নারীটির পরিহিত শাড়ির রং কি?",
+    "answer_bn": "লাল",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "লাল"
+  },
+  {
+    "image_file": "chitrojera_007561.jpg",
+    "question_bn": "মহিলাটি কোন বয়সী শিশুকে কুলে নিয়ে ধরে আছেন?",
+    "answer_bn": "শিশুকে",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "কোনোটিই না"
+  },
+  {
+    "image_file": "chitrojera_003476.jpg",
+    "question_bn": "লোকটির হাতে কি আছে?",
+    "answer_bn": "কাচি",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "বাতাস"
+  },
+  {
+    "image_file": "chitrojera_011016.jpg",
+    "question_bn": "ছবির ব্যক্তিটি কী পরে আছেন?",
+    "answer_bn": "লুঙ্গী",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "কাঁচি"
+  },
+  {
+    "image_file": "chitrojera_000005.jpg",
+    "question_bn": "নৌকায় মোট কতজন মানুষ রয়েছে?",
+    "answer_bn": "৮ জন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_006709.jpg",
+    "question_bn": "ছবিতে থাকা পরিধেয় সাদা অ্যাপ্রনগুলি কোন পেশার প্রতীক?",
+    "answer_bn": "ডাক্তারি",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "কোনোটিই না"
+  },
+  {
+    "image_file": "chitrojera_010173.jpg",
+    "question_bn": "টবের রঙ কি?",
+    "answer_bn": "সাদা",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_000466.jpg",
+    "question_bn": "ছবিতে কতজন পুরুষ হাঁটছে?",
+    "answer_bn": "২ জন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "২"
+  },
+  {
+    "image_file": "chitrojera_002491.jpg",
+    "question_bn": "গ্রামের এই রাস্তার দুইপাশে কি ফসলের ক্ষেত দেখা যাচ্ছে?",
+    "answer_bn": "ধান ক্ষেত",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_007390.jpg",
+    "question_bn": "মেয়েটি কোন জায়গায় বসে আছে?",
+    "answer_bn": "পার্কের বেঞ্চে",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাইরে"
+  },
+  {
+    "image_file": "chitrojera_006331.jpg",
+    "question_bn": "ছবিতে ধান শুকানোর জন্য লোকজন কোন ধরণের জায়গায় কাজ করছে?",
+    "answer_bn": "মাঠে",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাদামী"
+  },
+  {
+    "image_file": "chitrojera_005116.jpg",
+    "question_bn": "গাছের ডালে কী দেখা যাচ্ছে?",
+    "answer_bn": "বাদুড়",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কালো"
+  },
+  {
+    "image_file": "chitrojera_001248.jpg",
+    "question_bn": "ছবিতে মোট কয়টি প্লেট দেখা যাচ্ছে?",
+    "answer_bn": "চারটি",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_005126.jpg",
+    "question_bn": "মেয়েটির গলায় কি ঝুলছে?",
+    "answer_bn": "স্কার্ফ",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_011684.jpg",
+    "question_bn": "ছবিতে নৌকাগুলি কোথায় আছে?",
+    "answer_bn": "নদীর পাড়ে",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "বামে"
+  },
+  {
+    "image_file": "chitrojera_001887.jpg",
+    "question_bn": "ছবিতে কতজন শিশু দেখা যাচ্ছে?",
+    "answer_bn": "দুইজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "৩"
+  },
+  {
+    "image_file": "chitrojera_010147.jpg",
+    "question_bn": "ফুলগুলি কোন রঙের?",
+    "answer_bn": "গোলাপি",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_001585.jpg",
+    "question_bn": "ছবিতে কতগুলো দালান দেখা যাচ্ছে?",
+    "answer_bn": "তিনটি",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_002745.jpg",
+    "question_bn": "ছবিতে লোহার রডের মাঝখান দিয়ে কাকে দেখা যাচ্ছে?",
+    "answer_bn": "একজন লোক",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_002790.jpg",
+    "question_bn": "ছবিতে কীভাবে খাবারকে তাপ দেওয়া হচ্ছে?",
+    "answer_bn": "বার্ণার দিয়ে",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কাঁটাচামার"
+  },
+  {
+    "image_file": "chitrojera_009879.jpg",
+    "question_bn": "পুলিশ কর্মকর্তার মাথায় কি রঙের হেলমেট রয়েছে?",
+    "answer_bn": "লাল",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_003531.jpg",
+    "question_bn": "রাস্তায় কি ধরণের বাধা দেখা যাচ্ছে?",
+    "answer_bn": "কাদা ও পানি",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কাঠ"
+  },
+  {
+    "image_file": "chitrojera_011373.jpg",
+    "question_bn": "ছবিতে থাকা ছেলেটি কোথায় দাঁড়িয়ে আছে?",
+    "answer_bn": "নদীর জলে",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "পানি"
+  },
+  {
+    "image_file": "chitrojera_008647.jpg",
+    "question_bn": "ছবিতে দেখা ছেলেটি বলের সাথে কী করছে?",
+    "answer_bn": "খেলছে",
+    "answer_type": "action",
+    "source": "chitrojera",
+    "prediction": "স্কিইং খেলা"
+  },
+  {
+    "image_file": "chitrojera_004544.jpg",
+    "question_bn": "ছবিতে ছেলেটির পেছনে কি রয়েছে?",
+    "answer_bn": "বাঁশ",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_004324.jpg",
+    "question_bn": "ছবিতে পুরুষটি কি দিয়ে দাঁড়িয়ে আছেন?",
+    "answer_bn": "লাঠি",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "হ্যাঁ"
+  },
+  {
+    "image_file": "chitrojera_006456.jpg",
+    "question_bn": "ছবিটিতে ঘরের মধ্যে কোন ধরনের পরিবেশ লক্ষ্য করা যাচ্ছে?",
+    "answer_bn": "কাঁচা ঘর",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাদামী"
+  },
+  {
+    "image_file": "chitrojera_011344.jpg",
+    "question_bn": "ছবিতে পুরুষটি কোথায় দাঁড়িয়ে আছেন?",
+    "answer_bn": "ট্রেনে",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "বাইরে"
+  },
+  {
+    "image_file": "chitrojera_007560.jpg",
+    "question_bn": "সেতুর উপরে মানুষগুলি কোন দিকে তাকিয়ে আছে?",
+    "answer_bn": "সামনের দিকে",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাতাস"
+  },
+  {
+    "image_file": "chitrojera_008989.jpg",
+    "question_bn": "ছবিতে শিশুটি কী করছে?",
+    "answer_bn": "দৌড়াচ্ছে",
+    "answer_type": "action",
+    "source": "chitrojera",
+    "prediction": "বাইরে আছে"
+  },
+  {
+    "image_file": "chitrojera_010787.jpg",
+    "question_bn": "মেয়েটি কি ধরনের পোশাক পরে আছে?",
+    "answer_bn": "আবায়া",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "কাঠ"
+  },
+  {
+    "image_file": "chitrojera_009347.jpg",
+    "question_bn": "ছবিতে কোন রঙের তারকাটা দেখা যাচ্ছে?",
+    "answer_bn": "হলুদ",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_002695.jpg",
+    "question_bn": "ছবিতে কৃষকের হাতে কি আছে?",
+    "answer_bn": "লাঠি",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "গরু"
+  },
+  {
+    "image_file": "chitrojera_005258.jpg",
+    "question_bn": "মেয়েটির কাঁধে কি ঝুলছে?",
+    "answer_bn": "ব্যাগ",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_004835.jpg",
+    "question_bn": "পানিতে কে আছে?",
+    "answer_bn": "মানুষ",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "গরু"
+  },
+  {
+    "image_file": "chitrojera_001409.jpg",
+    "question_bn": "ছবিতে কতগুলো নৌকা দেখা যাচ্ছে?",
+    "answer_bn": "তিনটি",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "২"
+  },
+  {
+    "image_file": "chitrojera_006949.jpg",
+    "question_bn": "ছবিতে কোন ধরনের এলাকা দেখা যাচ্ছে?",
+    "answer_bn": "শহরাঞ্চল",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাম"
+  },
+  {
+    "image_file": "chitrojera_000523.jpg",
+    "question_bn": "ছবিতে মোট কতজন ছেলে আছেন?",
+    "answer_bn": "এগারো",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১০"
+  },
+  {
+    "image_file": "chitrojera_004911.jpg",
+    "question_bn": "উপরের চিত্রের বর্ণনা অনুসারে কি শেওলার মধ্যে কে ঘুমাচ্ছে?",
+    "answer_bn": "এক পুরুষ",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_011980.jpg",
+    "question_bn": "পিজ্জাটি কোথায় রাখা হয়েছে?",
+    "answer_bn": "প্যাকেটের ভিতর",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "বাইরে"
+  },
+  {
+    "image_file": "chitrojera_000161.jpg",
+    "question_bn": "এই ছবিতে কতজন পুরুষ দাঁড়িয়ে আছেন?",
+    "answer_bn": "১০ জন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১০"
+  },
+  {
+    "image_file": "chitrojera_001633.jpg",
+    "question_bn": "ছবিতে কতজন পুরুষ নৌকা চালাচ্ছেন?",
+    "answer_bn": "তিনজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_001256.jpg",
+    "question_bn": "ছবিতে ছাত্রীদের সংখ্যা কত?",
+    "answer_bn": "পনেরো",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১০"
+  },
+  {
+    "image_file": "chitrojera_004892.jpg",
+    "question_bn": "ছবিতে বাচ্চাটি কি বাজাচ্ছে?",
+    "answer_bn": "বাঁশি",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "হ্যাঁ"
+  },
+  {
+    "image_file": "chitrojera_001542.jpg",
+    "question_bn": "সোফায় কতজন মহিলা লাল শাড়ি পরে বসে আছেন?",
+    "answer_bn": "৬ জন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_000760.jpg",
+    "question_bn": "ছবিতে কয়জন বালক রয়েছে?",
+    "answer_bn": "তিনজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "৪"
+  },
+  {
+    "image_file": "chitrojera_006833.jpg",
+    "question_bn": "প্রজাপতিটি কোন জিনিসের ওপর বসে আছে?",
+    "answer_bn": "গাছের পাতা",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাম"
+  },
+  {
+    "image_file": "chitrojera_010647.jpg",
+    "question_bn": "পুরুষটি কী পরিহিত আছেন?",
+    "answer_bn": "পাঞ্জাবি",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "বাথরুম"
+  },
+  {
+    "image_file": "chitrojera_005104.jpg",
+    "question_bn": "ছবিতে কিরূপ গেইটের মধ্যে একজন বৃদ্ধ লোকের প্রতিচ্ছবি দেখা যাচ্ছে?",
+    "answer_bn": "কেচি গেইট",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_005801.jpg",
+    "question_bn": "ছবিতে পিছনে কি স্থাপনা দেখা যাচ্ছে?",
+    "answer_bn": "শহীদ মিনার",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "হ্যাঁ"
+  },
+  {
+    "image_file": "chitrojera_010136.jpg",
+    "question_bn": "ছবিতে দেখানো ছাউনির কী রঙ?",
+    "answer_bn": "লাল",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "লাল"
+  },
+  {
+    "image_file": "chitrojera_004621.jpg",
+    "question_bn": "টেবিলের উপর কী ধরনের পিজ্জা দেখা যাচ্ছে?",
+    "answer_bn": "আধা খাওয়া পিজ্জা",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "সালাদ"
+  },
+  {
+    "image_file": "chitrojera_002839.jpg",
+    "question_bn": "ছেলেটি কী জ্বালিয়েছে?",
+    "answer_bn": "কুপি",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কাঁচি"
+  },
+  {
+    "image_file": "chitrojera_009831.jpg",
+    "question_bn": "ছবিতে দেখা কুকুরটির রঙ কি?",
+    "answer_bn": "কালো",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "কালো"
+  },
+  {
+    "image_file": "chitrojera_005172.jpg",
+    "question_bn": "ছবিতে শিশুরা কী নিয়ে খেলছে?",
+    "answer_bn": "বেলুন",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "বাইরে"
+  },
+  {
+    "image_file": "chitrojera_010518.jpg",
+    "question_bn": "ছবিতে মেয়েটি কোন ধরনের পোশাক পরে আছে?",
+    "answer_bn": "শাড়ি",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "কাঁচি"
+  },
+  {
+    "image_file": "chitrojera_008164.jpg",
+    "question_bn": "ছবিতে চাঁদ এবং জাহাজের আলো কোন পৃষ্ঠে পড়েছে?",
+    "answer_bn": "পানিতে",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাম"
+  },
+  {
+    "image_file": "chitrojera_004164.jpg",
+    "question_bn": "কাচের দরজায় কি ধরনের পানি জমছে?",
+    "answer_bn": "বৃষ্টির পানি",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_002047.jpg",
+    "question_bn": "ছবিটিতে মোট কতজন শিশু দেখা যাচ্ছে?",
+    "answer_bn": "চারজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_011808.jpg",
+    "question_bn": "মহিলা ও মেয়েটি কোথায় আছে?",
+    "answer_bn": "বিমানবন্দরে",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "বাইরে"
+  },
+  {
+    "image_file": "chitrojera_008800.jpg",
+    "question_bn": "শিশুটি কী করছে?",
+    "answer_bn": "দেখছে",
+    "answer_type": "action",
+    "source": "chitrojera",
+    "prediction": "বাঁচাচ্ছে"
+  },
+  {
+    "image_file": "chitrojera_007208.jpg",
+    "question_bn": "এই ছবিতে কৃষক কোন ধরনের কাজ করছে?",
+    "answer_bn": "মাঠে কাজ",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "পানি"
+  },
+  {
+    "image_file": "chitrojera_008659.jpg",
+    "question_bn": "ছবিতে ব্যক্তিটি কী করছেন?",
+    "answer_bn": "আনারস কাটছেন",
+    "answer_type": "action",
+    "source": "chitrojera",
+    "prediction": "কাঁচি পরেছে"
+  },
+  {
+    "image_file": "chitrojera_008306.jpg",
+    "question_bn": "লাল গেঞ্জি টুপি পরা পুরুষ কি করছেন?",
+    "answer_bn": "ভাষণ দিচ্ছে",
+    "answer_type": "action",
+    "source": "chitrojera",
+    "prediction": "হ্যাঁ"
+  },
+  {
+    "image_file": "chitrojera_009708.jpg",
+    "question_bn": "পাখিটির বুকের রং কি?",
+    "answer_bn": "নীল",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_001150.jpg",
+    "question_bn": "ছবিতে কতজন মানুষ নৌকায় বাঁশ ধরে আছেন?",
+    "answer_bn": "২ জন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_002125.jpg",
+    "question_bn": "ছবিতে ঘোড়ার গাড়ির উপরে কতজন ছেলেমেয়ে দেখা যাচ্ছে?",
+    "answer_bn": "পাঁচজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_000717.jpg",
+    "question_bn": "ছবিতে কতজন পুরুষের ছবি আছে?",
+    "answer_bn": "৪ জন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "৪"
+  },
+  {
+    "image_file": "chitrojera_004330.jpg",
+    "question_bn": "ছবিতে সূর্যাস্তের সময় কি দৃশ্য দেখা যাচ্ছে?",
+    "answer_bn": "বৈদ্যুতিক পিলার",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_007400.jpg",
+    "question_bn": "ছবিতে দেখানো নৌকা চালকেরা কোন পরিবেশে নৌকা চালাচ্ছে?",
+    "answer_bn": "ঝুপের মাঝে",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাম"
+  },
+  {
+    "image_file": "chitrojera_003644.jpg",
+    "question_bn": "ছবিতে পাহাড়গুলো কী দিয়ে ঘেরা?",
+    "answer_bn": "কুয়াসা",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "বাদামী"
+  },
+  {
+    "image_file": "chitrojera_008017.jpg",
+    "question_bn": "ছবিতে বাচ্চা দুটি কোন ধরনের রাস্তায় খেলছে?",
+    "answer_bn": "ভিজা কাঁদার",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাম"
+  },
+  {
+    "image_file": "chitrojera_010457.jpg",
+    "question_bn": "ছবিতে ছেলেটি কি পরে আছে?",
+    "answer_bn": "পাঞ্জাবী",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_001154.jpg",
+    "question_bn": "ছবিতে কতজন ছেলে দাঁড়িয়ে আছে?",
+    "answer_bn": "তিনজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_002738.jpg",
+    "question_bn": "উক্ত ব্যক্তি সাইকেলে কী নিয়ে রাস্তা দিয়ে হাঁটছেন?",
+    "answer_bn": "বস্তা",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "বাইক"
+  },
+  {
+    "image_file": "chitrojera_002060.jpg",
+    "question_bn": "ছবিতে মোট কতজন ছেলে শিশু রয়েছে?",
+    "answer_bn": "চারজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "৪"
+  },
+  {
+    "image_file": "chitrojera_002048.jpg",
+    "question_bn": "ছেলেটি কতগুলো ব্রিং দিয়ে খেলছে?",
+    "answer_bn": "তিনটি",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "৩"
+  },
+  {
+    "image_file": "chitrojera_005600.jpg",
+    "question_bn": "ছবিতে কী জিনিস রাস্তার পাশে সাজানো দেখা যাচ্ছে?",
+    "answer_bn": "কংক্রিটের রিং",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "ট্র্যাক"
+  },
+  {
+    "image_file": "chitrojera_004820.jpg",
+    "question_bn": "ছবিতে বাচ্চা ছেলেটি কি ধরে আছে?",
+    "answer_bn": "জাম্বুরা",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কাঁচি"
+  },
+  {
+    "image_file": "chitrojera_001605.jpg",
+    "question_bn": "ছবিতে দেখা সৈকতটি কী দিয়ে ঘেরা আছে?",
+    "answer_bn": "বনে ঘেরা",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "বাদামী"
+  },
+  {
+    "image_file": "chitrojera_011414.jpg",
+    "question_bn": "ছবিটি কোথায় তোলা হয়েছে?",
+    "answer_bn": "নদীর পারে",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "বামে"
+  },
+  {
+    "image_file": "chitrojera_001994.jpg",
+    "question_bn": "ছবিতে কতগুলো ফড়িং দেখা যাচ্ছে?",
+    "answer_bn": "দুটি",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "২"
+  },
+  {
+    "image_file": "chitrojera_011372.jpg",
+    "question_bn": "ছবিতে মেয়ে দুইটি কোথায় বসে আছে?",
+    "answer_bn": "বনের মধ্যে",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "বামে"
+  },
+  {
+    "image_file": "chitrojera_004946.jpg",
+    "question_bn": "ছবিতে যে ব্যক্তি উপরে কি ধরে আছেন?",
+    "answer_bn": "কালো ছাতা",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_011720.jpg",
+    "question_bn": "ছবিতে মানুষগুলো কোথায় হাঁটছে?",
+    "answer_bn": "গ্রামের রাস্তায়",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "বাম"
+  },
+  {
+    "image_file": "chitrojera_008958.jpg",
+    "question_bn": "ছবিতে বাচ্চা মেয়েটি কি করছে?",
+    "answer_bn": "মুখে আঙুল দিয়েছে",
+    "answer_type": "action",
+    "source": "chitrojera",
+    "prediction": "বাঁচাচ্ছে"
+  },
+  {
+    "image_file": "chitrojera_009555.jpg",
+    "question_bn": "কুকুরটির গায়ের রং কী?",
+    "answer_bn": "বাদামি",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_000853.jpg",
+    "question_bn": "ছবিতে কয়জন মহিলা পাঁটের আঁশ ছাড়াচ্ছেন?",
+    "answer_bn": "২ জন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "২"
+  },
+  {
+    "image_file": "chitrojera_004752.jpg",
+    "question_bn": "ছবিতে কী ধরনের গাড়ি দেখা যাচ্ছে?",
+    "answer_bn": "ভ্যান গাড়ি",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "বাইক"
+  },
+  {
+    "image_file": "chitrojera_008135.jpg",
+    "question_bn": "ছবিতে কোন স্মারক দেখা যাচ্ছে?",
+    "answer_bn": "শহীদ মিনার",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাম"
+  },
+  {
+    "image_file": "chitrojera_010320.jpg",
+    "question_bn": "ছবিতে ফুলগুলির রং কি?",
+    "answer_bn": "হলুদ",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "সবুজ"
+  },
+  {
+    "image_file": "chitrojera_008717.jpg",
+    "question_bn": "ছবিতে বর্ণিত পুরুষ কি করছেন?",
+    "answer_bn": "সাইকেল চালাচ্ছেন",
+    "answer_type": "action",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_012207.jpg",
+    "question_bn": "ছবিতে দেখা কুকুরটির কানের আকার কেমন?",
+    "answer_bn": "বড়",
+    "answer_type": "state",
+    "source": "chitrojera",
+    "prediction": "কাঁচি"
+  },
+  {
+    "image_file": "chitrojera_001062.jpg",
+    "question_bn": "ছবিতে কয়জন ছেলে দেখা যাচ্ছে?",
+    "answer_bn": "আটজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "৬"
+  },
+  {
+    "image_file": "chitrojera_012212.jpg",
+    "question_bn": "ছবিতে অভিব্যক্ত ছেলেটির অবস্থান কি?",
+    "answer_bn": "দাঁড়িয়ে আছে",
+    "answer_type": "state",
+    "source": "chitrojera",
+    "prediction": "হ্যাঁ"
+  },
+  {
+    "image_file": "chitrojera_006748.jpg",
+    "question_bn": "ট্রেনের জানালা দিয়ে কোন জিনিস খেতে দেখা যাচ্ছে?",
+    "answer_bn": "আইসক্রিম",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "কোনোটিই না"
+  },
+  {
+    "image_file": "chitrojera_005644.jpg",
+    "question_bn": "পিছনে দাঁড়িয়ে থাকা নারীটি কজন পুরুষের মাঝে আছেন?",
+    "answer_bn": "দশজন",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_008445.jpg",
+    "question_bn": "ছবিতে বালকটি কী করছে?",
+    "answer_bn": "লাফাচ্ছে",
+    "answer_type": "action",
+    "source": "chitrojera",
+    "prediction": "স্কার্টিং করছে"
+  },
+  {
+    "image_file": "chitrojera_000189.jpg",
+    "question_bn": "ছবিতে কতগুলো নৌকা দেখা যাচ্ছে?",
+    "answer_bn": "তিনটা",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "২"
+  },
+  {
+    "image_file": "chitrojera_001021.jpg",
+    "question_bn": "এই মঞ্চে কতজন মেয়ে অভিনয় করছে?",
+    "answer_bn": "১০ জন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১০"
+  },
+  {
+    "image_file": "chitrojera_009580.jpg",
+    "question_bn": "কুকুরটি কোন রংয়ের?",
+    "answer_bn": "কালো",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_007587.jpg",
+    "question_bn": "দেয়ালে কোন ধরণের জিনিস ঝুলানো আছে?",
+    "answer_bn": "আয়না",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "মেরেটুর জিনিস"
+  },
+  {
+    "image_file": "chitrojera_008666.jpg",
+    "question_bn": "ছবিতে দোকানের বাইরে কী নিয়ে লোকেরা কাজ করছে?",
+    "answer_bn": "খাতা বই",
+    "answer_type": "action",
+    "source": "chitrojera",
+    "prediction": "বাইক"
+  },
+  {
+    "image_file": "chitrojera_002635.jpg",
+    "question_bn": "বাটিতে কি খাবার রয়েছে?",
+    "answer_bn": "পাকোড়া",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_001843.jpg",
+    "question_bn": "ছবিতে কতজন পুরুষ বিল্ডিং এর কাজ করছেন?",
+    "answer_bn": "৭ জন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১০"
+  },
+  {
+    "image_file": "chitrojera_004389.jpg",
+    "question_bn": "ছবিতে দেখা যাওয়া ফ্রাইড রাইচের সঙ্গে আর কি কি খাবার পরিবেশিত হয়েছে?",
+    "answer_bn": "চিলি চিকেন, স",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "খাবার"
+  },
+  {
+    "image_file": "chitrojera_010516.jpg",
+    "question_bn": "ছবিতে লোকটি কী ধরনের পোশাক পরেছে?",
+    "answer_bn": "সাদা টিশার্ট, জিন্স",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "ট্রেন"
+  },
+  {
+    "image_file": "chitrojera_005124.jpg",
+    "question_bn": "ছবিতে শিশুদের কি দাঁড়িয়ে থাকার স্থানটি?",
+    "answer_bn": "সরিষার ক্ষেত",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_002368.jpg",
+    "question_bn": "ট্রেতে কতগুলো বাটি আছে?",
+    "answer_bn": "দুইটি",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "২"
+  },
+  {
+    "image_file": "chitrojera_008837.jpg",
+    "question_bn": "কে কাকে জড়িয়ে ধরে আদর করছে?",
+    "answer_bn": "পুরুষ বাচ্চাকে",
+    "answer_type": "action",
+    "source": "chitrojera",
+    "prediction": "মহিলা"
+  },
+  {
+    "image_file": "chitrojera_004312.jpg",
+    "question_bn": "ছবিতে কি ধরণের গাছ দেখা যাচ্ছে?",
+    "answer_bn": "কলাগাছ",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "বাদামী"
+  },
+  {
+    "image_file": "chitrojera_010785.jpg",
+    "question_bn": "ছবিতে মহিলাটি কি ধরনের পোশাক পরেছেন?",
+    "answer_bn": "গোলাপী শাড়ি",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_000699.jpg",
+    "question_bn": "নৌকায় কতজন মানুষ আছে?",
+    "answer_bn": "চারজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "৪"
+  },
+  {
+    "image_file": "chitrojera_001838.jpg",
+    "question_bn": "ছবিতে কতজন ছেলে পানিতে গোসল করছে?",
+    "answer_bn": "তিনজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "৩"
+  },
+  {
+    "image_file": "chitrojera_004158.jpg",
+    "question_bn": "ছবিতে কী দেখা যাচ্ছে?",
+    "answer_bn": "আয়নায় মুখ",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "মহিলা"
+  },
+  {
+    "image_file": "chitrojera_000009.jpg",
+    "question_bn": "ছবিতে নারী কতজন বাচ্চাকে কোলে নিয়ে আছেন?",
+    "answer_bn": "একজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_004218.jpg",
+    "question_bn": "ছবিতে দেখা পাখির নাম কি?",
+    "answer_bn": "মাছরাঙ্গা",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "প্রাণী"
+  },
+  {
+    "image_file": "chitrojera_002849.jpg",
+    "question_bn": "মহিলাটি কাকে কোলে নিয়ে আছেন?",
+    "answer_bn": "শিশু বাচ্চা",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "হ্যাঁ"
+  },
+  {
+    "image_file": "chitrojera_010040.jpg",
+    "question_bn": "কুকুরটির রং কি?",
+    "answer_bn": "সাদা",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_007916.jpg",
+    "question_bn": "ছবিতে হাতির আকারের সাজসজ্জাটি কোন উপাদান দিয়ে তৈরি হয়েছে?",
+    "answer_bn": "ফুল",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "ফুলদানি"
+  },
+  {
+    "image_file": "chitrojera_007939.jpg",
+    "question_bn": "ছেলেটি ঝর্ণার কোন অংশে দাঁড়িয়ে আছে?",
+    "answer_bn": "মাঝখানে",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাতাস"
+  },
+  {
+    "image_file": "chitrojera_004859.jpg",
+    "question_bn": "কুকুরটি কার কোলে বসে আছে?",
+    "answer_bn": "মেয়ের",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "বাইরে"
+  },
+  {
+    "image_file": "chitrojera_011375.jpg",
+    "question_bn": "ছবিতে দেখানো মেয়ে দুটি কোথায় দাঁড়িয়ে আছে?",
+    "answer_bn": "পার্কে",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "বাম"
+  },
+  {
+    "image_file": "chitrojera_010818.jpg",
+    "question_bn": "পুরুষটি কী পরে আছে?",
+    "answer_bn": "কোর্ট",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "বাম"
+  },
+  {
+    "image_file": "chitrojera_007112.jpg",
+    "question_bn": "ছবিতে উপস্থিত মানুষেরা কোন ধরনের অনুষ্ঠানে বসে আছেন?",
+    "answer_bn": "সেমিনার",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাইরে"
+  },
+  {
+    "image_file": "chitrojera_007409.jpg",
+    "question_bn": "ছবিতে দেখা তোরণটি কোন স্থানের নাম বহন করছে?",
+    "answer_bn": "রংপুর",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "রঙপূর"
+  },
+  {
+    "image_file": "chitrojera_009865.jpg",
+    "question_bn": "ফড়িঙের রঙ কি?",
+    "answer_bn": "লাল",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "বাদামী"
+  },
+  {
+    "image_file": "chitrojera_011561.jpg",
+    "question_bn": "ছবির ছেলেটি কোথায় গোসল করছে?",
+    "answer_bn": "পানিতে",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "বামে"
+  },
+  {
+    "image_file": "chitrojera_006863.jpg",
+    "question_bn": "ছবিতে পাতার কোন বিশেষ বৈশিষ্ট্য স্পষ্টভাবে দেখা যাচ্ছে?",
+    "answer_bn": "শিরাজালিকা",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "কাঁচি"
+  },
+  {
+    "image_file": "chitrojera_011797.jpg",
+    "question_bn": "ছবিতে সূর্যাস্তের প্রতিচ্ছবি কোথায় দেখা যাচ্ছে?",
+    "answer_bn": "পানিতে",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "পার্ক"
+  },
+  {
+    "image_file": "chitrojera_005177.jpg",
+    "question_bn": "মহিলাটি কী দিয়ে গরুকে খাওয়াচ্ছে?",
+    "answer_bn": "খড়",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "গরুর সাদা"
+  },
+  {
+    "image_file": "chitrojera_001707.jpg",
+    "question_bn": "ছবির সভাকক্ষে কতজন মানুষ উপস্থিত?",
+    "answer_bn": "প্রায় একশো",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১০"
+  },
+  {
+    "image_file": "chitrojera_010262.jpg",
+    "question_bn": "দেয়ালের উপর কোন দেশের পতাকার মতো রং আঁকা আছে?",
+    "answer_bn": "বাংলাদেশ",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "হাঁটার দেশ"
+  },
+  {
+    "image_file": "chitrojera_003177.jpg",
+    "question_bn": "ছবিতে বালির উপর কী রয়েছে?",
+    "answer_bn": "বাতির স্তম্ভ",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "হাত"
+  },
+  {
+    "image_file": "chitrojera_002427.jpg",
+    "question_bn": "ছবিতে কী উপলক্ষে মহিলারা একত্রিত হয়েছেন?",
+    "answer_bn": "জন্মদিন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "ক্যামেরা"
+  },
+  {
+    "image_file": "chitrojera_000698.jpg",
+    "question_bn": "টেবিলে কতটি গ্লাস আছে?",
+    "answer_bn": "দুটি",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "২"
+  },
+  {
+    "image_file": "chitrojera_005997.jpg",
+    "question_bn": "বাচ্চাটি কোন স্থান থেকে নিচে চেয়ে আছে?",
+    "answer_bn": "বিল্ডিং এর জানালা",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাম"
+  },
+  {
+    "image_file": "chitrojera_007455.jpg",
+    "question_bn": "ছবিতে গরুগুলি কোন পরিবেশে রয়েছে?",
+    "answer_bn": "বিলের পানি",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "হাতি"
+  },
+  {
+    "image_file": "chitrojera_005675.jpg",
+    "question_bn": "ছেলেটি কি দিয়ে খেলছে?",
+    "answer_bn": "টায়ার",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "হ্যাঁ"
+  },
+  {
+    "image_file": "chitrojera_011394.jpg",
+    "question_bn": "ছবিতে নীল জামা পড়া লোক কোথায় দাঁড়িয়ে রেললাইনের সাথে সম্পর্কিত?",
+    "answer_bn": "দুপাশে",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "বাম"
+  },
+  {
+    "image_file": "chitrojera_011041.jpg",
+    "question_bn": "ছবিতে ব্যক্তিটি কী পরে আছেন?",
+    "answer_bn": "লুঙ্গী শার্ট",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "বাইরে"
+  },
+  {
+    "image_file": "chitrojera_003394.jpg",
+    "question_bn": "ছবিতে মহিলাটি কিসের উপর শিক্ষা দিচ্ছেন?",
+    "answer_bn": "সোলার প্যানেল",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "স্পিড"
+  },
+  {
+    "image_file": "chitrojera_000671.jpg",
+    "question_bn": "ছবিতে কয়জন মহিলা আছে?",
+    "answer_bn": "১ জন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "৪"
+  },
+  {
+    "image_file": "chitrojera_010922.jpg",
+    "question_bn": "ছবিতে ছেলেটির মাথায় কি ধরণের পোশাক রয়েছে?",
+    "answer_bn": "কাপড়",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "কালো"
+  },
+  {
+    "image_file": "chitrojera_006028.jpg",
+    "question_bn": "মহিলাটি কোন ধরনের জামা পরেছেন?",
+    "answer_bn": "লাল জামা",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "কালো"
+  },
+  {
+    "image_file": "chitrojera_005109.jpg",
+    "question_bn": "ছবিতে বয়স্ক নারী কি দিচ্ছে?",
+    "answer_bn": "পুরস্কার",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "হ্যাঁ"
+  },
+  {
+    "image_file": "chitrojera_011229.jpg",
+    "question_bn": "ছবিতে প্রদর্শিত ব্যক্তি কোন জাতীয় পোশাক পরিধান করেছেন?",
+    "answer_bn": "পুঙ্গি মাফলার",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "হ্যাঁ"
+  },
+  {
+    "image_file": "chitrojera_009521.jpg",
+    "question_bn": "চিত্রে ফুলের রঙ কি?",
+    "answer_bn": "টকটকে লাল",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "লাল"
+  },
+  {
+    "image_file": "chitrojera_008691.jpg",
+    "question_bn": "ছবির মেয়েটি কি করছে?",
+    "answer_bn": "পানি ধরছে",
+    "answer_type": "action",
+    "source": "chitrojera",
+    "prediction": "কাঁচি পান করছে"
+  },
+  {
+    "image_file": "chitrojera_005575.jpg",
+    "question_bn": "ছবিতে দেখা নদীর ধরন কি?",
+    "answer_bn": "শান্ত",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "রান্নাঘর"
+  },
+  {
+    "image_file": "chitrojera_010948.jpg",
+    "question_bn": "ছেলেটি কী ধরনের পোশাক পরে আছে?",
+    "answer_bn": "গেঞ্জি প্যান্ট",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_009576.jpg",
+    "question_bn": "ছবিতে বালকদের মধ্যে কোন রঙের জামা পরা হয়েছে?",
+    "answer_bn": "বেগুনি, হলুদ",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_005387.jpg",
+    "question_bn": "বাচ্চাটি কিসের মধ্যে দাঁড়িয়ে আছে?",
+    "answer_bn": "বালতিতে",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "বাটি"
+  },
+  {
+    "image_file": "chitrojera_000878.jpg",
+    "question_bn": "ছবিতে কতগুলি গরু দেখা যাচ্ছে?",
+    "answer_bn": "তিনটি",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "৪"
+  },
+  {
+    "image_file": "chitrojera_008680.jpg",
+    "question_bn": "ছবিতে ব্যক্তিটি কি করছেন?",
+    "answer_bn": "মাছ ধরছেন",
+    "answer_type": "action",
+    "source": "chitrojera",
+    "prediction": "কাঁচি পরেছে"
+  },
+  {
+    "image_file": "chitrojera_002000.jpg",
+    "question_bn": "ছবিতে কয়টি বাচ্চা বই পড়ছে?",
+    "answer_bn": "২ টি",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "২"
+  },
+  {
+    "image_file": "chitrojera_000814.jpg",
+    "question_bn": "ছবিতে কতগুলো পেপসির বোতল রয়েছে?",
+    "answer_bn": "দুইটি",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "২"
+  },
+  {
+    "image_file": "chitrojera_006190.jpg",
+    "question_bn": "ছবিতে কোন ধরনের গাছ প্রাধান্য পেয়েছে?",
+    "answer_bn": "নারিকেল গাছ",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "পালঙ্ক"
+  },
+  {
+    "image_file": "chitrojera_000793.jpg",
+    "question_bn": "ছবিতে কত জন মহিলা বোরকা পরে রয়েছেন?",
+    "answer_bn": "তিন জন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "৪"
+  },
+  {
+    "image_file": "chitrojera_006944.jpg",
+    "question_bn": "ছবিতে ছেলেটি কোন জায়গায় দাঁড়িয়ে আছে?",
+    "answer_bn": "রাস্তায়",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাইরে"
+  },
+  {
+    "image_file": "chitrojera_010167.jpg",
+    "question_bn": "ছবিতে দেখা বিমানের রঙ কি?",
+    "answer_bn": "সাদা",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_002593.jpg",
+    "question_bn": "প্লেটের উপরে কি ধরণের কেক রাখা আছে?",
+    "answer_bn": "রেড ভেলভেট",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কাটা"
+  },
+  {
+    "image_file": "chitrojera_004360.jpg",
+    "question_bn": "ছবিটিতে পাহাড়ের উপর কটি রিসোর্টের ছাউনি দেখা যাচ্ছে?",
+    "answer_bn": "তিনটি",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_001276.jpg",
+    "question_bn": "ট্রেনের সিটে কয়জন মানুষ বসে আছে?",
+    "answer_bn": "দুইজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_009183.jpg",
+    "question_bn": "ছবিতে মহিলাটি কি করছেন?",
+    "answer_bn": "কাপড় শুঁকাচ্ছেন",
+    "answer_type": "action",
+    "source": "chitrojera",
+    "prediction": "কাঁচি"
+  },
+  {
+    "image_file": "chitrojera_005949.jpg",
+    "question_bn": "রামপাল বিদ্যুৎ কেন্দ্র চুক্তির প্রতিবাদে কোন কমিটির সদস্যরা মিছিল করছেন?",
+    "answer_bn": "জাতীয় ক",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "কার্মিনি"
+  },
+  {
+    "image_file": "chitrojera_002733.jpg",
+    "question_bn": "ছবিতে কী বিক্রি হচ্ছে?",
+    "answer_bn": "মাছ",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কাঠ"
+  },
+  {
+    "image_file": "chitrojera_011605.jpg",
+    "question_bn": "বাচ্চাটি কোথায় বসে আছে?",
+    "answer_bn": "বালতিতে",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "বাথরুম"
+  },
+  {
+    "image_file": "chitrojera_006184.jpg",
+    "question_bn": "ছবির মানুষগুলো কোন জায়গায় হাঁটছে?",
+    "answer_bn": "লবণ ক্ষেতের পাঁকি",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "রাত"
+  },
+  {
+    "image_file": "chitrojera_000502.jpg",
+    "question_bn": "মাঠে দাঁড়িয়ে থাকা ছেলেদের সংখ্যা কত?",
+    "answer_bn": "সাতজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_006396.jpg",
+    "question_bn": "ছবিতে ছোট মেয়েটি কোন জিনিসের সাথে ধাক্কা খেয়ে দাঁড়িয়ে আছে?",
+    "answer_bn": "গাছে",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "কাঁচি"
+  },
+  {
+    "image_file": "chitrojera_000918.jpg",
+    "question_bn": "ছবিতে কয়জন মানুষ দৃশ্যমান?",
+    "answer_bn": "দুইজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_011534.jpg",
+    "question_bn": "ছবির শিক্ষার্থীরা কোথায় বসে আছে?",
+    "answer_bn": "ক্লাসরুমে",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "বাইরে"
+  },
+  {
+    "image_file": "chitrojera_006806.jpg",
+    "question_bn": "ছবিতে বাঘটি কোন রাস্তা দিয়ে যাচ্ছে?",
+    "answer_bn": "বনের রাস্তা",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "গাড়ি"
+  },
+  {
+    "image_file": "chitrojera_006024.jpg",
+    "question_bn": "ছবিতে নারীরা কোন সময়ে হাঁটছে?",
+    "answer_bn": "সূর্যাস্তের সময়",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "পার্ক"
+  },
+  {
+    "image_file": "chitrojera_005892.jpg",
+    "question_bn": "ছবিতে কী ধরনের খাবার দেখা যাচ্ছে?",
+    "answer_bn": "মাংসের টুকরা",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কাপিয়ার"
+  },
+  {
+    "image_file": "chitrojera_005535.jpg",
+    "question_bn": "প্লেটে কি ধরনের খাবার দেখা যাচ্ছে?",
+    "answer_bn": "বিরিয়ানি, মুরগি",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কাটানো"
+  },
+  {
+    "image_file": "chitrojera_011139.jpg",
+    "question_bn": "ছবিতে যে নারী দাঁড়িয়ে আছেন তার পোশাকের রং কী?",
+    "answer_bn": "সবুজ",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_002824.jpg",
+    "question_bn": "প্লেটে কি ধরনের কেকের টুকরা আছে?",
+    "answer_bn": "সাদা কেকের",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_011837.jpg",
+    "question_bn": "ছবির মানুষটি কোথায় শুয়ে আছে?",
+    "answer_bn": "ফুটপাথে",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "বামে"
+  },
+  {
+    "image_file": "chitrojera_006905.jpg",
+    "question_bn": "ছবিতে কোন ধরনের ফুল দেখা যাচ্ছে?",
+    "answer_bn": "টিউলিপ",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "টিলিমোট"
+  },
+  {
+    "image_file": "chitrojera_007270.jpg",
+    "question_bn": "ছবিতে কোন যানটিতে মানুষটি বসে আছেন?",
+    "answer_bn": "নৌকা",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাইরে"
+  },
+  {
+    "image_file": "chitrojera_009872.jpg",
+    "question_bn": "মেয়েটি কোন রঙের শাড়ি পরেছে?",
+    "answer_bn": "লাল",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "লাল"
+  },
+  {
+    "image_file": "chitrojera_002674.jpg",
+    "question_bn": "ছবিতে কয়টি ডিম দেখা যাচ্ছে?",
+    "answer_bn": "দুটি",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_009874.jpg",
+    "question_bn": "ছবিতে দেখা ঘাসফড়িংটির প্রধান রঙ কী?",
+    "answer_bn": "হলুদ",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_004268.jpg",
+    "question_bn": "স্টিলের বাটিতে কি ধরণের খাবার আছে?",
+    "answer_bn": "পিজ্জা, মন্ড",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "পিজা"
+  },
+  {
+    "image_file": "chitrojera_001495.jpg",
+    "question_bn": "ছবিতে কতজন ছেলে বিল্ডিং এর উপরে আছেন?",
+    "answer_bn": "দুজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_006937.jpg",
+    "question_bn": "ছবিটিতে মানুষটি কোন পথ দিয়ে হাঁটছে?",
+    "answer_bn": "বাঁকা পথ",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "পার্ক"
+  },
+  {
+    "image_file": "chitrojera_006668.jpg",
+    "question_bn": "এই ছবিটি কোন জায়গার ছবি?",
+    "answer_bn": "স্কুল মাঠ",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাম"
+  },
+  {
+    "image_file": "chitrojera_003267.jpg",
+    "question_bn": "ছবিতে দেখা ছেলেটি কি করে আছে?",
+    "answer_bn": "হা করে আছে",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কাঁচি"
+  },
+  {
+    "image_file": "chitrojera_010636.jpg",
+    "question_bn": "ছবিতে দুজন মহিলাকে দেখা যাচ্ছে, তাদের পরিধেয় কাপড়ের রং কী?",
+    "answer_bn": "সাদা, সবুজ",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_009184.jpg",
+    "question_bn": "পুরুষটি কি করছে?",
+    "answer_bn": "ছবি আঁকছে",
+    "answer_type": "action",
+    "source": "chitrojera",
+    "prediction": "স্কিইং করছে"
+  },
+  {
+    "image_file": "chitrojera_007576.jpg",
+    "question_bn": "ছবিতে কোন ধরনের পিঠা দেখা যাচ্ছে?",
+    "answer_bn": "পাটিসাপটা",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "প্লেট"
+  },
+  {
+    "image_file": "chitrojera_000830.jpg",
+    "question_bn": "নৌকায় কতজন লোক বসে আছে?",
+    "answer_bn": "একজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_000125.jpg",
+    "question_bn": "ছবিতে কয়জন মানুষ রয়েছে?",
+    "answer_bn": "ছয়জন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "৬"
+  },
+  {
+    "image_file": "chitrojera_011452.jpg",
+    "question_bn": "ছবির মহিলা কোথায় দাঁড়িয়ে আছেন?",
+    "answer_bn": "ঘরের দরজার সামনে",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "বামে"
+  },
+  {
+    "image_file": "chitrojera_006420.jpg",
+    "question_bn": "কোন মেয়ে লাল জামা পরে আছে?",
+    "answer_bn": "মাঝখানের",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাম"
+  },
+  {
+    "image_file": "chitrojera_005878.jpg",
+    "question_bn": "ছবিটিতে কিসের ডেকে মানুষেরা দাঁড়িয়ে আছে?",
+    "answer_bn": "লঞ্চের",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "প্রাণী"
+  },
+  {
+    "image_file": "chitrojera_001065.jpg",
+    "question_bn": "ছবিতে দেখা যাচ্ছে, কতজন লোক জুতা নিয়ে বসে আছে?",
+    "answer_bn": "একজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "২"
+  },
+  {
+    "image_file": "chitrojera_000846.jpg",
+    "question_bn": "ছবিতে কতজন পুরুষ মিউজিক বাজাচ্ছে?",
+    "answer_bn": "৫ জন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_005618.jpg",
+    "question_bn": "ছবিটিতে রিক্সাওয়ালাগণ কিসের কাছে বসে আছেন?",
+    "answer_bn": "আগুন",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "মোটরসাইকেল"
+  },
+  {
+    "image_file": "chitrojera_009986.jpg",
+    "question_bn": "ছবিতে মহিলাটি কোন রঙের জামা পরে আছেন?",
+    "answer_bn": "বেগুনি",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "নীল"
+  },
+  {
+    "image_file": "chitrojera_005348.jpg",
+    "question_bn": "কাঠের টেবিলে কি ধরণের খাবার রয়েছে?",
+    "answer_bn": "রাইস ও ঝোল",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কাঠ"
+  },
+  {
+    "image_file": "chitrojera_009093.jpg",
+    "question_bn": "ছবিতে দেখা মহিলারা কি পরিবেশন করছেন?",
+    "answer_bn": "শাড়ি",
+    "answer_type": "action",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_011992.jpg",
+    "question_bn": "ফোনে কথা বলা ব্যক্তি কোথায় দাঁড়িয়ে আছে?",
+    "answer_bn": "লেকের পাড়ে",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "বামে"
+  },
+  {
+    "image_file": "chitrojera_003763.jpg",
+    "question_bn": "ছবিতে কি ধরনের ফসলের ক্ষেত দেখা যাচ্ছে?",
+    "answer_bn": "ধানের ক্ষেত",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_009444.jpg",
+    "question_bn": "পুরুষটির গলায় কী রঙের টাই রয়েছে?",
+    "answer_bn": "লাল",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_002712.jpg",
+    "question_bn": "ছবিতে শিশুটি কি খাচ্ছে?",
+    "answer_bn": "মুরগির মাংস",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_004018.jpg",
+    "question_bn": "বাটিতে কি ধরণের খাবার রয়েছে?",
+    "answer_bn": "ভাত ও মাছ",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কাটানো"
+  },
+  {
+    "image_file": "chitrojera_003072.jpg",
+    "question_bn": "বাক্সের উপর কি লেখা আছে?",
+    "answer_bn": "নাগা উইংস ব্যারেল",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_011377.jpg",
+    "question_bn": "ছবিতে পুরুষটি কোথায় বসে আছে?",
+    "answer_bn": "পুকুরের ঘাটে",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "বাম"
+  },
+  {
+    "image_file": "chitrojera_004729.jpg",
+    "question_bn": "ছবিতে দেখা যাচ্ছে কার হাতে কি আছে?",
+    "answer_bn": "টাকা",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "বেড়া"
+  },
+  {
+    "image_file": "chitrojera_008427.jpg",
+    "question_bn": "শিশুরা কী প্যাক করছে?",
+    "answer_bn": "ছিগারেট",
+    "answer_type": "action",
+    "source": "chitrojera",
+    "prediction": "কাঁচি"
+  },
+  {
+    "image_file": "chitrojera_005691.jpg",
+    "question_bn": "ছবির স্থাপত্যটির ধরণ কি?",
+    "answer_bn": "মসজিদ",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "বাম"
+  },
+  {
+    "image_file": "chitrojera_007186.jpg",
+    "question_bn": "ছবিতে লোকগুলো কোন ধরনের বিল্ডিংয়ের ভেতরে আছে?",
+    "answer_bn": "মসজিদে",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "কাঠ"
+  },
+  {
+    "image_file": "chitrojera_003324.jpg",
+    "question_bn": "ছবিতে দেখা যাচ্ছে কি ধরনের পরিবেশ?",
+    "answer_bn": "গাছপালা ঘেরা",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "বাতাস"
+  },
+  {
+    "image_file": "chitrojera_006313.jpg",
+    "question_bn": "ছবিতে কোন ধরনের ক্ষেত দেখা যাচ্ছে?",
+    "answer_bn": "সবুজ ধানের ক্ষেত",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "পালি"
+  },
+  {
+    "image_file": "chitrojera_008130.jpg",
+    "question_bn": "ছবিতে কৃষি জমি কোন ফসলে ভরা?",
+    "answer_bn": "ধান",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "পানি"
+  },
+  {
+    "image_file": "chitrojera_006776.jpg",
+    "question_bn": "চিত্রটি কোন স্থান থেকে তোলা হয়েছে?",
+    "answer_bn": "বিমানের জানালা",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বিমান"
+  },
+  {
+    "image_file": "chitrojera_011785.jpg",
+    "question_bn": "ছবিটিতে ব্যাঙটি কোথায় অবস্থান করছে?",
+    "answer_bn": "খোপের মধ্যে",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "বামে"
+  },
+  {
+    "image_file": "chitrojera_000117.jpg",
+    "question_bn": "জাহাজের পাশ দিয়ে কতগুলি পাখি উড়ছে?",
+    "answer_bn": "পাঁচটি",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_006893.jpg",
+    "question_bn": "এই ছবিতে দেখানো বাড়িটির বয়স কেমন?",
+    "answer_bn": "পুরাতন",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাতাস"
+  },
+  {
+    "image_file": "chitrojera_008175.jpg",
+    "question_bn": "ছবিতে কোন মহিলা বাচ্চা কোলে আছেন?",
+    "answer_bn": "ডান পাশের",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "কোনোটিই না"
+  },
+  {
+    "image_file": "chitrojera_005779.jpg",
+    "question_bn": "ছবিতে পথিক কি অবস্হায় আছেন?",
+    "answer_bn": "একাকী",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_003266.jpg",
+    "question_bn": "পানির পাশে এখানে কয়টি মানুষ দাঁড়িয়ে আছে?",
+    "answer_bn": "অনেক",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "১০"
+  },
+  {
+    "image_file": "chitrojera_006881.jpg",
+    "question_bn": "ছবিতে কোন প্রকৃতির দৃশ্য দেখা যাচ্ছে?",
+    "answer_bn": "পাহাড়ের ঝর্না",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_001081.jpg",
+    "question_bn": "ব্রীজের উপরে কতজন মানুষ হাঁটছে?",
+    "answer_bn": "দুজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_001540.jpg",
+    "question_bn": "ছবিতে কতজন মানুষ মাছ ধরছে?",
+    "answer_bn": "তিনজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_010535.jpg",
+    "question_bn": "কুকুরটির গলায় কী পরে আছে?",
+    "answer_bn": "কালো বেল্ট",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "বাইরে"
+  },
+  {
+    "image_file": "chitrojera_010958.jpg",
+    "question_bn": "মেয়েটি কি ধরনের পোশাক পরে আছে?",
+    "answer_bn": "জামা উরনা",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "কাঁচি"
+  },
+  {
+    "image_file": "chitrojera_001148.jpg",
+    "question_bn": "ছবিতে কতজন ছেলে কেকের সামনে পোজ দিয়েছে?",
+    "answer_bn": "নয়জন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১০"
+  },
+  {
+    "image_file": "chitrojera_007543.jpg",
+    "question_bn": "ছবিতে কোন ধরনের জলাধার দেখা যাচ্ছে?",
+    "answer_bn": "নদী",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "নৌকা"
+  },
+  {
+    "image_file": "chitrojera_005765.jpg",
+    "question_bn": "ছবিতে দুইজন ছেলে কি নিয়ে দাঁড়িয়ে আছে?",
+    "answer_bn": "টায়ার",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "হ্যাঁ"
+  },
+  {
+    "image_file": "chitrojera_001733.jpg",
+    "question_bn": "ছবিতে কতজন পুরুষ কাঁদার মাঝে কাজ করছেন?",
+    "answer_bn": "পাঁচজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১০"
+  },
+  {
+    "image_file": "chitrojera_002911.jpg",
+    "question_bn": "ওয়ালে কি লেখা আছে?",
+    "answer_bn": "বিদ্যা অন্ধকারে প্রদীপ",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "হ্যাঁ"
+  },
+  {
+    "image_file": "chitrojera_003009.jpg",
+    "question_bn": "ছবিতে কী ধরনের খাবার দেখা যাচ্ছে?",
+    "answer_bn": "সুশি",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "সালাদ"
+  },
+  {
+    "image_file": "chitrojera_006278.jpg",
+    "question_bn": "ছবিতে কোন ধরনের পণ্য প্রদর্শিত হচ্ছে?",
+    "answer_bn": "শুটকি মাছ",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "পানি"
+  },
+  {
+    "image_file": "chitrojera_002255.jpg",
+    "question_bn": "ছবিতে কতজন পুরুষ ক্যামেরা ও লাইট ধারণ করে রয়েছে?",
+    "answer_bn": "২ জন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "২"
+  },
+  {
+    "image_file": "chitrojera_007280.jpg",
+    "question_bn": "ছবিতে দেখা যাওয়া ফুলগুলি কোন জায়গায় পড়ে আছে?",
+    "answer_bn": "বালির উপর",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাতাস"
+  },
+  {
+    "image_file": "chitrojera_003709.jpg",
+    "question_bn": "ছবিতে কি ধরণের প্রাকৃতিক আকর্ষণ দেখা যাচ্ছে?",
+    "answer_bn": "ঝর্না",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_002192.jpg",
+    "question_bn": "ছবিতে কতজন কৃষক ধান কাটছে?",
+    "answer_bn": "৩ জন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_007026.jpg",
+    "question_bn": "ছবিতে কোন ধরনের আলো দিয়ে রাস্তা আলোকিত করা হয়েছে?",
+    "answer_bn": "লাল আলো",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "কার্সিং"
+  },
+  {
+    "image_file": "chitrojera_006546.jpg",
+    "question_bn": "ছবিতে কোন জিনিসটি দালানের ছাদে দেখা যাচ্ছে?",
+    "answer_bn": "গাছপালা",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাম"
+  },
+  {
+    "image_file": "chitrojera_008549.jpg",
+    "question_bn": "লোকটি কি থেকে জ্বালানি তেল আলাদা করছে?",
+    "answer_bn": "পানি",
+    "answer_type": "action",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_005342.jpg",
+    "question_bn": "ছবিতে দেখা দালানের ছাদে কি স্থাপিত আছে?",
+    "answer_bn": "সোলার পানেল",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_005191.jpg",
+    "question_bn": "ছবিতে কী ধরনের খাবার বাটিতে দেখা যাচ্ছে?",
+    "answer_bn": "রাবিওলি",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "পিজা"
+  },
+  {
+    "image_file": "chitrojera_010916.jpg",
+    "question_bn": "ছবিতে নারীর পরিহিত কানের দুলের রং কি?",
+    "answer_bn": "নীল",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_000635.jpg",
+    "question_bn": "এই ছবিতে কতজন পুরুষ ধানের বার বহন করছে?",
+    "answer_bn": "২ জন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "২"
+  },
+  {
+    "image_file": "chitrojera_001016.jpg",
+    "question_bn": "ছবিতে কতগুলি মাছ দেখা যাচ্ছে?",
+    "answer_bn": "তিনটি",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "৩"
+  },
+  {
+    "image_file": "chitrojera_008338.jpg",
+    "question_bn": "ছবিতে দেখা যাচ্ছে, দুজন বিক্রেতা কী বিক্রি করছে?",
+    "answer_bn": "ফুচকা ও বাদাম",
+    "answer_type": "action",
+    "source": "chitrojera",
+    "prediction": "কাঁচি"
+  },
+  {
+    "image_file": "chitrojera_009823.jpg",
+    "question_bn": "ছবিটিতে নৌকার রং কী?",
+    "answer_bn": "কালো",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_011332.jpg",
+    "question_bn": "ছবিতে পর্যটকরা কোথায় দাঁড়িয়ে আছে?",
+    "answer_bn": "সমুদ্র তীরе",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "বামে"
+  },
+  {
+    "image_file": "chitrojera_000539.jpg",
+    "question_bn": "নদীতে এই নৌকাটিতে কতজন মানুষ রয়েছে?",
+    "answer_bn": "২ জন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "২"
+  },
+  {
+    "image_file": "chitrojera_000055.jpg",
+    "question_bn": "ছবিতে কতজন শিশু আছে?",
+    "answer_bn": "দুইটি",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "২"
+  },
+  {
+    "image_file": "chitrojera_003579.jpg",
+    "question_bn": "প্লেটের উপর কী রকমের কেক রয়েছে?",
+    "answer_bn": "চকলেট কেক",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "ডোনাট"
+  },
+  {
+    "image_file": "chitrojera_007790.jpg",
+    "question_bn": "ঝর্নাটি কোন প্রাকৃতিক স্থানে অবস্থিত?",
+    "answer_bn": "পাহাড়ে",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "পানি"
+  },
+  {
+    "image_file": "chitrojera_001484.jpg",
+    "question_bn": "ছবিতে কতজন পুরুষ দাঁড়িয়ে আছেন?",
+    "answer_bn": "দুইজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "২"
+  },
+  {
+    "image_file": "chitrojera_006588.jpg",
+    "question_bn": "ছবিতে কুকুরগুলো কোন স্থান দিয়ে হাঁটছে?",
+    "answer_bn": "সমুদ্রের পাড়",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাতাস"
+  },
+  {
+    "image_file": "chitrojera_002832.jpg",
+    "question_bn": "প্লেটে থাকা খাবারটি কী?",
+    "answer_bn": "চিকেন বার্গার",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "স্যান্ডউইচ"
+  },
+  {
+    "image_file": "chitrojera_001810.jpg",
+    "question_bn": "ছবিতে কতজন ব্যক্তি চাল সংগ্রহ করছেন?",
+    "answer_bn": "তিনজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "৩"
+  },
+  {
+    "image_file": "chitrojera_007526.jpg",
+    "question_bn": "ছবিতে কোন সরকারি কলেজের ছবি দেখা যাচ্ছে?",
+    "answer_bn": "খাগড়াছড়ি সরকারি কলেজ",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "কার্টার"
+  },
+  {
+    "image_file": "chitrojera_004748.jpg",
+    "question_bn": "ছবিতে দেখা যাওয়া লোকটির পেশা কি?",
+    "answer_bn": "রিকশাওয়ালা",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "হ্যাঁ"
+  },
+  {
+    "image_file": "chitrojera_005750.jpg",
+    "question_bn": "গ্লাসগুলোতে কি ধরনের পানীয় আছে?",
+    "answer_bn": "সর্বত",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কাপ"
+  },
+  {
+    "image_file": "chitrojera_007192.jpg",
+    "question_bn": "নৌকাটি কোন জিনিস দিয়ে ঢাকা ছিল?",
+    "answer_bn": "নীল পলিথিন",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "কালো"
+  },
+  {
+    "image_file": "chitrojera_004612.jpg",
+    "question_bn": "ছবিতে ছেলেটি কখন দাঁড়িয়ে আছে?",
+    "answer_bn": "সন্ধ্যার সময়",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "রাতের দিকে"
+  },
+  {
+    "image_file": "chitrojera_005864.jpg",
+    "question_bn": "ছবিতে গাড়ির ড্যাশবোর্ডে কি রকমের ফুল দেখা যাচ্ছে?",
+    "answer_bn": "লাল হলুদ",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_010209.jpg",
+    "question_bn": "ছবির শিশুটির প্যান্টের রং কি?",
+    "answer_bn": "লাল",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "কালো"
+  },
+  {
+    "image_file": "chitrojera_011453.jpg",
+    "question_bn": "ছবিতে বাচ্চা মেয়েটি কোথায় বসে আছে?",
+    "answer_bn": "রিক্সার পিছনে",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "বাইরে"
+  },
+  {
+    "image_file": "chitrojera_010176.jpg",
+    "question_bn": "কমলারগুলি কি রঙের?",
+    "answer_bn": "হালুদ",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "কমলা"
+  },
+  {
+    "image_file": "chitrojera_007043.jpg",
+    "question_bn": "পার্কের ছবিতে কোন ধরনের গাছ দেখা যাচ্ছে?",
+    "answer_bn": "আম গাছ",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাদামী"
+  },
+  {
+    "image_file": "chitrojera_001678.jpg",
+    "question_bn": "চিত্রে কতজন পুরুষ চা বিক্রেতার চারপাশে দাঁড়িয়ে আছে?",
+    "answer_bn": "৫ জন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_005713.jpg",
+    "question_bn": "জেলেরা কি দিয়ে মাছ ধরছে?",
+    "answer_bn": "ধর্মজাল",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_000412.jpg",
+    "question_bn": "ছবিতে কয়জন মানুষ দাঁড়িয়ে আছে?",
+    "answer_bn": "বারো",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১০"
+  },
+  {
+    "image_file": "chitrojera_008795.jpg",
+    "question_bn": "ছবিতে কাজী কি করছেন?",
+    "answer_bn": "বিয়ে পরাচ্ছেন",
+    "answer_type": "action",
+    "source": "chitrojera",
+    "prediction": "হ্যাঁ"
+  },
+  {
+    "image_file": "chitrojera_006019.jpg",
+    "question_bn": "ছবিতে দেখা যাচ্ছে কোন ধরণের যানবাহন?",
+    "answer_bn": "গরুগাড়ি",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "গরু"
+  },
+  {
+    "image_file": "chitrojera_005759.jpg",
+    "question_bn": "পাত্রে খাবারের উপর কি ছড়ানো আছে?",
+    "answer_bn": "মাংস",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_001664.jpg",
+    "question_bn": "ছবিতে নদীর তীরে কতগুলো নৌকা দেখা যাচ্ছে?",
+    "answer_bn": "দশটি",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_011888.jpg",
+    "question_bn": "বাচ্চারা কোথায় বসে আছে?",
+    "answer_bn": "বেঞ্চে",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "বামে"
+  },
+  {
+    "image_file": "chitrojera_011261.jpg",
+    "question_bn": "চিত্রে মহিলাটি কোন ধরনের পোশাক পরে আছেন?",
+    "answer_bn": "আদিবাসী পোশাক",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "কাঁচি"
+  },
+  {
+    "image_file": "chitrojera_000512.jpg",
+    "question_bn": "নৌকায় মোট কতজন লোক রয়েছে?",
+    "answer_bn": "৪ জন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_003368.jpg",
+    "question_bn": "ছবিতে পুরুষটি কী চালাচ্ছেন?",
+    "answer_bn": "নৌকা",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "বাইরে"
+  },
+  {
+    "image_file": "chitrojera_003943.jpg",
+    "question_bn": "বয়স্ক লোকটি কি ধরনের উপহার দিচ্ছেন?",
+    "answer_bn": "বই",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কার্ড"
+  },
+  {
+    "image_file": "chitrojera_009331.jpg",
+    "question_bn": "ছবিতে ছেলেটির চুলের রঙ কি?",
+    "answer_bn": "কালো",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_003854.jpg",
+    "question_bn": "প্লেটে কি ধরণের মুরগীর ডিশ দেখা যাচ্ছে?",
+    "answer_bn": "মুরগীর ফ্রাই",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_008415.jpg",
+    "question_bn": "ছবির ব্যক্তি মঞ্চে কী পরিবেষণ করছেন?",
+    "answer_bn": "সঙ্গীত",
+    "answer_type": "action",
+    "source": "chitrojera",
+    "prediction": "কাঠ"
+  },
+  {
+    "image_file": "chitrojera_006988.jpg",
+    "question_bn": "ছবিটিতে কোন ঋতুতে গ্রামের রাস্তা দিয়ে বরজাত্রীরা যাচ্ছে?",
+    "answer_bn": "শীত",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "শর্টার"
+  },
+  {
+    "image_file": "chitrojera_010227.jpg",
+    "question_bn": "ছবিতে দেখা ট্রাকের রঙ কি?",
+    "answer_bn": "লাল",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "লাল"
+  },
+  {
+    "image_file": "chitrojera_006892.jpg",
+    "question_bn": "ছবিতে পাখিটি কোন জিনিসের ওপর বসে আছে?",
+    "answer_bn": "ডালে",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "কাঁচি"
+  },
+  {
+    "image_file": "chitrojera_001077.jpg",
+    "question_bn": "ছবিতে মোট কতগুলো নৌকা দেখা যাচ্ছে?",
+    "answer_bn": "দুটি",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_003812.jpg",
+    "question_bn": "ছবিতে দেখানো পুরুষটি কি ধরণের টুপি পরে আছেন?",
+    "answer_bn": "স্ট্রবেরি টুপি",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কার্টার"
+  },
+  {
+    "image_file": "chitrojera_007869.jpg",
+    "question_bn": "ছবিতে দেখা মানুষটি কোন ধরনের পথ ধরে হাঁটছেন?",
+    "answer_bn": "কাঁচা রাস্তা",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাম"
+  },
+  {
+    "image_file": "chitrojera_005855.jpg",
+    "question_bn": "ছবিতে দেখা বাচ্চা মেয়েটি কী দিয়ে মুখে চেয়ে আছে?",
+    "answer_bn": "খড়ি",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কাঁচি"
+  },
+  {
+    "image_file": "chitrojera_010011.jpg",
+    "question_bn": "এই ছবিতে দেখা গাছটির ফুলের রঙ কি?",
+    "answer_bn": "গোলাপি",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_006413.jpg",
+    "question_bn": "ছবির ছেলেটি কোন উদ্দেশ্যে পানি ছিটাচ্ছে?",
+    "answer_bn": "খেলার জন্য",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "পানি"
+  },
+  {
+    "image_file": "chitrojera_007574.jpg",
+    "question_bn": "ছবিতে কোন ধরনের বেঞ্চ দেখা যাচ্ছে?",
+    "answer_bn": "পেস্ট রঙের",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বেঞ্চ"
+  },
+  {
+    "image_file": "chitrojera_011251.jpg",
+    "question_bn": "ছবিতে ছেলেটি কি পরে আছে?",
+    "answer_bn": "লুঙ্গি",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_010016.jpg",
+    "question_bn": "মানুষগুলো কী রঙের জামা পরে আছে?",
+    "answer_bn": "লাল",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "লাল"
+  },
+  {
+    "image_file": "chitrojera_001816.jpg",
+    "question_bn": "ছবিতে মোট কতজন শিশু দেখা যাচ্ছে?",
+    "answer_bn": "দুইজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "২"
+  },
+  {
+    "image_file": "chitrojera_001930.jpg",
+    "question_bn": "ছবিতে কতজন পুরুষ রাস্তার পাশে বসে আছেন?",
+    "answer_bn": "৪ জন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_004452.jpg",
+    "question_bn": "ছবিতে কী ধরনের কার্পেট দেখা যাচ্ছে?",
+    "answer_bn": "নীল কার্পেট",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "বাইক"
+  },
+  {
+    "image_file": "chitrojera_000255.jpg",
+    "question_bn": "ছবিটিতে মোট কতজন মানুষ দাঁড়িয়ে আছে?",
+    "answer_bn": "সাতজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_001959.jpg",
+    "question_bn": "ছবিতে কতগুলি মেয়ে উপস্থিত?",
+    "answer_bn": "দুইটি",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_007483.jpg",
+    "question_bn": "ছবিতে ছেলেরা কোন খেলা খেলছে?",
+    "answer_bn": "ক্রিকেট",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "ফ্যাসবোর্ড"
+  },
+  {
+    "image_file": "chitrojera_003561.jpg",
+    "question_bn": "ছবিতে কী অস্ত যাচ্ছে?",
+    "answer_bn": "সুর্য",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "বাত"
+  },
+  {
+    "image_file": "chitrojera_004451.jpg",
+    "question_bn": "রেললাইনটির নীচে কি জিনিস পড়ে আছে?",
+    "answer_bn": "পাথর",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_009163.jpg",
+    "question_bn": "ছবিতে পাখিগুলো কি করছে?",
+    "answer_bn": "বসে আছে",
+    "answer_type": "action",
+    "source": "chitrojera",
+    "prediction": "পার্ক"
+  },
+  {
+    "image_file": "chitrojera_007449.jpg",
+    "question_bn": "মেয়েটি চুল কোন ধরনের রেখেছে?",
+    "answer_bn": "খোলা চুলে",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_010273.jpg",
+    "question_bn": "ছবির উপরের মেডেলের রঙ কি?",
+    "answer_bn": "সবুজ",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_002871.jpg",
+    "question_bn": "ছবিতে রক্তাক্ত ব্যক্তিকে কে ধরে আছে?",
+    "answer_bn": "টুপি পরা পুরুষ",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "মহিলা"
+  },
+  {
+    "image_file": "chitrojera_011599.jpg",
+    "question_bn": "বিড়ালটি কোথায় বসে আছে?",
+    "answer_bn": "পাঁজরের উপর",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "বামে"
+  },
+  {
+    "image_file": "chitrojera_007158.jpg",
+    "question_bn": "ছবিতে কোন গাছের উপরে পাখি বসে আছে?",
+    "answer_bn": "কৃষ্ণচূড়া",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "ফুলদানি"
+  },
+  {
+    "image_file": "chitrojera_010357.jpg",
+    "question_bn": "ছবিতে ছেলেটির পরিহিত জামার রঙ কি?",
+    "answer_bn": "লাল",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_004175.jpg",
+    "question_bn": "ছবিতে কটি নারীকে হেঁটে যেতে দেখা যাচ্ছে?",
+    "answer_bn": "দুই",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_010975.jpg",
+    "question_bn": "ছবিতে দেখা যাচ্ছে ছেলেটি কি পরে আছে?",
+    "answer_bn": "চশমা",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_005051.jpg",
+    "question_bn": "ছবিতে দেখানো ট্রেন স্টেশনের নাম কি?",
+    "answer_bn": "শ্রীমঙ্গল",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "স্টেশন"
+  },
+  {
+    "image_file": "chitrojera_002479.jpg",
+    "question_bn": "ছবিতে ট্রাকের পাশে কতজন লোক দাঁড়িয়ে আছেন?",
+    "answer_bn": "দশজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১০"
+  },
+  {
+    "image_file": "chitrojera_002143.jpg",
+    "question_bn": "ছবিতে শিশুদের মধ্যে কতজন ঘুড়ি উড়াচ্ছে?",
+    "answer_bn": "দুইজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "২"
+  },
+  {
+    "image_file": "chitrojera_010700.jpg",
+    "question_bn": "ছবিতে ডানদিকের ব্যক্তি কি পরে বসে আছেন?",
+    "answer_bn": "পাঞ্জাবী",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_003766.jpg",
+    "question_bn": "গেটের উপরে কি লেখা আছে?",
+    "answer_bn": "দুর্গাবাড়ি",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "হ্যাঁ"
+  },
+  {
+    "image_file": "chitrojera_003343.jpg",
+    "question_bn": "এই ছবিতে খাবারের সাথে কী ধরনের পানীয় দেখতে পাওয়া যাচ্ছে?",
+    "answer_bn": "ফলের পানীয়",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কাটানো"
+  },
+  {
+    "image_file": "chitrojera_002539.jpg",
+    "question_bn": "ছবিতে সূর্যাস্ত নাকি সূর্যোদয় দেখা যাচ্ছে?",
+    "answer_bn": "সূর্যোদয়",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "সূর্যোদয়"
+  },
+  {
+    "image_file": "chitrojera_011363.jpg",
+    "question_bn": "ছবিতে নৌকাগুলি কোথায় অবস্থিত?",
+    "answer_bn": "নদীর তিরে",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "বামে"
+  },
+  {
+    "image_file": "chitrojera_000249.jpg",
+    "question_bn": "ছবিতে কত প্রকারের মিষ্টি দেখানো হয়েছে?",
+    "answer_bn": "তিন প্রকার",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_006819.jpg",
+    "question_bn": "এই পুরনো বাড়ীটি কোন শৈলীতে নির্মিত?",
+    "answer_bn": "মোঘল শৈলী",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বামে"
+  },
+  {
+    "image_file": "chitrojera_002062.jpg",
+    "question_bn": "ছবিতে কয়জন ছেলে রেল লাইনের উপরে বসে আছেন?",
+    "answer_bn": "তিনজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_004297.jpg",
+    "question_bn": "ছেলেটি কী ধরনের টুপি পরে আছে?",
+    "answer_bn": "লাল টুপি",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কালো"
+  },
+  {
+    "image_file": "chitrojera_003517.jpg",
+    "question_bn": "ছবিতে কী দেখা যাচ্ছে?",
+    "answer_bn": "হেলিকপ্টার",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "হিজবি"
+  },
+  {
+    "image_file": "chitrojera_010231.jpg",
+    "question_bn": "বিড়ালটি কোন রঙের?",
+    "answer_bn": "সাদা",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_000823.jpg",
+    "question_bn": "ছবিতে কয়জন ব্যক্তি ক্যামেরা ধরে আছে?",
+    "answer_bn": "একজন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_007554.jpg",
+    "question_bn": "ছেলেটি কোন জিনিস হাতে ধরে আছে?",
+    "answer_bn": "মোবাইল",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "কম্পিউটার"
+  },
+  {
+    "image_file": "chitrojera_003769.jpg",
+    "question_bn": "পুরুস্কার বিতরণী অনুষ্ঠানে কজন পুরুষ উপস্থিত রয়েছে?",
+    "answer_bn": "৩ জন",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "মহিলা"
+  },
+  {
+    "image_file": "chitrojera_006617.jpg",
+    "question_bn": "খাবারের উপর কোন ধরনের চামচ রাখা আছে?",
+    "answer_bn": "প্লাস্টিকের কাটা",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "কাঁটাচামচ"
+  },
+  {
+    "image_file": "chitrojera_005390.jpg",
+    "question_bn": "ছবিতে কি আরও কেউ আছেন?",
+    "answer_bn": "হ্যাঁ",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_004300.jpg",
+    "question_bn": "মহিলার মাথার উপর কি আছে?",
+    "answer_bn": "ব্যান্ডেজ",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কাঁচি"
+  },
+  {
+    "image_file": "chitrojera_006971.jpg",
+    "question_bn": "মহিলাটি কোন খেলা খেলছেন?",
+    "answer_bn": "ভলিবল",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বেসবল"
+  },
+  {
+    "image_file": "chitrojera_010257.jpg",
+    "question_bn": "ছবিতে প্লেটটির রঙ কী?",
+    "answer_bn": "সাদা",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_003556.jpg",
+    "question_bn": "ছবিতে পানির নিচে কি দেখা যাচ্ছে?",
+    "answer_bn": "পাথর",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_000301.jpg",
+    "question_bn": "ছবিটিতে মোট কতজন ছেলে দাঁড়িয়ে আছে?",
+    "answer_bn": "৮ জন",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_008529.jpg",
+    "question_bn": "মহিলাটি কি করছেন?",
+    "answer_bn": "ছবি দেখা",
+    "answer_type": "action",
+    "source": "chitrojera",
+    "prediction": "বাইরে আছে"
+  },
+  {
+    "image_file": "chitrojera_009348.jpg",
+    "question_bn": "বৃদ্ধা মহিলাটি কি রঙের শাড়ি পরেছেন?",
+    "answer_bn": "সবুজ",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "কালো"
+  },
+  {
+    "image_file": "chitrojera_001931.jpg",
+    "question_bn": "ছবিতে কতগুলি চপস্টিক দেখা যাচ্ছে?",
+    "answer_bn": "চারটি",
+    "answer_type": "numeric",
+    "source": "chitrojera",
+    "prediction": "১"
+  },
+  {
+    "image_file": "chitrojera_006002.jpg",
+    "question_bn": "ছবিটি কোন সময়ের?",
+    "answer_bn": "পড়ন্ত বিকেল",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "শর্টিং"
+  },
+  {
+    "image_file": "chitrojera_008838.jpg",
+    "question_bn": "জানালা দিয়ে কে কি করছেন?",
+    "answer_bn": "সেলাই করছেন",
+    "answer_type": "action",
+    "source": "chitrojera",
+    "prediction": "বাইরে"
+  },
+  {
+    "image_file": "chitrojera_007667.jpg",
+    "question_bn": "ছবিতে দেখা যাচ্ছে কোন ধরনের জলাশয়?",
+    "answer_bn": "পুকুর",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাদামী"
+  },
+  {
+    "image_file": "chitrojera_010314.jpg",
+    "question_bn": "ছবিতে পিঁপড়ার রঙ কি?",
+    "answer_bn": "লাল",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "লাল"
+  },
+  {
+    "image_file": "chitrojera_006197.jpg",
+    "question_bn": "সরিষা ক্ষেতে ছেলেরা কোন পতাকা ধরে আছে?",
+    "answer_bn": "বাংলাদেশের",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাম"
+  },
+  {
+    "image_file": "chitrojera_004662.jpg",
+    "question_bn": "ছবিতে আকাশে কি দেখা যাচ্ছে?",
+    "answer_bn": "অনেক পাখি",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_003735.jpg",
+    "question_bn": "নৌকাটি কিসের উপরে ভাসছে?",
+    "answer_bn": "জলে",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "পানি"
+  },
+  {
+    "image_file": "chitrojera_009146.jpg",
+    "question_bn": "ছবিতে শিশুটি কী করছে?",
+    "answer_bn": "মাকে ধরে দাঁড়িয়ে আছে",
+    "answer_type": "action",
+    "source": "chitrojera",
+    "prediction": "বাঁচাচ্ছে"
+  },
+  {
+    "image_file": "chitrojera_004673.jpg",
+    "question_bn": "প্লেটের উপর কি ধরণের খাবার দেখা যাচ্ছে?",
+    "answer_bn": "মাশরুম ও গাজর",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "সালাদ"
+  },
+  {
+    "image_file": "chitrojera_006283.jpg",
+    "question_bn": "এই ছবিতে পাখিগুলি কোন জিনিসের উপর বসে আছে?",
+    "answer_bn": "মাটির পাত্রে",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাতাস"
+  },
+  {
+    "image_file": "chitrojera_005401.jpg",
+    "question_bn": "ছবিতে মেয়েটির উপরে কি ধরনের আলো পড়েছে?",
+    "answer_bn": "লাল আলো",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কাঁচি"
+  },
+  {
+    "image_file": "chitrojera_007421.jpg",
+    "question_bn": "প্লেটে রাখা খাবারগুলোর মধ্যে কোন আইটেমটি ঝাল দেখতে?",
+    "answer_bn": "পিজ্জা Slice",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "কাঁটাচামা"
+  },
+  {
+    "image_file": "chitrojera_004188.jpg",
+    "question_bn": "বৃদ্ধ লোকটির গলায় কি ধরনের গামছা রয়েছে?",
+    "answer_bn": "সবুজ-নীল গামছা",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কোনোটিই না"
+  },
+  {
+    "image_file": "chitrojera_005986.jpg",
+    "question_bn": "ছবিতে কোন ধরনের নাস্তা দেখা যাচ্ছে?",
+    "answer_bn": "সকালের নাস্তা",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "পানি"
+  },
+  {
+    "image_file": "chitrojera_009719.jpg",
+    "question_bn": "ছবিতে আহত পুলিশের গায়ের রঙ কি?",
+    "answer_bn": "লাল",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  },
+  {
+    "image_file": "chitrojera_002782.jpg",
+    "question_bn": "ছবিতে দেখা মসজিদটির মেঝে কীসের দ্বারা আবৃত?",
+    "answer_bn": "কার্পেট",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কাঁচি"
+  },
+  {
+    "image_file": "chitrojera_008195.jpg",
+    "question_bn": "ছবিতে মাঝি কী করছেন?",
+    "answer_bn": "নৌকা বাইছেন",
+    "answer_type": "action",
+    "source": "chitrojera",
+    "prediction": "বাইরে আছে"
+  },
+  {
+    "image_file": "chitrojera_010453.jpg",
+    "question_bn": "ছবিতে বর্ণিত দুই মহিলা কীভাবে পোশাক পরিহিত?",
+    "answer_bn": "শারি",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "হ্যাঁ"
+  },
+  {
+    "image_file": "chitrojera_011650.jpg",
+    "question_bn": "মেয়েটি কোথায় আনন্দ করছে?",
+    "answer_bn": "দোলনায়",
+    "answer_type": "spatial",
+    "source": "chitrojera",
+    "prediction": "বাইরে"
+  },
+  {
+    "image_file": "chitrojera_011008.jpg",
+    "question_bn": "ছবিতে দেখা বৃদ্ধ ব্যক্তি কি পরিহিত আছেন?",
+    "answer_bn": "লুঙ্গি",
+    "answer_type": "clothing",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_005486.jpg",
+    "question_bn": "ছবিতে বর্ণিত লোকটি কি সময়ে ঝুড়ি নিয়ে যাচ্ছে?",
+    "answer_bn": "সন্ধার সময়",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "না"
+  },
+  {
+    "image_file": "chitrojera_005622.jpg",
+    "question_bn": "মহিলাটি কিসে ধরে দাঁড়িয়ে আছেন?",
+    "answer_bn": "বেড়া",
+    "answer_type": "image content",
+    "source": "chitrojera",
+    "prediction": "কাঁচি"
+  },
+  {
+    "image_file": "chitrojera_008352.jpg",
+    "question_bn": "ছবিতে পুরুষটি কীভাবে সফর করছেন?",
+    "answer_bn": "মোটর সাইকেলে",
+    "answer_type": "action",
+    "source": "chitrojera",
+    "prediction": "বাইরে"
+  },
+  {
+    "image_file": "chitrojera_006910.jpg",
+    "question_bn": "ছবিতে দেখা মানুষগুলো কোন পরিবেশে হাঁটছে?",
+    "answer_bn": "পুকুরের পাশে",
+    "answer_type": "type",
+    "source": "chitrojera",
+    "prediction": "বাতাস"
+  },
+  {
+    "image_file": "chitrojera_010352.jpg",
+    "question_bn": "বাটির রঙ কী?",
+    "answer_bn": "লাল",
+    "answer_type": "color",
+    "source": "chitrojera",
+    "prediction": "সাদা"
+  }
+]

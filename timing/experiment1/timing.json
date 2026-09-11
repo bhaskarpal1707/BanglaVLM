@@ -1,0 +1,10 @@
+{
+  "dataset_download": 3497.0237805369998,
+  "preprocessing": 7.223409661000005,
+  "model_loading": 188.47590155599983,
+  "baseline_inference": 338.6382317939997,
+  "training": 9191.221205761,
+  "evaluation": 4408.473708783,
+  "visualization": 2.5426735239962,
+  "baseline_inference_v2": 284.04186879199915
+}

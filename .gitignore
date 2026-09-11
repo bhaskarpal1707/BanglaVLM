@@ -1,0 +1,23 @@
+# Exclude heavy folders, datasets, logs & models completely
+checkpoints/
+data/
+hf_datasets_cache/
+hf datasets cache/
+hf_home/
+hf home/
+logs/
+models/
+
+# Exclude existing notebook contents, but keep the folder structure via .gitkeep
+notebooks/*
+!notebooks/.gitkeep
+
+# System & Weight files
+*.safetensors
+*.bin
+*.pt
+*.pth
+.cache/
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/

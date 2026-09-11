@@ -1,0 +1,11 @@
+{
+  "n_records": 12231,
+  "missing_images": [],
+  "corrupt_images": [],
+  "empty_questions": 0,
+  "empty_answers": 0,
+  "duplicate_qa_pairs": 0,
+  "duplicate_images_referenced": 0,
+  "n_unique_images_referenced": 12231,
+  "n_invalid_paths": 0
+}

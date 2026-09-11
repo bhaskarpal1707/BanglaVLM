@@ -1,0 +1,74 @@
+[
+  {
+    "model": "Base SmolVLM2",
+    "test_set": "Bangla-Bayanno",
+    "exact_match": 0.0,
+    "normalized_exact_match": 0.0,
+    "rouge_l": 0.0005714285714285715,
+    "n": 500
+  },
+  {
+    "model": "Base SmolVLM2",
+    "test_set": "ChitroJera",
+    "exact_match": 0.0,
+    "normalized_exact_match": 0.0,
+    "rouge_l": 0.0013333333333333333,
+    "n": 500
+  },
+  {
+    "model": "Base SmolVLM2",
+    "test_set": "BanglaVerse",
+    "exact_match": 0.0,
+    "normalized_exact_match": 0.0,
+    "rouge_l": 0.0054714285714285715,
+    "n": 500
+  },
+  {
+    "model": "BanglaVLM-v1",
+    "test_set": "Bangla-Bayanno",
+    "exact_match": 0.342,
+    "normalized_exact_match": 0.342,
+    "rouge_l": 0.3473333333333333,
+    "n": 500
+  },
+  {
+    "model": "BanglaVLM-v1",
+    "test_set": "ChitroJera",
+    "exact_match": 0.032,
+    "normalized_exact_match": 0.032,
+    "rouge_l": 0.051666666666666666,
+    "n": 500
+  },
+  {
+    "model": "BanglaVLM-v1",
+    "test_set": "BanglaVerse",
+    "exact_match": 0.0,
+    "normalized_exact_match": 0.0,
+    "rouge_l": 0.0036666666666666666,
+    "n": 500
+  },
+  {
+    "model": "BanglaVLM-v2",
+    "test_set": "Bangla-Bayanno",
+    "exact_match": 0.312,
+    "normalized_exact_match": 0.312,
+    "rouge_l": 0.3193333333333333,
+    "n": 500
+  },
+  {
+    "model": "BanglaVLM-v2",
+    "test_set": "ChitroJera",
+    "exact_match": 0.06,
+    "normalized_exact_match": 0.06,
+    "rouge_l": 0.09359999999999999,
+    "n": 500
+  },
+  {
+    "model": "BanglaVLM-v2",
+    "test_set": "BanglaVerse",
+    "exact_match": 0.004,
+    "normalized_exact_match": 0.004,
+    "rouge_l": 0.015571428571428571,
+    "n": 500
+  }
+]
