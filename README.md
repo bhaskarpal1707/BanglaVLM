@@ -1,5 +1,7 @@
 #   BanglaVLM
 
+![BanglaVLM](./Header.png)
+
 ## Vision-Language Fine-Tuning & Multi-Dataset Evaluation for Bengali
 
 <p align="center">
